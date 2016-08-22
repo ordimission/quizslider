@@ -1,5 +1,6 @@
- {
-    "title": "bible_deb",
+{
+    "name": "bible_deb",
+    "title": "Bible niveau débutant",
     "slide": [
       {
         "number": "1",

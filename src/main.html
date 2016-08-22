@@ -94,7 +94,11 @@
     <!-- main script -->
     <script type="text/javascript">
         $(document).ready(function () {
-            $.getJSON("./Data/evangile_deb.json", getData)
+            var story = getQueryVariable("story");
+            if (story==="undefined") {
+                story = "evangile_deb";
+            }
+            $.getJSON("./Data/"+story+".json", getData)
                 .done(navigate);
         });
     </script>
