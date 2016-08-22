@@ -6,7 +6,7 @@
 
 var getData = function (result) {
     var items = [];
-    
+
     $.each(result.slide, function (i, slide) {
 
         items.push("<li>");
@@ -18,7 +18,7 @@ var getData = function (result) {
         doText(slide, items);
 
         // choice
-        doChoice(slide, items);
+        doChoice(slide, items, true);
 
         // text
         doComment(slide, items);
@@ -48,11 +48,21 @@ var doText = function (slide, items) {
     }
 }
 
-var doChoice = function (slide, items) {
+var doChoice = function (slide, items, showAnswer) {
+    var options = JSON.parse(localStorage.getItem('options'));
+
     if (typeof slide.choice !== "undefined") {
         items.push("<form>");
         $.each(slide.choice, function (j, ch) {
-            items.push("<p><input type='checkbox'>&nbsp;");
+            if (options.mode === "learning"||showAnswer) {
+                if (ch.answer === "true") {
+                    items.push("<p><input type='checkbox' checked='true'/>&nbsp;");
+                } else {
+                    items.push("<p><input type='checkbox'/>&nbsp;");
+                }
+            } else {
+                items.push("<p><input type='checkbox'/>&nbsp;");
+            }
             items.push(ch.text);
             items.push("</p>")
         });
@@ -72,7 +82,7 @@ var storeOptions = function () {
     options.mode = getQueryVariable("mode");
     options.select = getQueryVariable("select");
     options.order = getQueryVariable("order");
-    
+
     var optionsToStore = JSON.stringify(options);
 
     localStorage.setItem('options', optionsToStore);
