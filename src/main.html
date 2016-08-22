@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/bootstrap-responsive.min.css" rel="stylesheet" />
+    <link href="Content/base-admin.css" rel="stylesheet" />
+    <link href="Content/base-admin-responsive.css" rel="stylesheet" />
+    <link href="Content/pages/dashboard.css" rel="stylesheet" />
+
+    <link href="Content/slider/flexslider.css" rel="stylesheet" />
+   
+    <style>
+        p {
+            font-size: 2em;
+            text-align: left;
+            padding-left: .5em;
+        }
+    </style>
+</head>
+<body>
+ 
+
+    <div class="main">
+
+        <div class="main-inner">
+
+            <div class="container">
+
+                <div class="row">
+                    <div class="span12" style="padding-top:10px;">
+                        <div class="widget" >
+
+                            <div class="widget-header">
+
+                                <h3></h3>
+                            </div>
+                            <!-- /widget-header -->
+
+                            <div class="widget-content ">
+                                <section class="slider">
+                                    <div id="slider" class="flexslider">
+                                    </div>
+                                 
+                                </section>
+
+
+                            </div>
+                            <!-- /widget-content -->
+
+                        </div>
+                        <!-- /widget -->
+                        <!-- /widget-content -->
+                        <!-- /widget -->
+                    </div>
+
+                </div>
+
+
+
+            </div>
+            <!-- /row -->
+
+        </div>
+        <!-- /container -->
+
+    </div>
+    <!-- /main-inner -->
+    <!-- /main -->
+
+
+
+    <!-- /extra -->
+
+
+    <!-- javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+
+    <script src="Scripts/js/jquery-1.7.2.min.js"></script>
+    <script src="Scripts/jquery.validate.min.js"></script>
+    <script src="Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="Scripts/js/bootstrap.js"></script>
+    <script src="Scripts/js/base.js"></script>
+    <script src="Scripts/slider/jquery.flexslider.js"></script>
+    <script src="Scripts/main.js"></script>
+    
+    <!-- main script -->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $.getJSON("./Data/Ausweise.json", getData)
+                .done(navigate);
+        });
+    </script>
+
+</body>
+</html>
+
