@@ -4,7 +4,7 @@
       {
         "number": "1",
         "text": "Je suis la mère de Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Marthe",
             "answer": "false"
@@ -27,7 +27,7 @@
       {
         "number": "2",
         "text": "Quel est le premier livre du Nouveau Testament ?",
-        "select": [
+        "choice": [
           {
             "text": "L'Évangile de Marc",
             "answer": "false"
@@ -50,7 +50,7 @@
       {
         "number": "3",
         "text": "Quel est le premier livre du Nouveau Testament ?",
-        "select": [
+        "choice": [
           {
             "text": "L'évangile de Marc",
             "answer": "false"
@@ -73,7 +73,7 @@
       {
         "number": "4",
         "text": "Comment se nomme la première femme légitime d'Abraham ?",
-        "select": [
+        "choice": [
           {
             "text": "Sara",
             "answer": "true"
@@ -96,7 +96,7 @@
       {
         "number": "5",
         "text": "Sur le point de pénétrer en Égypte, Abraham craignit que la beauté de sa femme n'incitât les Égyptiens à le tuer. Il la fit ...",
-        "select": [
+        "choice": [
           {
             "text": "cacher à Canaan",
             "answer": "false"
@@ -119,7 +119,7 @@
       {
         "number": "6",
         "text": "Qui a trahi Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Jacques, fils de Zébédée",
             "answer": "false"
@@ -142,7 +142,7 @@
       {
         "number": "7",
         "text": "Dans quelle ville de la Palestine Jésus est-il né ?",
-        "select": [
+        "choice": [
           {
             "text": "Bethléem",
             "answer": "true"
@@ -165,7 +165,7 @@
       {
         "number": "8",
         "text": "Combien de personnes sont-elles montées dans l'arche avant le déluge ?",
-        "select": [
+        "choice": [
           {
             "text": "9",
             "answer": "false"
@@ -188,7 +188,7 @@
       {
         "number": "9",
         "text": "Combien de commandements Dieu donna-t-il à son serviteur Moïse pour le peuple ?",
-        "select": [
+        "choice": [
           {
             "text": "20 commandements",
             "answer": "false"
@@ -211,7 +211,7 @@
       {
         "number": "10",
         "text": "Frère de Marie et de Marthe, il fut ressuscité des morts par Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Lazare le mendiant",
             "answer": "false"
@@ -234,7 +234,7 @@
       {
         "number": "11",
         "text": "Jésus jeûna dans le désert ............ jours et .............. nuits avant le début de son ministère pour être tenté par le diable.",
-        "select": [
+        "choice": [
           {
             "text": "30",
             "answer": "false"
@@ -257,7 +257,7 @@
       {
         "number": "12",
         "text": "Quel est le nom du neveu d'Abraham ?",
-        "select": [
+        "choice": [
           {
             "text": "Lot",
             "answer": "true"
@@ -280,7 +280,7 @@
       {
         "number": "13",
         "text": "Avancée en âge, elle enfanta un fils par la grâce de Dieu. Femme de Zacharie ?",
-        "select": [
+        "choice": [
           {
             "text": "Sara",
             "answer": "false"
@@ -303,7 +303,7 @@
       {
         "number": "14",
         "text": "Élisabeth, femme de Zacharie, enfanta dans sa vieillesse un fils. Qui est son fils ?",
-        "select": [
+        "choice": [
           {
             "text": "Jean l'apôtre",
             "answer": "false"
@@ -326,7 +326,7 @@
       {
         "number": "15",
         "text": "Premier patriarche d'Israël et l'ancêtre des Hébreux, originaire d'Ur en Chaldée, il engendra Isaac et était prêt à l'offrir en sacrifice ?",
-        "select": [
+        "choice": [
           {
             "text": "Jacob",
             "answer": "false"
@@ -349,7 +349,7 @@
       {
         "number": "16",
         "text": "Quel prophète fut jeté dans la fosse aux lions ?",
-        "select": [
+        "choice": [
           {
             "text": "Ezéchiel",
             "answer": "false"
@@ -372,7 +372,7 @@
       {
         "number": "17",
         "text": "Il sortit de la barque, marcha sur les eaux pour aller vers Jésus. Le vent était fort et l'apôtre eut peur. Il commença à s'enfoncer. Qui est-il ?",
-        "select": [
+        "choice": [
           {
             "text": "Matthieu",
             "answer": "false"
@@ -395,7 +395,7 @@
       {
         "number": "18",
         "text": "Il fut le premier apôtre qui scella son témoignage de son sang ?",
-        "select": [
+        "choice": [
           {
             "text": "André",
             "answer": "false"
@@ -418,7 +418,7 @@
       {
         "number": "19",
         "text": "Dans quel livre de la Bible trouve-t-on le récit de l'histoire de Paul ?",
-        "select": [
+        "choice": [
           {
             "text": "Evangile de Marc",
             "answer": "false"
@@ -441,7 +441,7 @@
       {
         "number": "20",
         "text": "Quel livre se trouve entre l'évangile de Matthieu et l'évangile de Luc ?",
-        "select": [
+        "choice": [
           {
             "text": "Jean",
             "answer": "false"
@@ -464,7 +464,7 @@
       {
         "number": "21",
         "text": "A qui Jésus a-t-il dit: \" Le coq ne chantera pas aujourd'hui que tu n'aies nié trois fois de me connaître.\" ?",
-        "select": [
+        "choice": [
           {
             "text": "Barthélemy",
             "answer": "false"
@@ -487,7 +487,7 @@
       {
         "number": "22",
         "text": "Dans quel livre de la Bible trouve-t-on le récit de l'histoire de Samson ?",
-        "select": [
+        "choice": [
           {
             "text": "Aggée",
             "answer": "false"
@@ -510,7 +510,7 @@
       {
         "number": "23",
         "text": "Quelle femme Adam a-t-il appelée \"Mère de tous les vivants \" ?",
-        "select": [
+        "choice": [
           {
             "text": "Ada",
             "answer": "false"
@@ -533,7 +533,7 @@
       {
         "number": "24",
         "text": "Joseph, le fiancé de Marie, voulait rompre secrètement avec elle lorsqu'elle lui apprit qu'elle était enceinte. Pourquoi ne l'a-t-il pas fait ?",
-        "select": [
+        "choice": [
           {
             "text": "Il était trop timide.",
             "answer": "false"
@@ -556,7 +556,7 @@
       {
         "number": "25",
         "text": "Que signifie le nom EMMANUEL ?",
-        "select": [
+        "choice": [
           {
             "text": "Dieu donne",
             "answer": "false"
@@ -579,7 +579,7 @@
       {
         "number": "26",
         "text": "Qui a averti Joseph de quitter Bethléem et de fuir en Égypte car Hérode se préparait à faire massacrer tous les enfants de 2 ans et moins ?",
-        "select": [
+        "choice": [
           {
             "text": "Un ange du Seigneur",
             "answer": "true"
@@ -602,7 +602,7 @@
       {
         "number": "27",
         "text": "Vêtu de vêtement de poils de chameau, se nourrissant de sauterelles et de miel sauvage, il prêchait dans le désert de Judée. Qui est-ce ?",
-        "select": [
+        "choice": [
           {
             "text": "Jean-Baptiste",
             "answer": "true"
@@ -625,7 +625,7 @@
       {
         "number": "28",
         "text": "......... vos ennemis, ........... ceux qui vous maudissent, faites .......... à ceux qui vous haïssent et ...... pour ceux qui vous maltraitent.",
-        "select": [
+        "choice": [
           {
             "text": "Aimez, bénissez, du bien, priez",
             "answer": "true"
@@ -648,7 +648,7 @@
       {
         "number": "29",
         "text": "Lorsque vous priez, ne soyez pas comme .......... qui aiment à prier debout dans les synagogues et aux coins des rues pour être vus des hommes.",
-        "select": [
+        "choice": [
           {
             "text": "ceux-là",
             "answer": "false"
@@ -671,7 +671,7 @@
       {
         "number": "30",
         "text": "\"Ne vous amassez pas ........... sur la terre, où la teigne et la rouille détruisent, et où les voleurs percent et dérobent; mais......",
-        "select": [
+        "choice": [
           {
             "text": "des trésors",
             "answer": "true"
@@ -694,7 +694,7 @@
       {
         "number": "31",
         "text": "Édifice religieux, où les Juifs se réunissaient le jour du sabbat et les jours de fête, pour prier et pour entendre la lecture de l'Ancien Testament.",
-        "select": [
+        "choice": [
           {
             "text": "Synagogue",
             "answer": "true"
@@ -717,7 +717,7 @@
       {
         "number": "32",
         "text": "Avant la construction du tabernacle, Dieu y rencontrait Moïse ?",
-        "select": [
+        "choice": [
           {
             "text": "Montagne du Sinaï",
             "answer": "false"
@@ -740,7 +740,7 @@
       {
         "number": "33",
         "text": "Quel est le neuvième livre du Nouveau Testament ?",
-        "select": [
+        "choice": [
           {
             "text": "Actes des Apôtres",
             "answer": "false"
@@ -763,7 +763,7 @@
       {
         "number": "34",
         "text": "Quel métier exerçait le père de Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Charpentier",
             "answer": "true"
@@ -786,7 +786,7 @@
       {
         "number": "35",
         "text": "Quel est l'homme qui fut relâché à la place de Jésus, à la demande de la foule ?",
-        "select": [
+        "choice": [
           {
             "text": "Barnabas",
             "answer": "false"
@@ -809,7 +809,7 @@
       {
         "number": "36",
         "text": "Quel est le dernier livre de l'Ancien Testament ?",
-        "select": [
+        "choice": [
           {
             "text": "Zacharie",
             "answer": "false"
@@ -832,7 +832,7 @@
       {
         "number": "37",
         "text": "Que signifie le mot Bible ?",
-        "select": [
+        "choice": [
           {
             "text": "Récits",
             "answer": "false"
@@ -855,7 +855,7 @@
       {
         "number": "38",
         "text": "\" Tout ce que vous voulez que les hommes fassent pour vous, faites-le de même pour eux,... \" Qui a dit cela ?",
-        "select": [
+        "choice": [
           {
             "text": "Jean-Baptiste",
             "answer": "false"
@@ -878,7 +878,7 @@
       {
         "number": "39",
         "text": "Qui fut le premier sacrificateur ?",
-        "select": [
+        "choice": [
           {
             "text": "Aaron",
             "answer": "false"
@@ -901,7 +901,7 @@
       {
         "number": "40",
         "text": "Y a-t-il des gens parmi les morts et les vivants qui ne sont pas pécheurs aux yeux de Dieu?",
-        "select": [
+        "choice": [
           {
             "text": "Adam",
             "answer": "false"
@@ -924,7 +924,7 @@
       {
         "number": "41",
         "text": "Qui a élevé Moïse après qu'il fut retiré de la caisse de jonc ?",
-        "select": [
+        "choice": [
           {
             "text": "La fille de Pharaon, Thermuthis",
             "answer": "false"
@@ -947,7 +947,7 @@
       {
         "number": "42",
         "text": "De quelle souffrance était atteinte la femme qui toucha le bord du vêtement de Jésus dans l'évangile de Matthieu ?",
-        "select": [
+        "choice": [
           {
             "text": "perte de sang",
             "answer": "true"
@@ -970,7 +970,7 @@
       {
         "number": "43",
         "text": "Je suis la mère du roi Salomon ?",
-        "select": [
+        "choice": [
           {
             "text": "Bath-Schéba",
             "answer": "true"
@@ -993,7 +993,7 @@
       {
         "number": "44",
         "text": "Lequel de ces livres ne figure pas dans le Nouveau Testament ?",
-        "select": [
+        "choice": [
           {
             "text": "Jude",
             "answer": "false"
@@ -1016,7 +1016,7 @@
       {
         "number": "45",
         "text": "Lequel de ces personnages ne fait pas partie du groupe des apôtres ?",
-        "select": [
+        "choice": [
           {
             "text": "Matthias",
             "answer": "false"
@@ -1039,7 +1039,7 @@
       {
         "number": "46",
         "text": "Judas livra Jésus au souverain sacrificateur Caïphe pour combien de pièces d'argent ?",
-        "select": [
+        "choice": [
           {
             "text": "30 pièces",
             "answer": "true"
@@ -1062,7 +1062,7 @@
       {
         "number": "47",
         "text": "Le peuple voyant que Moïse ne revenait pas du Mont Sinaï, il demanda à Aaron de faire un dieu pour les guider. Que représentait-il ?",
-        "select": [
+        "choice": [
           {
             "text": "Un serpent d'airain",
             "answer": "false"
@@ -1085,7 +1085,7 @@
       {
         "number": "48",
         "text": "Que signifie le mot hébreu \" R A B B O U N I \" ?",
-        "select": [
+        "choice": [
           {
             "text": "Seigneur",
             "answer": "false"
@@ -1108,7 +1108,7 @@
       {
         "number": "49",
         "text": "Lors de la transfiguration, quels personnages apparurent auprès de Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Ésaïe et Moïse",
             "answer": "false"
@@ -1131,7 +1131,7 @@
       {
         "number": "50",
         "text": "Qui a dit:\"Si je ne vois dans ses mains la marque des clous, et si je ne mets mon doigt dans la marque des clous.... je ne croirai point.\"",
-        "select": [
+        "choice": [
           {
             "text": "Thomas",
             "answer": "true"
@@ -1154,7 +1154,7 @@
       {
         "number": "51",
         "text": "D'où les mages ont-ils aperçu l'étoile annonçant la naissance du roi des Juifs ?",
-        "select": [
+        "choice": [
           {
             "text": "De l'occident",
             "answer": "false"
@@ -1177,7 +1177,7 @@
       {
         "number": "52",
         "text": "Quel livre de la Bible se trouve entre Job et Proverbes ?",
-        "select": [
+        "choice": [
           {
             "text": "Esther",
             "answer": "false"
@@ -1200,7 +1200,7 @@
       {
         "number": "53",
         "text": "En combien de langues la Bible entière a-t-elle été traduite (1995) ?",
-        "select": [
+        "choice": [
           {
             "text": "244 langues",
             "answer": "false"
@@ -1223,7 +1223,7 @@
       {
         "number": "54",
         "text": "Qui a dit: \" Un prophète n'est méprisé que dans sa patrie et dans sa maison. \" ?",
-        "select": [
+        "choice": [
           {
             "text": "Jean-Baptiste",
             "answer": "false"
@@ -1246,7 +1246,7 @@
       {
         "number": "55",
         "text": "Jean-Baptiste est mort décapité par Hérode et présenté sur un plat à Salomé. Qui a été l'instigateur de cette mort ?",
-        "select": [
+        "choice": [
           {
             "text": "Les sacrificateurs",
             "answer": "false"
@@ -1269,7 +1269,7 @@
       {
         "number": "56",
         "text": "\"Car c'est ............ que viennent les mauvaises pensées, les meurtres, les adultères, les vols, les faux témoignages, les calomnies.\"",
-        "select": [
+        "choice": [
           {
             "text": "... du démon ...",
             "answer": "false"
@@ -1292,7 +1292,7 @@
       {
         "number": "57",
         "text": "Marie de Béthanie ayant pris une livre d'un parfum de nard pur de grand prix, oignit les pieds de Jésus. Avec quoi lui a-t-elle essuyé les pieds ?",
-        "select": [
+        "choice": [
           {
             "text": "Ses vêtements",
             "answer": "false"
@@ -1315,7 +1315,7 @@
       {
         "number": "58",
         "text": "Jésus fit son entrée à Jérusalem sur quel animal ?",
-        "select": [
+        "choice": [
           {
             "text": "Un ânon",
             "answer": "true"
@@ -1338,7 +1338,7 @@
       {
         "number": "59",
         "text": "Sous quelle forme Satan a-t-il séduit Eve dans le jardin d'Éden ?",
-        "select": [
+        "choice": [
           {
             "text": "Un lézard",
             "answer": "false"
@@ -1361,7 +1361,7 @@
       {
         "number": "60",
         "text": "Après avoir mangé le fruit de l'arbre de la connaissance du bien et du mal, Adam et Eve furent conscients d'être nus. Dieu les vêtit avec quoi ?",
-        "select": [
+        "choice": [
           {
             "text": "Ceintures de feuilles de figuier",
             "answer": "false"
@@ -1384,7 +1384,7 @@
       {
         "number": "61",
         "text": "Quelle réaction eurent Pierre, Jacques et Jean lorsque la voix de la nuée leur parla lors de la transfiguration ?",
-        "select": [
+        "choice": [
           {
             "text": "Ils furent effrayés",
             "answer": "true"
@@ -1407,7 +1407,7 @@
       {
         "number": "62",
         "text": "Où Pierre cueillit-il le statère (pièce de monnaie) pour payer les quatre drachmes à Capernaüm ?",
-        "select": [
+        "choice": [
           {
             "text": "dans le fond de sa bourse",
             "answer": "false"
@@ -1430,7 +1430,7 @@
       {
         "number": "63",
         "text": "Jusqu'à combien de fois doit-on pardonner à son frère, demanda Pierre. Jésus lui enseigna de pardonner ...",
-        "select": [
+        "choice": [
           {
             "text": "... jusqu'à 7 fois",
             "answer": "false"
@@ -1453,7 +1453,7 @@
       {
         "number": "64",
         "text": "Après avoir achevé les cieux et la terre, Dieu se reposa. Il bénit et sanctifia cette journée. Quel jour est-ce ?",
-        "select": [
+        "choice": [
           {
             "text": "Le premier jour",
             "answer": "false"
@@ -1476,7 +1476,7 @@
       {
         "number": "65",
         "text": "De quelle matière Dieu forma-t-il l'homme ?",
-        "select": [
+        "choice": [
           {
             "text": "De boue",
             "answer": "false"
@@ -1499,7 +1499,7 @@
       {
         "number": "66",
         "text": "Où Dieu planta-t-il l'arbre de la vie et l'arbre de la connaissance du bien et du mal ?",
-        "select": [
+        "choice": [
           {
             "text": "Le jardin de Gethsémané",
             "answer": "false"
@@ -1522,7 +1522,7 @@
       {
         "number": "67",
         "text": "Après chaque journée de création, Dieu ...",
-        "select": [
+        "choice": [
           {
             "text": "... dit que cela était bon.",
             "answer": "false"
@@ -1545,7 +1545,7 @@
       {
         "number": "68",
         "text": "Qu'est-ce que Dieu avait donné comme nourriture à l'homme dans le jardin d'Eden ?",
-        "select": [
+        "choice": [
           {
             "text": "Poissons et légumes",
             "answer": "false"
@@ -1568,7 +1568,7 @@
       {
         "number": "69",
         "text": "Qui donna un nom à chaque animal que Dieu avait créé ?",
-        "select": [
+        "choice": [
           {
             "text": "Dieu Lui-même",
             "answer": "false"
@@ -1591,7 +1591,7 @@
       {
         "number": "70",
         "text": "Afin de convaincre la femme d'Adam de manger du fruit de l'arbre de la connaissance du bien et du mal, Satan usa de ruse. Que promit-il ?",
-        "select": [
+        "choice": [
           {
             "text": "Que l'homme deviendrait immortel",
             "answer": "false"
@@ -1614,7 +1614,7 @@
       {
         "number": "71",
         "text": "Dieu vit qu'il n'était pas bon que l'homme soit seul et lui fit une aide semblable à lui. Dieu la créa à partir de quelle matière ?",
-        "select": [
+        "choice": [
           {
             "text": "De la poussière",
             "answer": "false"
@@ -1637,7 +1637,7 @@
       {
         "number": "72",
         "text": "L'Éternel Dieu forma l'homme de la poussière de la terre et lui donna vie. De quelle manière ?",
-        "select": [
+        "choice": [
           {
             "text": "Il souffla dans sa bouche",
             "answer": "false"
@@ -1660,7 +1660,7 @@
       {
         "number": "73",
         "text": "Complétez: \"Ainsi ils ne sont plus deux, mais ils sont ............ Que l'homme donc ne ............pas ce que Dieu a joint.",
-        "select": [
+        "choice": [
           {
             "text": "une seul personne, sépare",
             "answer": "false"
@@ -1683,7 +1683,7 @@
       {
         "number": "74",
         "text": "Complétez: \"C'est pourquoi l'homme quittera son père et sa mère, et s'attachera à sa femme, et les deux .....................",
-        "select": [
+        "choice": [
           {
             "text": "croîtront et se multiplieront ?",
             "answer": "false"
@@ -1706,7 +1706,7 @@
       {
         "number": "75",
         "text": "Quelle est la première chose que l'homme et la femme reconnurent après avoir mangé du fruit de l'arbre de la connaissance du bien et du mal ?",
-        "select": [
+        "choice": [
           {
             "text": "Reconnurent qu'ils avaient péché.",
             "answer": "false"
@@ -1729,7 +1729,7 @@
       {
         "number": "76",
         "text": "Quel sort Dieu réserva-t-il au serpent après qu'il eut séduit Eve ?",
-        "select": [
+        "choice": [
           {
             "text": "Il le fit périr",
             "answer": "false"
@@ -1752,7 +1752,7 @@
       {
         "number": "77",
         "text": "Après que Dieu eut découvert le péché d'Adam, quel sort lui réserva-t-il ?",
-        "select": [
+        "choice": [
           {
             "text": "Dieu cessa de prendre soin de lui",
             "answer": "false"
@@ -1775,7 +1775,7 @@
       {
         "number": "78",
         "text": "Après que Dieu eut découvert le péché de Eve, quel sort lui réserva-t-il ?",
-        "select": [
+        "choice": [
           {
             "text": "Enfanter de plus gros enfants",
             "answer": "false"
@@ -1798,7 +1798,7 @@
       {
         "number": "79",
         "text": "Quel est le nom du premier-né d'Adam et Eve ?",
-        "select": [
+        "choice": [
           {
             "text": "Seth",
             "answer": "false"
@@ -1821,7 +1821,7 @@
       {
         "number": "80",
         "text": "De quel travail vivait Caïn ?",
-        "select": [
+        "choice": [
           {
             "text": "Pêcheur",
             "answer": "false"
@@ -1844,7 +1844,7 @@
       {
         "number": "81",
         "text": "De quel travail vivait Abel ?",
-        "select": [
+        "choice": [
           {
             "text": "Pêcheur",
             "answer": "false"
@@ -1867,7 +1867,7 @@
       {
         "number": "82",
         "text": "Quel regard Dieu porta-t-il sur Abel et son offrande ?",
-        "select": [
+        "choice": [
           {
             "text": "Désagréable",
             "answer": "false"
@@ -1890,7 +1890,7 @@
       {
         "number": "83",
         "text": "Que fit le jeune homme riche après que Jésus lui eut demandé de vendre tout ce qu'il possédait, de le donner aux pauvres et de le suivre ?",
-        "select": [
+        "choice": [
           {
             "text": "Il pleura et demanda pardon",
             "answer": "false"
@@ -1913,7 +1913,7 @@
       {
         "number": "84",
         "text": "Quelle fut la réaction de Caïn, lorsque Dieu ne porta pas un regard favorable sur son offrande ?",
-        "select": [
+        "choice": [
           {
             "text": "Ça ne le dérangea pas",
             "answer": "false"
@@ -1936,7 +1936,7 @@
       {
         "number": "85",
         "text": "Que signifie le mot araméen ABBA ?",
-        "select": [
+        "choice": [
           {
             "text": "Salut",
             "answer": "false"
@@ -1959,7 +1959,7 @@
       {
         "number": "86",
         "text": "Lequel de ces personnages n'est pas un prophète ?",
-        "select": [
+        "choice": [
           {
             "text": "Nathan",
             "answer": "false"
@@ -1982,7 +1982,7 @@
       {
         "number": "87",
         "text": "Fils de David, il tua son frère Amnon qui avait déshonoré sa soeur Tamar. Qui est-ce ?",
-        "select": [
+        "choice": [
           {
             "text": "Absalom",
             "answer": "true"
@@ -2005,7 +2005,7 @@
       {
         "number": "88",
         "text": "Parmi la liste, lequel n'a jamais été roi ?",
-        "select": [
+        "choice": [
           {
             "text": "Absalom",
             "answer": "true"
@@ -2028,7 +2028,7 @@
       {
         "number": "89",
         "text": "Comment Jésus a-t-il guéri les deux aveugles de Jéricho?",
-        "select": [
+        "choice": [
           {
             "text": "Il frotta leurs yeux avec la boue",
             "answer": "false"
@@ -2051,7 +2051,7 @@
       {
         "number": "90",
         "text": "Jésus entra triomphant à Jérusalem assis sur un ânon. Que fit la foule pour lui manifester sa majesté ?",
-        "select": [
+        "choice": [
           {
             "text": "Ils le couronnèrent",
             "answer": "false"
@@ -2074,7 +2074,7 @@
       {
         "number": "91",
         "text": "A l'époque de Noé, Dieu se repentit d'avoir créé l'homme et les animaux. Qu'a-t-il décidé de faire ?",
-        "select": [
+        "choice": [
           {
             "text": "Il leur pardonna",
             "answer": "false"
@@ -2097,7 +2097,7 @@
       {
         "number": "92",
         "text": "Peu avant le déluge, quel homme trouva grâce aux yeux de l'Éternel ?",
-        "select": [
+        "choice": [
           {
             "text": "Adam",
             "answer": "false"
@@ -2120,7 +2120,7 @@
       {
         "number": "93",
         "text": "Dieu décida la fin de toute chair sur la terre. Il demanda à Noé de construire ..............",
-        "select": [
+        "choice": [
           {
             "text": "... un temple pour les holocaustes",
             "answer": "false"
@@ -2143,7 +2143,7 @@
       {
         "number": "94",
         "text": "Sur ordre de Dieu, Noé construisit l'arche. Combien d'étages comptait-elle ?",
-        "select": [
+        "choice": [
           {
             "text": "1 étage",
             "answer": "false"
@@ -2166,7 +2166,7 @@
       {
         "number": "95",
         "text": "Sous quelle impulsion les animaux se sont-ils rendus à l'arche qu'avait construite Noé et ses fils?",
-        "select": [
+        "choice": [
           {
             "text": "Ils étaient attirés par la faim",
             "answer": "false"
@@ -2189,7 +2189,7 @@
       {
         "number": "96",
         "text": "Combien de paires d'animaux purs entrèrent dans l'arche de Noé ?",
-        "select": [
+        "choice": [
           {
             "text": "Une paire",
             "answer": "false"
@@ -2212,7 +2212,7 @@
       {
         "number": "97",
         "text": "Dieu décida d'exterminer tout être vivant de la surface de la terre. Il fit pleuvoir .............",
-        "select": [
+        "choice": [
           {
             "text": "sans cesse pendant 30 jours",
             "answer": "false"
@@ -2235,7 +2235,7 @@
       {
         "number": "98",
         "text": "Une paire des animaux impurs et sept paires des animaux purs entrèrent dans l'arche auprès de Noé et sa famille. Qui referma la porte de l'arche ?",
-        "select": [
+        "choice": [
           {
             "text": "Noé et ses fils",
             "answer": "false"
@@ -2258,7 +2258,7 @@
       {
         "number": "99",
         "text": "Lors du déluge, les eaux recouvrirent toute la terre et exterminèrent tous êtres vivants. Comment Dieu apaisa-t-il 150 jours de mers agitées ?",
-        "select": [
+        "choice": [
           {
             "text": "Il fit passer un vent sur la terre",
             "answer": "true"
@@ -2281,7 +2281,7 @@
       {
         "number": "100",
         "text": "Noé et ceux qui étaient dans l'arche, furent portés par les eaux cinq mois durant. Puis les eaux se retirèrent et l'arche s'arrêta ....",
-        "select": [
+        "choice": [
           {
             "text": "... sur le mont Sinaï",
             "answer": "false"
@@ -2304,7 +2304,7 @@
       {
         "number": "101",
         "text": "Sauvé du déluge par l'arche, Noé décida d'ouvrir l'unique fenêtre pour voir si les eaux avaient diminué sur la terre. Quel oiseau envoya-t-il ?",
-        "select": [
+        "choice": [
           {
             "text": "Un colibri",
             "answer": "false"
@@ -2327,7 +2327,7 @@
       {
         "number": "102",
         "text": "Pourquoi Noé lâcha-t-il un corbeau par l'unique fenêtre de l'arche ?",
-        "select": [
+        "choice": [
           {
             "text": "Pour qu'il indique la route",
             "answer": "false"
@@ -2350,7 +2350,7 @@
       {
         "number": "103",
         "text": "Peu après sa sortie de l'arche, qu'est-ce que Noé a planté ?",
-        "select": [
+        "choice": [
           {
             "text": "Des oliviers",
             "answer": "false"
@@ -2373,7 +2373,7 @@
       {
         "number": "104",
         "text": "Noé s'enivra de bon vin et se mit nu dans sa tente. Son fils Cham, le ridiculisa en le sortant dehors. Que fit Noé lorsqu'il reprit ses esprits ?",
-        "select": [
+        "choice": [
           {
             "text": "Il le chassa de sa tente",
             "answer": "false"
@@ -2396,7 +2396,7 @@
       {
         "number": "105",
         "text": "Combien d'années Noé vécut-il ?",
-        "select": [
+        "choice": [
           {
             "text": "800 ans",
             "answer": "false"
@@ -2419,7 +2419,7 @@
       {
         "number": "106",
         "text": "Afin de ne pas être dispersés sur la face de toute la terre, les descendants de Noé s'unirent pour construire ...",
-        "select": [
+        "choice": [
           {
             "text": "... une grande ville",
             "answer": "false"
@@ -2442,7 +2442,7 @@
       {
         "number": "107",
         "text": "Peu après le déluge, les habitants de la terre parlaient un même langage et construisirent une tour montant vers le ciel. Quel nom porte-t-elle ?",
-        "select": [
+        "choice": [
           {
             "text": "La tour de Jérusalem",
             "answer": "false"
@@ -2465,7 +2465,7 @@
       {
         "number": "108",
         "text": "Quel est le lien de parenté entre Abraham et Lot ?",
-        "select": [
+        "choice": [
           {
             "text": "Père et fils",
             "answer": "false"
@@ -2488,7 +2488,7 @@
       {
         "number": "109",
         "text": "Abram prit pour femme ...",
-        "select": [
+        "choice": [
           {
             "text": "... Milca",
             "answer": "false"
@@ -2511,7 +2511,7 @@
       {
         "number": "110",
         "text": "Quelle promesse l'Éternel a-t-il fait à Abram à propos du pays de Canaan ?",
-        "select": [
+        "choice": [
           {
             "text": "Je bénirai le pays",
             "answer": "false"
@@ -2534,7 +2534,7 @@
       {
         "number": "111",
         "text": "Pourquoi avant son entrée en Égypte, Abram a-t-il demandé à Saraï de mentir sur leurs liens conjugaux et de se faire passer pour sa soeur ?",
-        "select": [
+        "choice": [
           {
             "text": "De peur de l'esclavage.",
             "answer": "false"
@@ -2557,7 +2557,7 @@
       {
         "number": "112",
         "text": "Pharaon prit pour femme Saraï croyant à tort qu'elle était la soeur d'Abram. Que fit l'Éternel ?",
-        "select": [
+        "choice": [
           {
             "text": "Il maudit Abram à cause du mensonge",
             "answer": "false"
@@ -2580,7 +2580,7 @@
       {
         "number": "113",
         "text": "Après avoir pris Saraï comme femme et avoir subi les plaies envoyées par l'Éternel, que fit le Pharaon ?",
-        "select": [
+        "choice": [
           {
             "text": "Il fit emprisonner Abram.",
             "answer": "false"
@@ -2603,7 +2603,7 @@
       {
         "number": "114",
         "text": "Lorsque Jésus entra à Jérusalem, il se dirigea vers le temple de Dieu. Qu'y fit-il en tout premier ?",
-        "select": [
+        "choice": [
           {
             "text": "Il chassa les vendeurs.",
             "answer": "true"
@@ -2626,7 +2626,7 @@
       {
         "number": "115",
         "text": "Dans la parabole des deux fils, qu'a demandé le père à ses deux fils ?",
-        "select": [
+        "choice": [
           {
             "text": "De garder le troupeau",
             "answer": "false"
@@ -2649,7 +2649,7 @@
       {
         "number": "116",
         "text": "Dans la parabole des deux fils, lequel a fait la volonté de son père ?",
-        "select": [
+        "choice": [
           {
             "text": "Le premier",
             "answer": "true"
@@ -2672,7 +2672,7 @@
       {
         "number": "117",
         "text": "A sa sortie d'Égypte, Abram était très riche. De quoi était-il riche ?",
-        "select": [
+        "choice": [
           {
             "text": "D'argent et d'or.",
             "answer": "false"
@@ -2695,7 +2695,7 @@
       {
         "number": "118",
         "text": "A quoi l'Éternel comparait-il la postérité promise à Abram ?",
-        "select": [
+        "choice": [
           {
             "text": "Aux étoiles dans le ciel.",
             "answer": "false"
@@ -2718,7 +2718,7 @@
       {
         "number": "119",
         "text": "Quel est le plus grand commandement de la loi ?",
-        "select": [
+        "choice": [
           {
             "text": "Tu n'auras pas d'autres dieux...",
             "answer": "false"
@@ -2741,7 +2741,7 @@
       {
         "number": "120",
         "text": "De qui Jésus a-t-il dit: \"Car ils disent, et ne font pas. Ils lient des fardeaux pesants, et les mettent sur les épaules des hommes,...\" ?",
-        "select": [
+        "choice": [
           {
             "text": "Des disciples",
             "answer": "false"
@@ -2764,7 +2764,7 @@
       {
         "number": "121",
         "text": "Complétez cette parole de Jésus: \"Le plus grand parmi vous sera ......\"",
-        "select": [
+        "choice": [
           {
             "text": "... votre maître.",
             "answer": "false"
@@ -2787,7 +2787,7 @@
       {
         "number": "122",
         "text": "A l'époque de Jésus, qui étaient habillés de larges phylactères, de longues franges à leurs vêtements et aimaient les premières places ?",
-        "select": [
+        "choice": [
           {
             "text": "Les disciples.",
             "answer": "false"
@@ -2810,7 +2810,7 @@
       {
         "number": "123",
         "text": "Jésus leur répondit: Prenez garde que personne ne vous séduise. Car plusieurs viendront sous mon nom disant: .........................",
-        "select": [
+        "choice": [
           {
             "text": "Je suis votre Dieu.",
             "answer": "false"
@@ -2833,7 +2833,7 @@
       {
         "number": "124",
         "text": "Complétez: \"Cette bonne nouvelle sera prêchée dans le monde entier, pour servir de témoignage à toutes les nations. Alors, ....................\"",
-        "select": [
+        "choice": [
           {
             "text": "... tous se convertiront.",
             "answer": "false"
@@ -2856,7 +2856,7 @@
       {
         "number": "125",
         "text": "Qui a dit:\" Car il s'élèvera de faux christs et de faux prophètes; ils feront de grands prodiges et des miracles ...\" ?",
-        "select": [
+        "choice": [
           {
             "text": "L'apôtre Paul",
             "answer": "false"
@@ -2879,7 +2879,7 @@
       {
         "number": "126",
         "text": "Dans la parabole des vierges, combien étaient-elles ?",
-        "select": [
+        "choice": [
           {
             "text": "5",
             "answer": "false"
@@ -2902,7 +2902,7 @@
       {
         "number": "127",
         "text": "Dans quelle ville demeurait Lot, neveu d'Abram, quand il fut fait prisonnier ?",
-        "select": [
+        "choice": [
           {
             "text": "Gomorrhe",
             "answer": "false"
@@ -2925,7 +2925,7 @@
       {
         "number": "128",
         "text": "Avant la naissance d'Isaac, Abram voyait Éliézer de Damas comme son héritier. Pourquoi ?",
-        "select": [
+        "choice": [
           {
             "text": "C'était le fils de son frère.",
             "answer": "false"
@@ -2948,7 +2948,7 @@
       {
         "number": "129",
         "text": "Complétez le proverbe suivant: \"La crainte de ............ est le commencement de la science...\"",
-        "select": [
+        "choice": [
           {
             "text": "l'enfer",
             "answer": "false"
@@ -2971,7 +2971,7 @@
       {
         "number": "130",
         "text": "Comment s'appelait la servante égyptienne de Saraï, femme d'Abram ?",
-        "select": [
+        "choice": [
           {
             "text": "Agar",
             "answer": "true"
@@ -2994,7 +2994,7 @@
       {
         "number": "131",
         "text": "Qu'a fait Saraï lorsqu'elle vit qu'étant stérile elle ne pourrait donner d'enfant à Abram ?",
-        "select": [
+        "choice": [
           {
             "text": "Elle adopta un fils de sa maison.",
             "answer": "false"
@@ -3017,7 +3017,7 @@
       {
         "number": "132",
         "text": "Que révéla à Agar, servante de Saraï, l'ange de l'Éternel lors de sa fuite au désert ?",
-        "select": [
+        "choice": [
           {
             "text": "Que son fils deviendrait un roi.",
             "answer": "false"
@@ -3040,7 +3040,7 @@
       {
         "number": "133",
         "text": "Quel nom portait le fils d'Agar et d'Abram ?",
-        "select": [
+        "choice": [
           {
             "text": "Ismaël",
             "answer": "true"
@@ -3063,7 +3063,7 @@
       {
         "number": "134",
         "text": "Complétez le proverbe suivant: \" Celui qui ........... ne manque pas de pécher, mais celui qui ................. est un homme prudent.\"",
-        "select": [
+        "choice": [
           {
             "text": "vole, travaille honnêtement",
             "answer": "false"
@@ -3086,7 +3086,7 @@
       {
         "number": "135",
         "text": "Complétez le proverbe: \"Celui qui ................devient sage.\"",
-        "select": [
+        "choice": [
           {
             "text": "fréquente les sages",
             "answer": "true"
@@ -3109,7 +3109,7 @@
       {
         "number": "136",
         "text": "Complétez le proverbe: \"Une réponse douce ..............., mais une parole dure ......................\"",
-        "select": [
+        "choice": [
           {
             "text": "calme la fureur, excite la colère",
             "answer": "true"
@@ -3132,7 +3132,7 @@
       {
         "number": "137",
         "text": "Complétez le proverbe: \"..................... tes oeuvres, et tes projets réussiront.\"",
-        "select": [
+        "choice": [
           {
             "text": "Recommande à l'Éternel",
             "answer": "true"
@@ -3155,7 +3155,7 @@
       {
         "number": "138",
         "text": "Complétez le proverbe: \"Celui qui est sage de coeur ..................., et l'accroissement de son savoir paraît sur ses lèvres.\"",
-        "select": [
+        "choice": [
           {
             "text": "plaît à Dieu",
             "answer": "false"
@@ -3178,7 +3178,7 @@
       {
         "number": "139",
         "text": "Complétez le proverbe: \" Les paroles distinguées ne conviennent pas à un insensé; combien moins à un noble .........................\"",
-        "select": [
+        "choice": [
           {
             "text": "les paroles mensongères !",
             "answer": "true"
@@ -3201,7 +3201,7 @@
       {
         "number": "140",
         "text": "Complétez le proverbe: \" Celui qui trouve une femme ....................., c'est une grâce qu'il obtient de l'Éternel.\"",
-        "select": [
+        "choice": [
           {
             "text": "trouve le bonheur",
             "answer": "true"
@@ -3224,7 +3224,7 @@
       {
         "number": "141",
         "text": "Complétez le proverbe: \" On peut hériter de ses pères une maison et des richesses, mais ........................... est un don de l'Éternel.\"",
-        "select": [
+        "choice": [
           {
             "text": "la sagesse",
             "answer": "false"
@@ -3247,7 +3247,7 @@
       {
         "number": "142",
         "text": "Complétez le proverbe: \"Toutes les voies de l'homme sont droites à ses yeux; mais celui .........................., c'est l'Éternel.\"",
-        "select": [
+        "choice": [
           {
             "text": "qui sonde l'âme",
             "answer": "false"
@@ -3270,7 +3270,7 @@
       {
         "number": "143",
         "text": "Complétez le proverbe: \" Celui qui veille sur sa bouche et sur sa langue ....................................\"",
-        "select": [
+        "choice": [
           {
             "text": "préserve son âme des angoisses.",
             "answer": "true"
@@ -3293,7 +3293,7 @@
       {
         "number": "144",
         "text": "Complétez le proverbe: \" Instruis l'enfant selon la voie qu'il doit suivre; et quand il sera vieux, ..............................\"",
-        "select": [
+        "choice": [
           {
             "text": "il t'en remerciera.",
             "answer": "false"
@@ -3316,7 +3316,7 @@
       {
         "number": "145",
         "text": "Complétez le proverbe: \"La langue fausse hait ceux qu'elle écrase, et la bouche flatteuse ...........................\"",
-        "select": [
+        "choice": [
           {
             "text": "profite de celui qu'elle flatte",
             "answer": "false"
@@ -3339,7 +3339,7 @@
       {
         "number": "146",
         "text": "Complétez le proverbe: \"Ne te vante pas du lendemain, car tu ne sais pas ..................................\"",
-        "select": [
+        "choice": [
           {
             "text": "ce qu'un jour peut enfanter.",
             "answer": "true"
@@ -3362,7 +3362,7 @@
       {
         "number": "147",
         "text": "Qui a dit: \"Il n'y a rien de nouveau sous le soleil.\"",
-        "select": [
+        "choice": [
           {
             "text": "Paul",
             "answer": "false"
@@ -3385,7 +3385,7 @@
       {
         "number": "148",
         "text": "Où trouve-t-on le verset: \" Vanité des vanités, dit.............., vanité des vanités, tout est vanité.\"",
-        "select": [
+        "choice": [
           {
             "text": "Job",
             "answer": "false"
@@ -3408,7 +3408,7 @@
       {
         "number": "149",
         "text": "Complétez cette parole réconfortante de l'Ecclésiaste: \"Le sommeil du travailleur est doux, qu'il ait peu ou beaucoup à manger; mais le rassasiement.",
-        "select": [
+        "choice": [
           {
             "text": "le porterait à l'insomnie.",
             "answer": "false"
@@ -3431,7 +3431,7 @@
       {
         "number": "150",
         "text": "Combien y a-t-il de chapitres au Cantique des Cantiques ?",
-        "select": [
+        "choice": [
           {
             "text": "6",
             "answer": "false"
@@ -3454,7 +3454,7 @@
       {
         "number": "151",
         "text": "Les sacrificateurs payèrent Judas Iscariot pour qu'il leur livrât Jésus. Combien de pièces d'argent lui donnèrent-ils ?",
-        "select": [
+        "choice": [
           {
             "text": "20",
             "answer": "false"
@@ -3477,7 +3477,7 @@
       {
         "number": "152",
         "text": "De qui est cette parole: \" Veillez et priez, afin que vous ne tombiez pas dans la tentation; l'esprit est bien disposé, mais la chair est faible. \" ?",
-        "select": [
+        "choice": [
           {
             "text": "Paul",
             "answer": "false"
@@ -3500,7 +3500,7 @@
       {
         "number": "153",
         "text": "Après l'arrestation de Jésus par la foule dans le jardin de Gethsémané, que firent les disciples ?",
-        "select": [
+        "choice": [
           {
             "text": "Ils l'abandonnèrent et fuirent.",
             "answer": "true"
@@ -3523,7 +3523,7 @@
       {
         "number": "154",
         "text": "Dans le jardin de Gethsémané, la nuit de son arrestation, pourquoi Jésus ne permit-il pas à ces disciples de lutter pour lui ?",
-        "select": [
+        "choice": [
           {
             "text": "Les disciples s'enfuirent.",
             "answer": "false"
@@ -3546,7 +3546,7 @@
       {
         "number": "155",
         "text": "Que signifie le nom JÉSUS ?",
-        "select": [
+        "choice": [
           {
             "text": "Dieu avec nous.",
             "answer": "false"
@@ -3569,7 +3569,7 @@
       {
         "number": "156",
         "text": "A chaque fête le gouverneur avait coutume de libérer un prisonnier au choix de la foule. Qui fut libéré à la place de Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Barnabas",
             "answer": "false"
@@ -3592,7 +3592,7 @@
       {
         "number": "157",
         "text": "Que fit le gouverneur Pilate pour montrer qu'il serait innocent du sang de Jésus dont la foule réclamait la mort ?",
-        "select": [
+        "choice": [
           {
             "text": "Il le livra pour être crucifié.",
             "answer": "false"
@@ -3615,7 +3615,7 @@
       {
         "number": "158",
         "text": "Quel nom portait le lieu où Jésus et les brigands furent crucifiés ?",
-        "select": [
+        "choice": [
           {
             "text": "Goath",
             "answer": "false"
@@ -3638,7 +3638,7 @@
       {
         "number": "159",
         "text": "Qui furent crucifiés aux côtés de Jésus au Golgotha ?",
-        "select": [
+        "choice": [
           {
             "text": "Deux disciples.",
             "answer": "false"
@@ -3661,7 +3661,7 @@
       {
         "number": "160",
         "text": "Lorsque l'ange du Seigneur descendit du ciel pour rouler la pierre du sépulcre de Jésus, qu'arriva- t-il aux gardes qui surveillaient ?",
-        "select": [
+        "choice": [
           {
             "text": "Ils moururent sur le champ.",
             "answer": "false"
@@ -3684,7 +3684,7 @@
       {
         "number": "161",
         "text": "Qui était près du tombeau lorsque l'ange du Seigneur vint rouler la pierre ?",
-        "select": [
+        "choice": [
           {
             "text": "Pierre et Jean",
             "answer": "false"
@@ -3707,7 +3707,7 @@
       {
         "number": "162",
         "text": "Dans quel lieu les apôtres et les disciples se rendirent-ils pour attendre ce que le Père avait promis (le Saint-Esprit) ?",
-        "select": [
+        "choice": [
           {
             "text": "Le mont des oliviers.",
             "answer": "false"
@@ -3730,7 +3730,7 @@
       {
         "number": "163",
         "text": "Que signifie \" AMEN \" ?",
-        "select": [
+        "choice": [
           {
             "text": "Gloire à Dieu.",
             "answer": "false"
@@ -3753,7 +3753,7 @@
       {
         "number": "164",
         "text": "Que signifie le mot grec \" ALLÉLUIA \" ?",
-        "select": [
+        "choice": [
           {
             "text": "Que ta volonté soit faite!",
             "answer": "false"
@@ -3776,7 +3776,7 @@
       {
         "number": "165",
         "text": "Que signifie le nom \" ADAM \" ?",
-        "select": [
+        "choice": [
           {
             "text": "Premier homme.",
             "answer": "false"
@@ -3799,7 +3799,7 @@
       {
         "number": "166",
         "text": "Le jour de la Pentecôte, les disciples étaient tous ensemble dans le même lieu, soudain, le St-Esprit descendit sur eux sous la forme ...",
-        "select": [
+        "choice": [
           {
             "text": "d'un vent impétueux.",
             "answer": "false"
@@ -3822,7 +3822,7 @@
       {
         "number": "167",
         "text": "Complétez: \" C'est ce Jésus que Dieu a ressuscité; nous .......................... \"",
-        "select": [
+        "choice": [
           {
             "text": "vous le confirmons",
             "answer": "false"
@@ -3845,7 +3845,7 @@
       {
         "number": "168",
         "text": "Complétez cette parole de Pierre: \" ................... et que chacun de vous soit baptisé au nom de Jésus-Christ, à cause du pardon de vos péchés...",
-        "select": [
+        "choice": [
           {
             "text": "Croyez au Fils de Dieu",
             "answer": "false"
@@ -3868,7 +3868,7 @@
       {
         "number": "169",
         "text": "En montant au Temple avec Jean, Pierre rencontra un homme boiteux de naissance qu'on portait et qui faisait l'aumône. Que lui donna-t-il ?",
-        "select": [
+        "choice": [
           {
             "text": "Tout ce qu'il avait en bourse.",
             "answer": "false"
@@ -3891,7 +3891,7 @@
       {
         "number": "170",
         "text": "Complétez: \" Il n'y a ............................; car il n'y a sous le ciel aucun autre nom qui ait été donné parmi les hommes, par lequel nous ...",
-        "select": [
+        "choice": [
           {
             "text": "de pardon qu'en Jésus",
             "answer": "false"
@@ -3914,7 +3914,7 @@
       {
         "number": "171",
         "text": "Dans les Actes, qui vendit une propriété et retint une partie du prix plutôt que de tout mettre en commun comme tous ceux qui avaient cru ?",
-        "select": [
+        "choice": [
           {
             "text": "Judas Iscariot",
             "answer": "false"
@@ -3937,7 +3937,7 @@
       {
         "number": "172",
         "text": "Qu'arriva-t-il à l'épouse d'Ananias, Saphira, pour avoir menti à Pierre au sujet du prix de la vente du champ ?",
-        "select": [
+        "choice": [
           {
             "text": "Elle fut exclue de la communauté.",
             "answer": "false"
@@ -3960,7 +3960,7 @@
       {
         "number": "173",
         "text": "Qui a ouvert les portes de la prison des apôtres ?",
-        "select": [
+        "choice": [
           {
             "text": "Un ange du Seigneur",
             "answer": "true"
@@ -3983,7 +3983,7 @@
       {
         "number": "174",
         "text": "Quel est le nom du fils de Moïse ?",
-        "select": [
+        "choice": [
           {
             "text": "Aaron",
             "answer": "false"
@@ -4006,7 +4006,7 @@
       {
         "number": "175",
         "text": "Il était plein de grâce et de puissance, faisait des miracles et prodiges parmi le peuple. Il fut lapidé sur un complot de membres de la synagogue",
-        "select": [
+        "choice": [
           {
             "text": "Jésus",
             "answer": "false"
@@ -4029,7 +4029,7 @@
       {
         "number": "176",
         "text": "Le jour de la mort d'Étienne, il y eut une grande persécution contre l'Église de Jérusalem. Tous, excepté les apôtres, fuirent. Qui faisait ravages?",
-        "select": [
+        "choice": [
           {
             "text": "Les Romains",
             "answer": "false"
@@ -4052,7 +4052,7 @@
       {
         "number": "177",
         "text": "Qu'offrit Simon le magicien à Pierre et Jean pour avoir le privilège de donner le Saint-Esprit par imposition des mains comme eux ?",
-        "select": [
+        "choice": [
           {
             "text": "une bourse d'or",
             "answer": "false"
@@ -4075,7 +4075,7 @@
       {
         "number": "178",
         "text": "Quel est le premier instrument de musique mentionné dans la Bible ?",
-        "select": [
+        "choice": [
           {
             "text": "La flûte.",
             "answer": "false"
@@ -4098,7 +4098,7 @@
       {
         "number": "179",
         "text": "Combien de brigands furent crucifiés en compagnie de Jésus à Golgotha ?",
-        "select": [
+        "choice": [
           {
             "text": "1",
             "answer": "false"
@@ -4121,7 +4121,7 @@
       {
         "number": "180",
         "text": "Qui fut aveuglé sur le chemin de Damas ?",
-        "select": [
+        "choice": [
           {
             "text": "Étienne",
             "answer": "false"
@@ -4144,7 +4144,7 @@
       {
         "number": "181",
         "text": "Sur quel chemin, l'apôtre Paul (Saul avant sa conversion) fit sa rencontre avec le Seigneur ?",
-        "select": [
+        "choice": [
           {
             "text": "Le chemin de Golgotha.",
             "answer": "false"
@@ -4167,7 +4167,7 @@
       {
         "number": "182",
         "text": "Avant sa conversion, comment se prénommait l'apôtre Paul ?",
-        "select": [
+        "choice": [
           {
             "text": "Saül",
             "answer": "false"
@@ -4190,7 +4190,7 @@
       {
         "number": "183",
         "text": "Complétez: \"L'Éternel ne considère pas ce que l'homme considère; l'homme regarde à ce qui frappe les yeux, mais l'Éternel regarde ... \"",
-        "select": [
+        "choice": [
           {
             "text": "à son intelligence",
             "answer": "false"
@@ -4213,7 +4213,7 @@
       {
         "number": "184",
         "text": "\" Et Jésus nous a ordonné de .................... et d'attester que c'est lui qui a été établi par Dieu juge des vivants et des morts.\"",
-        "select": [
+        "choice": [
           {
             "text": "d'aller de porte en porte",
             "answer": "false"
@@ -4236,7 +4236,7 @@
       {
         "number": "185",
         "text": "Hérode fit emprisonner Pierre. Un ange vint le délivrer des 16 gardes qui veillaient sur lui. Qu'arriva-t-il à ces soldats ?",
-        "select": [
+        "choice": [
           {
             "text": "Hérode les fit passer par l'épée.",
             "answer": "false"
@@ -4259,7 +4259,7 @@
       {
         "number": "186",
         "text": "Hérode Agrippa 1 ayant accepté des honneurs dus à Dieu seul, un ange du Seigneur le frappa et il expira. Il est mort ......................",
-        "select": [
+        "choice": [
           {
             "text": "rongé des vers.",
             "answer": "true"
@@ -4282,7 +4282,7 @@
       {
         "number": "187",
         "text": "Paul et Barnabas parcouraient l'Europe antique au ministère de la prédication de l'Évangile. A Lystre, Paul vit des moments pénibles. Lesquels ?",
-        "select": [
+        "choice": [
           {
             "text": "Il est emprisonné et jugé.",
             "answer": "false"
@@ -4305,7 +4305,7 @@
       {
         "number": "188",
         "text": "Lors du 2e voyage missionnaire de Paul, lui et Timothée se font battre de verges et jeter en prison par les préteurs. Qu'ont-ils fait ?",
-        "select": [
+        "choice": [
           {
             "text": "Ils ont offensé la déesse Diane.",
             "answer": "false"
@@ -4328,7 +4328,7 @@
       {
         "number": "189",
         "text": "De qui est cette parole: \" Seigneur, que faut-il que je fasse pour être sauvé ?\" ?",
-        "select": [
+        "choice": [
           {
             "text": "L'Éthiopien eunuque",
             "answer": "false"
@@ -4351,7 +4351,7 @@
       {
         "number": "190",
         "text": "Quel métier exerçait l'apôtre Paul ?",
-        "select": [
+        "choice": [
           {
             "text": "Il fabriquait des tentes.",
             "answer": "true"
@@ -4374,7 +4374,7 @@
       {
         "number": "191",
         "text": "Au temps de Paul, la ville d'Éphèse abritait le temple d'une déesse païenne. Celle-ci représentait une mère dont le corps était couvert de mamelles ?",
-        "select": [
+        "choice": [
           {
             "text": "Déméter",
             "answer": "false"
@@ -4397,7 +4397,7 @@
       {
         "number": "192",
         "text": "A Rome, des juifs firent un complot et se firent promesses de ne manger, ni boire, jusqu'à ce qu'ils aient tué ...",
-        "select": [
+        "choice": [
           {
             "text": "Jésus",
             "answer": "false"
@@ -4420,7 +4420,7 @@
       {
         "number": "193",
         "text": "Complétez: \" Heureux l'homme qui ne marche pas selon ......................, qui ne s'arrête pas sur la voie des pécheurs...\"",
-        "select": [
+        "choice": [
           {
             "text": "ses propres voies",
             "answer": "false"
@@ -4443,7 +4443,7 @@
       {
         "number": "194",
         "text": "A qui Dieu a-t-il dit: \" Je suis celui qui suis \" ?",
-        "select": [
+        "choice": [
           {
             "text": "Élie",
             "answer": "false"
@@ -4466,7 +4466,7 @@
       {
         "number": "195",
         "text": "Qui a dit: \" Je te donnerai toutes ces choses, si tu te prosternes et m'adores.\" ?",
-        "select": [
+        "choice": [
           {
             "text": "Le démoniaque",
             "answer": "false"
@@ -4489,7 +4489,7 @@
       {
         "number": "196",
         "text": "Qui a dit: \" Vous jetterez dans le fleuve tout garçon qui naîtra, et vous laisserez vivre toutes les filles.\" ?",
-        "select": [
+        "choice": [
           {
             "text": "Pharaon",
             "answer": "true"
@@ -4512,7 +4512,7 @@
       {
         "number": "197",
         "text": "Dans quel point d'eau, Jean-Baptiste, précurseur du Messie, baptisait du baptême de repentance ?",
-        "select": [
+        "choice": [
           {
             "text": "Dans la mer de Galilée.",
             "answer": "false"
@@ -4535,7 +4535,7 @@
       {
         "number": "198",
         "text": "Après être ressuscité des morts, Jésus apparut à sept apôtres pêchant au bord de la mer. Les voyant bredouilles, Jésus leur permit de capturer ....",
-        "select": [
+        "choice": [
           {
             "text": "153 grands poissons.",
             "answer": "true"
@@ -4558,7 +4558,7 @@
       {
         "number": "199",
         "text": "Avant que Jésus, ressuscité des morts, ne fut enlevé au ciel, combien de jours s'est-il montré à ses disciples ?",
-        "select": [
+        "choice": [
           {
             "text": "7 jours",
             "answer": "false"
@@ -4581,7 +4581,7 @@
       {
         "number": "200",
         "text": "Après être ressuscité, Jésus demeura 40 jours avec ses disciples. Puis, il fut enlevé au ciel. De quelle façon ?",
-        "select": [
+        "choice": [
           {
             "text": "Dans un chariot de feu.",
             "answer": "false"
@@ -4604,7 +4604,7 @@
       {
         "number": "201",
         "text": "Nommez les livres de l'Ancien Testament qui portent des prénoms féminins ?",
-        "select": [
+        "choice": [
           {
             "text": "Osée et Ruth.",
             "answer": "false"
@@ -4627,7 +4627,7 @@
       {
         "number": "202",
         "text": "Complétez: \" Éternel! fais-moi connaître tes voies, enseigne-moi tes sentiers. Conduis-moi dans ta vérité, et ....................\"",
-        "select": [
+        "choice": [
           {
             "text": "pardonne mes fautes",
             "answer": "false"
@@ -4650,7 +4650,7 @@
       {
         "number": "203",
         "text": "Complétez: \" Fais de l'Éternel tes délices, et il te ........................................\"",
-        "select": [
+        "choice": [
           {
             "text": "donnera ce que ton coeur désire.",
             "answer": "true"
@@ -4673,7 +4673,7 @@
       {
         "number": "204",
         "text": "Complétez: \"Mais Dieu .........................: il abaisse l'un, et il élève l'autre.\"",
-        "select": [
+        "choice": [
           {
             "text": "est miséricordieux",
             "answer": "false"
@@ -4696,7 +4696,7 @@
       {
         "number": "205",
         "text": "La Bible est un recueil de 66 livres écrit sous l'inspiration du Saint-Esprit. Combien d'écrivains ont participé à son élaboration ?",
-        "select": [
+        "choice": [
           {
             "text": "10 auteurs différents.",
             "answer": "false"
@@ -4719,7 +4719,7 @@
       {
         "number": "206",
         "text": "Que sont les livres apocryphes que l'on retrouve dans certaines bibles confessionnelles ?",
-        "select": [
+        "choice": [
           {
             "text": "des livres retrouvés dernièrement",
             "answer": "false"
@@ -4742,7 +4742,7 @@
       {
         "number": "207",
         "text": "La traduction de la Bible est un travail ardu. Le texte de l'Ancien testament est écrit en hébreu et celui du Nouveau testament en grec. Vrai ?",
-        "select": [
+        "choice": [
           {
             "text": "Vrai",
             "answer": "true"
@@ -4763,7 +4763,7 @@
       {
         "number": "208",
         "text": "Combien de chapitres doit-on lire chaque jour pour faire une lecture complète de la Bible en un an ?",
-        "select": [
+        "choice": [
           {
             "text": "4 chapitres",
             "answer": "true"
@@ -4786,7 +4786,7 @@
       {
         "number": "209",
         "text": "Complétez: \" C'est lui qui nous a faits, et ...........................; nous sommes son peuple, et le troupeau de son pâturage.\"",
-        "select": [
+        "choice": [
           {
             "text": "nous lui appartenons",
             "answer": "true"
@@ -4809,7 +4809,7 @@
       {
         "number": "210",
         "text": "Complétez: \" Je te loue de ce que je suis ..........................\"",
-        "select": [
+        "choice": [
           {
             "text": "une créature si merveilleuse.",
             "answer": "true"
@@ -4832,7 +4832,7 @@
       {
         "number": "211",
         "text": "Complétez: \" La crainte de l'Éternel est .............................\"",
-        "select": [
+        "choice": [
           {
             "text": "une fleur dans les cheveux du juste",
             "answer": "false"
@@ -4855,7 +4855,7 @@
       {
         "number": "212",
         "text": "Combien y a-t-il de chapitres au livre des Psaumes ?",
-        "select": [
+        "choice": [
           {
             "text": "50 chapitres",
             "answer": "false"
@@ -4878,7 +4878,7 @@
       {
         "number": "213",
         "text": "Agar, la servante égyptienne de Saraï, enfanta un fils à Abram. Comment Abram le prénomma-t-il ?",
-        "select": [
+        "choice": [
           {
             "text": "Isaac",
             "answer": "false"
@@ -4901,7 +4901,7 @@
       {
         "number": "214",
         "text": "Pourquoi Sara, femme d'Abraham, rit-elle lorsque Dieu promit à Abraham qu'il serait père ?",
-        "select": [
+        "choice": [
           {
             "text": "Elle ne l'avait point connu.",
             "answer": "false"
@@ -4924,7 +4924,7 @@
       {
         "number": "215",
         "text": "Que ce passa-t-il une fois que les mariniers eurent jeté Jonas le prophète par-dessus bord du navire ?",
-        "select": [
+        "choice": [
           {
             "text": "Le vent fit gonfler les vagues.",
             "answer": "false"
@@ -4947,7 +4947,7 @@
       {
         "number": "216",
         "text": "Combien de temps Jonas fut-il dans le ventre du grand poisson ?",
-        "select": [
+        "choice": [
           {
             "text": "1 jour et une nuit",
             "answer": "false"
@@ -4970,7 +4970,7 @@
       {
         "number": "217",
         "text": "Les habitants de Ninive revinrent de leurs mauvaises voies suite à la proclamation de Jonas. Dieu choisit de les épargner. Qu'en ressentit Jonas ?",
-        "select": [
+        "choice": [
           {
             "text": "Une joie immense.",
             "answer": "false"
@@ -4993,7 +4993,7 @@
       {
         "number": "218",
         "text": "Jonas fut trois jours et trois nuits dans le ventre d'un grand poisson avant que Dieu ne l'en délivre. Quel poisson était-ce ?",
-        "select": [
+        "choice": [
           {
             "text": "Une baleine.",
             "answer": "false"
@@ -5016,7 +5016,7 @@
       {
         "number": "219",
         "text": "Dieu accorda à Daniel la science, l'intelligence dans toutes les lettres, la sagesse et .........",
-        "select": [
+        "choice": [
           {
             "text": "le pouvoir de guérir.",
             "answer": "false"
@@ -5039,7 +5039,7 @@
       {
         "number": "220",
         "text": "Le roi Nebucadnetsar eut des songes et en fut bouleversé. Il fit venir magiciens, astrologues et prêtres. Quelles menaces pesaient sur eux ?",
-        "select": [
+        "choice": [
           {
             "text": "jetés dans la fosse aux lions.",
             "answer": "false"
@@ -5062,7 +5062,7 @@
       {
         "number": "221",
         "text": "Le roi Nebucadnetsar eut des songes et en fut bouleversé. Qui lui expliqua ses songes ?",
-        "select": [
+        "choice": [
           {
             "text": "L'apôtre Paul.",
             "answer": "false"
@@ -5085,7 +5085,7 @@
       {
         "number": "222",
         "text": "Nebucadnetsar éleva une statue d'or de 33 mètres et exigea que tout homme de toute langue se prosterne et l'adore au moment de .....",
-        "select": [
+        "choice": [
           {
             "text": "se lever, de manger et se coucher.",
             "answer": "false"
@@ -5108,7 +5108,7 @@
       {
         "number": "223",
         "text": "Abed-Nego, Schadrac et Méschac furent jetés dans la fournaise ardente. Le feu n'eut pas d'effet sur eux. Pourquoi y furent-ils précipités ?",
-        "select": [
+        "choice": [
           {
             "text": "Ils refusaient d'adorer la statue.",
             "answer": "true"
@@ -5131,7 +5131,7 @@
       {
         "number": "224",
         "text": "Le roi Nebucadnetsar jeta Schadrac, Méschac et Abed-Nego au milieu de la fournaise ardente. Un moment plus tard, qu'y trouva-t-il ?",
-        "select": [
+        "choice": [
           {
             "text": "4 hommes marchant dans le feu.",
             "answer": "true"
@@ -5154,7 +5154,7 @@
       {
         "number": "225",
         "text": "Combien de fois par jour, Daniel se retirait-il dans sa chambre, s'agenouillant vers Jérusalem pour adorer et louer son Dieu ?",
-        "select": [
+        "choice": [
           {
             "text": "1 fois par jour",
             "answer": "false"
@@ -5177,7 +5177,7 @@
       {
         "number": "226",
         "text": "Daniel fut jeté dans la fosse au milieu des lions affamés. L'ouverture de la fosse fut scellée avec une pierre. Combien de temps y resta-t-il ?",
-        "select": [
+        "choice": [
           {
             "text": "Quelques minutes et fut dévoré.",
             "answer": "false"
@@ -5200,7 +5200,7 @@
       {
         "number": "227",
         "text": "Quel âge avait Abram lorsque l'Eternel changea son nom pour Abraham ?",
-        "select": [
+        "choice": [
           {
             "text": "50 ans",
             "answer": "false"
@@ -5223,7 +5223,7 @@
       {
         "number": "228",
         "text": "Où se trouvait Lot lorsque les deux anges arrivèrent à la ville de Sodome ?",
-        "select": [
+        "choice": [
           {
             "text": "Assis dans sa maison",
             "answer": "false"
@@ -5246,7 +5246,7 @@
       {
         "number": "229",
         "text": "A cause de leurs péchés, l'Eternel détruisit les villes de Sodome et Gomorrhe. En regardant en arrière, elle devint une statue de sel ?",
-        "select": [
+        "choice": [
           {
             "text": "Une des filles de Lot",
             "answer": "false"
@@ -5269,7 +5269,7 @@
       {
         "number": "230",
         "text": "Quel nom Abraham donna-t-il au fils que Sara lui enfanta ?",
-        "select": [
+        "choice": [
           {
             "text": "Ismaël",
             "answer": "false"
@@ -5292,7 +5292,7 @@
       {
         "number": "231",
         "text": "Complétez: \" Car tous ont péché et sont ...................; et ils sont gratuitement justifiés par sa grâce, par le moyen de la rédemption ... \"",
-        "select": [
+        "choice": [
           {
             "text": "privés de la gloire de Dieu",
             "answer": "true"
@@ -5315,7 +5315,7 @@
       {
         "number": "232",
         "text": "Complétez: \" Mais Dieu prouve son amour envers nous, en ce que lorsque nous étions encore des pécheurs, ........................\"",
-        "select": [
+        "choice": [
           {
             "text": "il eut compassion des perdus",
             "answer": "false"
@@ -5338,7 +5338,7 @@
       {
         "number": "233",
         "text": "Complétez: \" Nous savons du reste, que toutes choses concourent au bien de ceux ......................., de ceux qui sont appelés selon son dessein.\"",
-        "select": [
+        "choice": [
           {
             "text": "qui obéissent à la volonté de Dieu",
             "answer": "false"
@@ -5361,7 +5361,7 @@
       {
         "number": "234",
         "text": "Complétez: \" Ainsi la foi vient de ce qu'on entend, et ce qu'on entend ...............................\"",
-        "select": [
+        "choice": [
           {
             "text": "fait une chaleur à nos coeurs.",
             "answer": "false"
@@ -5384,7 +5384,7 @@
       {
         "number": "235",
         "text": "Quand le fils d'Agar eut grandi, il habita dans le désert de Paran. Il devint un habile tireur à l'arc. Sa mère lui fit épouser ...",
-        "select": [
+        "choice": [
           {
             "text": "une Cananéenne.",
             "answer": "false"
@@ -5407,7 +5407,7 @@
       {
         "number": "236",
         "text": "Complétez: \" Car ......................... est une folie pour ceux qui périssent; mais pour nous qui sommes sauvés elle est une puissance de Dieu. \"",
-        "select": [
+        "choice": [
           {
             "text": "la prédication de la croix",
             "answer": "true"
@@ -5430,7 +5430,7 @@
       {
         "number": "237",
         "text": "Qui a dit: \" Soyez mes imitateurs, comme je le suis moi-même de Christ. \" ?",
-        "select": [
+        "choice": [
           {
             "text": "Jean",
             "answer": "false"
@@ -5453,7 +5453,7 @@
       {
         "number": "238",
         "text": "\" Si quelqu'un est en Christ, il est une nouvelle création. Les choses anciennes sont passées; voici toutes choses sont devenues nouvelles. \" V ou F",
-        "select": [
+        "choice": [
           {
             "text": "Vrai",
             "answer": "true"
@@ -5474,7 +5474,7 @@
       {
         "number": "239",
         "text": "Complétez: \" Car c'est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous, c'est ........................ \"",
-        "select": [
+        "choice": [
           {
             "text": "par la mort sanglante de Jésus.",
             "answer": "false"
@@ -5497,7 +5497,7 @@
       {
         "number": "240",
         "text": "Complétez: \" Toute Écriture est inspirée de Dieu, et utile pour enseigner, pour convaincre, pour corriger, pour ................................,\"",
-        "select": [
+        "choice": [
           {
             "text": "instruire dans la justice",
             "answer": "true"
@@ -5520,7 +5520,7 @@
       {
         "number": "241",
         "text": "Qui était Timothée ?",
-        "select": [
+        "choice": [
           {
             "text": "Le nom d'une épître.",
             "answer": "false"
@@ -5543,7 +5543,7 @@
       {
         "number": "242",
         "text": "L'ange de l'Éternel apparut à la femme stérile et lui dit: \" Tu deviendras enceinte et le rasoir ne passera pas sur sa tête...\" Qui est cet enfant ?",
-        "select": [
+        "choice": [
           {
             "text": "Jésus",
             "answer": "false"
@@ -5566,7 +5566,7 @@
       {
         "number": "243",
         "text": "Samson descendit avec son père et sa mère à Thimma. Un jeune lion rugissant vint à sa rencontre. Qu'arriva-t-il ?",
-        "select": [
+        "choice": [
           {
             "text": "Il déchira le lion de ses mains.",
             "answer": "true"
@@ -5589,7 +5589,7 @@
       {
         "number": "244",
         "text": "Combien d'hommes Philistins Samson tua-t-il avec une mâchoire d'âne fraîche ?",
-        "select": [
+        "choice": [
           {
             "text": "100 hommes.",
             "answer": "false"
@@ -5612,7 +5612,7 @@
       {
         "number": "245",
         "text": "Quel est le nom de la femme qui vendit le secret de la force de Samson à ses ennemis les Philistins ?",
-        "select": [
+        "choice": [
           {
             "text": "Delila",
             "answer": "true"
@@ -5635,7 +5635,7 @@
       {
         "number": "246",
         "text": "De quelle façon Delila fit-elle en sorte que Samson perdit son incroyable force ?",
-        "select": [
+        "choice": [
           {
             "text": "Elle lui creva les yeux.",
             "answer": "false"
@@ -5658,7 +5658,7 @@
       {
         "number": "247",
         "text": "Le rasoir ne devait point passer sur sa tête car il était consacré à Dieu dès le ventre de sa mère.Qui est-ce ?",
-        "select": [
+        "choice": [
           {
             "text": "David",
             "answer": "false"
@@ -5681,7 +5681,7 @@
       {
         "number": "248",
         "text": "Un lépreux vint à Jésus. Ému, Jésus étendit la main et le guérit. Puis, il le renvoya. Il lui recommanda de .................................",
-        "select": [
+        "choice": [
           {
             "text": "publier bien haut ce miracle.",
             "answer": "false"
@@ -5704,7 +5704,7 @@
       {
         "number": "249",
         "text": "A Capernaüm, un grand nombre de personnes étaient assemblées dans une maison pour entendre Jésus. Quatre hommes arrivèrent avec un paralytique et..",
-        "select": [
+        "choice": [
           {
             "text": "le poussèrent par la fenêtre.",
             "answer": "false"
@@ -5727,7 +5727,7 @@
       {
         "number": "250",
         "text": "Jésus se mit à table avec des publicains et des gens de mauvaise vie. Aux scribes et pharisiens outrés il dit: \" Je ne suis pas venu appeler .....\"",
-        "select": [
+        "choice": [
           {
             "text": "des justes, mais des pécheurs.",
             "answer": "true"
@@ -5750,7 +5750,7 @@
       {
         "number": "251",
         "text": "Jésus chassait les esprits impurs des possédés. Est-ce que ces esprits le reconnaissaient ?",
-        "select": [
+        "choice": [
           {
             "text": "Oui",
             "answer": "true"
@@ -5772,7 +5772,7 @@
       {
         "number": "252",
         "text": "Parmi les noms suivants, lequel n'est pas un apôtre ?",
-        "select": [
+        "choice": [
           {
             "text": "Jacques",
             "answer": "false"
@@ -5795,7 +5795,7 @@
       {
         "number": "253",
         "text": "Vrai ou Faux ? Les parents de Jésus ayant appris ce qui se passait à son sujet, vinrent pour se saisir de lui en disant: \" Il est hors de sens.\"",
-        "select": [
+        "choice": [
           {
             "text": "Vrai",
             "answer": "true"
@@ -5816,7 +5816,7 @@
       {
         "number": "254",
         "text": "Dans la parabole du semeur, que représente la semence ?",
-        "select": [
+        "choice": [
           {
             "text": "Les bonnes oeuvres.",
             "answer": "false"
@@ -5839,7 +5839,7 @@
       {
         "number": "255",
         "text": "Qu'arriva-t-il aux esprits impurs nommés Légion que Jésus chassa du possédé et qui entrèrent dans des pourceaux ?",
-        "select": [
+        "choice": [
           {
             "text": "Ils finirent noyés dans la mer.",
             "answer": "true"
@@ -5862,7 +5862,7 @@
       {
         "number": "256",
         "text": "Salomé dansa et plut à Hérode le roi. Il lui dit: \" Demande-moi ce que tu voudras, et je te le donnerai,...\" Qu'a-t-elle demandé ?",
-        "select": [
+        "choice": [
           {
             "text": "La moitié du royaume.",
             "answer": "false"
@@ -5885,7 +5885,7 @@
       {
         "number": "257",
         "text": "Il craignait Jean-Baptiste, le connaissant pour un homme juste et saint; il le protégeait et l'écoutait avec plaisir. Qui est-ce ?",
-        "select": [
+        "choice": [
           {
             "text": "Hérode le Tétrarque",
             "answer": "true"
@@ -5908,7 +5908,7 @@
       {
         "number": "258",
         "text": "Pourquoi Hérode le Tétrarque fit-il décapiter Jean-Baptiste ?",
-        "select": [
+        "choice": [
           {
             "text": "Jean le harcelait avec Hérodias.",
             "answer": "false"
@@ -5931,7 +5931,7 @@
       {
         "number": "259",
         "text": "Comment s'appelait la mère de Salomé (celle qui dansa pour le roi Hérode et demanda en retour la tête de Jean-Baptiste sur un plat) ?",
-        "select": [
+        "choice": [
           {
             "text": "Salomé 1",
             "answer": "false"
@@ -5954,7 +5954,7 @@
       {
         "number": "260",
         "text": "En quelques lieux que Jésus allait, on mettait les malades sur les places publiques et tous étaient guéris après .................................",
-        "select": [
+        "choice": [
           {
             "text": "avoir touché à son vêtement.",
             "answer": "true"
@@ -5977,7 +5977,7 @@
       {
         "number": "261",
         "text": "Complétez: \" Laissez venir à moi les petits enfants, et ne les en empêchez pas; car le royaume de Dieu est ...................................\"",
-        "select": [
+        "choice": [
           {
             "text": "à eux.",
             "answer": "false"
@@ -6000,7 +6000,7 @@
       {
         "number": "262",
         "text": "Complétez: \" Mais quiconque veut être grand parmi vous, qu'il soit ..................: et quiconque veut être le premier soit l'esclave de tous.\"",
-        "select": [
+        "choice": [
           {
             "text": "obéissant et rempli de bons fruits",
             "answer": "false"
@@ -6023,7 +6023,7 @@
       {
         "number": "263",
         "text": "Comment débute le premier verset de la Bible ?",
-        "select": [
+        "choice": [
           {
             "text": "Ce livre contient la parole de ...",
             "answer": "false"
@@ -6046,7 +6046,7 @@
       {
         "number": "264",
         "text": "Complétez: \" Soumettez-vous donc à Dieu; résistez au Diable, et .............................\"",
-        "select": [
+        "choice": [
           {
             "text": "il fuira loin de vous.",
             "answer": "true"
@@ -6069,7 +6069,7 @@
       {
         "number": "265",
         "text": "\" Voici, je me tiens à la porte, et je frappe. Si quelqu'un entend ma voix et ouvre la porte, j'entrerai chez lui, je souperai avec lui...\"",
-        "select": [
+        "choice": [
           {
             "text": "Évangile de Jean 12:14",
             "answer": "false"
@@ -6092,7 +6092,7 @@
       {
         "number": "266",
         "text": "Complétez: \" Car Dieu a tant aimé le monde qu'il a donné son fils unique, afin que quiconque croit en lui ne périsse point, mais ....................",
-        "select": [
+        "choice": [
           {
             "text": "qu'il ait la vie éternelle.",
             "answer": "true"
@@ -6115,7 +6115,7 @@
       {
         "number": "267",
         "text": "Dans la vision de Jean sur l'île de Patmos, qui fut trouvé digne d'ouvrir le livre scellé de sept sceaux ?",
-        "select": [
+        "choice": [
           {
             "text": "Personne",
             "answer": "false"
@@ -6138,7 +6138,7 @@
       {
         "number": "268",
         "text": "Combien de Bibles ont-elles été distribuées par le monde en 1994 ?",
-        "select": [
+        "choice": [
           {
             "text": "5,8 millions",
             "answer": "false"
@@ -6161,7 +6161,7 @@
       {
         "number": "269",
         "text": "Combien d'exemplaires du Nouveau Testament et des textes évangéliques ou bibliques ont-ils été distribués par le monde en 1994 ?",
-        "select": [
+        "choice": [
           {
             "text": "24,9 millions",
             "answer": "false"
@@ -6184,7 +6184,7 @@
       {
         "number": "270",
         "text": "La Bible est depuis longtemps le \" Bestseller \" mondial. En 1500, en combien de langue était traduite la Bonne Nouvelle ?",
-        "select": [
+        "choice": [
           {
             "text": "2 langues",
             "answer": "false"
@@ -6207,7 +6207,7 @@
       {
         "number": "271",
         "text": "Jacob aimait un de ses 12 fils plus que les autres et lui confectionna une belle tunique multicolore. Qui est-ce ?",
-        "select": [
+        "choice": [
           {
             "text": "Lévi",
             "answer": "false"
@@ -6230,7 +6230,7 @@
       {
         "number": "272",
         "text": "Jacob eut des enfants avec quatre femmes. Combien de fils a-t-il engendré ?",
-        "select": [
+        "choice": [
           {
             "text": "7",
             "answer": "false"
@@ -6253,7 +6253,7 @@
       {
         "number": "273",
         "text": "Les frères de Joseph le détestaient et complotèrent pour le faire mourir. Que firent-ils pour s'en débarrasser ?",
-        "select": [
+        "choice": [
           {
             "text": "Ils le lapidèrent mortellement.",
             "answer": "false"
@@ -6276,7 +6276,7 @@
       {
         "number": "274",
         "text": "Potiphar, officier de Pharaon acheta Joseph. Il le fit habiter avec lui. De quoi se rendit-il compte ?",
-        "select": [
+        "choice": [
           {
             "text": "Que Joseph était hébreu.",
             "answer": "false"
@@ -6299,7 +6299,7 @@
       {
         "number": "275",
         "text": "Potiphar vit que l'Éternel était avec Joseph et il l'établit sur sa maison et sur tout ce qu'il possédait. Une seule chose lui était interdite ?",
-        "select": [
+        "choice": [
           {
             "text": "La femme de Potiphar.",
             "answer": "true"
@@ -6322,7 +6322,7 @@
       {
         "number": "276",
         "text": "De quel crime Joseph fut-il accusé par la femme de Potiphar, officier de Pharaon ?",
-        "select": [
+        "choice": [
           {
             "text": "D'avoir voulu la violer.",
             "answer": "true"
@@ -6345,7 +6345,7 @@
       {
         "number": "277",
         "text": "Qui expliqua les songes du chef des panetiers et du chef des échansons de Pharaon ?",
-        "select": [
+        "choice": [
           {
             "text": "Joseph",
             "answer": "true"
@@ -6368,7 +6368,7 @@
       {
         "number": "278",
         "text": "Dans le songe de Pharaon, que représentaient les vaches maigres ?",
-        "select": [
+        "choice": [
           {
             "text": "Des années de défaites de guerres.",
             "answer": "false"
@@ -6391,7 +6391,7 @@
       {
         "number": "279",
         "text": "Dans le songe de Pharaon, que représentaient les sept vaches grasses ?",
-        "select": [
+        "choice": [
           {
             "text": "Sept riches royaumes conquis.",
             "answer": "false"
@@ -6414,7 +6414,7 @@
       {
         "number": "280",
         "text": "Il y eut sept années d'abondance pendant lesquelles Joseph engrangea les produits de la terre. Quelle quantité de blé amassa-t-il ?",
-        "select": [
+        "choice": [
           {
             "text": "3 millions de boisseaux.",
             "answer": "false"
@@ -6437,7 +6437,7 @@
       {
         "number": "281",
         "text": "Où trouve-t-on: \" Tu te lèveras devant les cheveux blancs, et tu honoreras la personne du vieillard. \" ?",
-        "select": [
+        "choice": [
           {
             "text": "Lévitique 19:32",
             "answer": "true"
@@ -6460,7 +6460,7 @@
       {
         "number": "282",
         "text": "Furieux, Haman convainquit le roi Assuérus de le laisser agir. Il transmit un ordre du roi à toutes les provinces ordonnant de ......................",
-        "select": [
+        "choice": [
           {
             "text": "se prosterner devant la statue.",
             "answer": "false"
@@ -6483,7 +6483,7 @@
       {
         "number": "283",
         "text": "Esther devint reine. Le roi Assuérus la préféra d'entre toutes. Elle obtient la grâce pour son peuple et la mort de son ennemi, le méchant ......",
-        "select": [
+        "choice": [
           {
             "text": "Haman",
             "answer": "true"
@@ -6506,7 +6506,7 @@
       {
         "number": "284",
         "text": "De quelle façon Haman est-il mort ?",
-        "select": [
+        "choice": [
           {
             "text": "Pendu au bois.",
             "answer": "true"
@@ -6529,7 +6529,7 @@
       {
         "number": "285",
         "text": "De quelle façon Dieu mit-il Abraham à l'épreuve ?",
-        "select": [
+        "choice": [
           {
             "text": "Il lui fit perdre ses richesses.",
             "answer": "false"
@@ -6552,7 +6552,7 @@
       {
         "number": "286",
         "text": "Comment Jacob s'y prit-il pour voler la bénédiction d'Isaac pour Ésaü ?",
-        "select": [
+        "choice": [
           {
             "text": "Il se fit passer pour son frère.",
             "answer": "true"
@@ -6575,7 +6575,7 @@
       {
         "number": "287",
         "text": "Le serviteur n'ayant pas fini de parler, que sortit, sa cruche sur l'épaule, une femme très belle de figure. Elle deviendra la femme d'Isaac ?",
-        "select": [
+        "choice": [
           {
             "text": "Bath-Schéba.",
             "answer": "false"
@@ -6598,7 +6598,7 @@
       {
         "number": "288",
         "text": "Qu'était-ce qu'un boisseau ?",
-        "select": [
+        "choice": [
           {
             "text": "Un petit arbre des collines de Gaza",
             "answer": "false"
@@ -6621,7 +6621,7 @@
       {
         "number": "289",
         "text": "Rébecca, femme d'Isaac avait un frère. Comment se nomme-t-il ?",
-        "select": [
+        "choice": [
           {
             "text": "Béthuel.",
             "answer": "false"
@@ -6644,7 +6644,7 @@
       {
         "number": "290",
         "text": "Jacob devait être recouvert de poils afin que son père ne le reconnaisse pas. De quelle peau d'animal Rébecca s'est-elle servie ?",
-        "select": [
+        "choice": [
           {
             "text": "De la peau de moutons.",
             "answer": "false"
@@ -6667,7 +6667,7 @@
       {
         "number": "291",
         "text": "Esaü conçut de la haine contre Jacob, à cause de la bénédiction qui lui revenait et dont son frère avait pris la place. Que mijota-t-il en son coeur",
-        "select": [
+        "choice": [
           {
             "text": "De lui prendre sa femme.",
             "answer": "false"
@@ -6690,7 +6690,7 @@
       {
         "number": "292",
         "text": "Rébecca apprit qu'Esaü voulait faire mourir Jacob en se vengeant de ce qu'il lui avait fait. Elle dit à Jacob de s'en aller. Où l'envoya-t-elle ?",
-        "select": [
+        "choice": [
           {
             "text": "Chez Lot à Sodome.",
             "answer": "false"
@@ -6713,7 +6713,7 @@
       {
         "number": "293",
         "text": "Après la mort de Sara, Abraham prit une autre femme qui lui donna 6 fils: Zimram, Jokschan, Médan, Madian, Jischbak et Schuach. Qui était-elle ?",
-        "select": [
+        "choice": [
           {
             "text": "Milca",
             "answer": "false"
@@ -6736,7 +6736,7 @@
       {
         "number": "294",
         "text": "Jacob est le fils de Rébecca et d'Isaac. Qui est son frère jumeau ?",
-        "select": [
+        "choice": [
           {
             "text": "Ismaël",
             "answer": "false"
@@ -6759,7 +6759,7 @@
       {
         "number": "295",
         "text": "Ésaü prit une troisième épouse dans la famille de son oncle Ismaël. Comment se nommait-elle ?",
-        "select": [
+        "choice": [
           {
             "text": "Rébecca",
             "answer": "false"
@@ -6782,7 +6782,7 @@
       {
         "number": "296",
         "text": "Ces quatre hommes sont les fils d'Abraham, tous deviendront de grandes nations. Mais un seul était celui de la promesse faite à Abraham par Dieu ?",
-        "select": [
+        "choice": [
           {
             "text": "Zimram",
             "answer": "false"
@@ -6805,7 +6805,7 @@
       {
         "number": "297",
         "text": "Qui n'est pas le fils de la promesse faite à Abraham par l'Eternel ?",
-        "select": [
+        "choice": [
           {
             "text": "Ismaël.",
             "answer": "true"
@@ -6826,7 +6826,7 @@
       {
         "number": "298",
         "text": "Le peuple d'Israël affamé au désert murmura. Il était las de ne manger que de la manne. Qu'était cet aliment ?",
-        "select": [
+        "choice": [
           {
             "text": "Petit oiseau de type perdrix.",
             "answer": "false"
@@ -6849,7 +6849,7 @@
       {
         "number": "299",
         "text": "Les Israélites furent las de manger de la manne. Alors, l'Éternel fit souffler un vent de la mer qui répandit à la surface de la terre ......",
-        "select": [
+        "choice": [
           {
             "text": "des sauterelles comestibles.",
             "answer": "false"
@@ -6872,7 +6872,7 @@
       {
         "number": "300",
         "text": "Marie et Aaron parlèrent contre Moïse à propos de sa femme éthiopienne. Dans la tente d'assignation, l'Éternel s'enflamma de colère et Marie .......",
-        "select": [
+        "choice": [
           {
             "text": "fut consumée par le feu.",
             "answer": "false"
@@ -6895,7 +6895,7 @@
       {
         "number": "301",
         "text": "Le peuple demanda de la viande, lassé de la manne qu'il mangeait depuis plus de 40 ans au désert. L'Éternel envoya les cailles qu'ils mangèrent ...",
-        "select": [
+        "choice": [
           {
             "text": "pendant plus d'un mois.",
             "answer": "true"
@@ -6918,7 +6918,7 @@
       {
         "number": "302",
         "text": "Moïse envoya des hommes pour explorer le pays de Canaan que l'Éternel avait donné. On les appelait les espions. Combien étaient-ils ?",
-        "select": [
+        "choice": [
           {
             "text": "7 espions.",
             "answer": "false"
@@ -6941,7 +6941,7 @@
       {
         "number": "303",
         "text": "Que trouvèrent les 12 espions envoyés par Moïse pour explorer le pays de Canaan ?",
-        "select": [
+        "choice": [
           {
             "text": "Un désert immense et infertile.",
             "answer": "false"
@@ -6964,7 +6964,7 @@
       {
         "number": "304",
         "text": "Les 12 espions envoyés par Moïse pour explorer le pays de Canaan, y trouvèrent des fruits en abondance. Quelle particularité avaient ses habitants?",
-        "select": [
+        "choice": [
           {
             "text": "Ils étaient cannibales.",
             "answer": "false"
@@ -6987,7 +6987,7 @@
       {
         "number": "305",
         "text": "L'Éternel châtia le peuple qui avait décrié contre le pays de Canaan. Ils furent contraints à errer 40 ans au désert et tous ceux qui avaient .......",
-        "select": [
+        "choice": [
           {
             "text": "murmuré contraints à y mourir.",
             "answer": "false"
@@ -7010,7 +7010,7 @@
       {
         "number": "306",
         "text": "Qui des 12 espions entrèrent dans le pays de Canaan après 40 années d'errance au désert ?",
-        "select": [
+        "choice": [
           {
             "text": "Moïse et Caleb.",
             "answer": "false"
@@ -7033,7 +7033,7 @@
       {
         "number": "307",
         "text": "Isaac fit partir Jacob, qui s'en alla à ..............., auprès de Laban, fils de Béthuel.",
-        "select": [
+        "choice": [
           {
             "text": "Paddan-Aram",
             "answer": "true"
@@ -7056,7 +7056,7 @@
       {
         "number": "308",
         "text": "Après que Jacob eut quitté son père et sa mère pour se rendre en Mésopotamie chez Laban, à qui a-t-il parlé en premier ?",
-        "select": [
+        "choice": [
           {
             "text": "Les bergers de Laban.",
             "answer": "true"
@@ -7079,7 +7079,7 @@
       {
         "number": "309",
         "text": "Quel métier exerçait Rachel fille de Laban ?",
-        "select": [
+        "choice": [
           {
             "text": "Couturière.",
             "answer": "false"
@@ -7102,7 +7102,7 @@
       {
         "number": "310",
         "text": "Combien d'années Jacob dut-il travailler de nouveau pour Laban avant qu'il lui eut donné Rachel pour femme ?",
-        "select": [
+        "choice": [
           {
             "text": "15 ans.",
             "answer": "false"
@@ -7125,7 +7125,7 @@
       {
         "number": "311",
         "text": "Quel est le lien de parenté entre Léa et Rachel ?",
-        "select": [
+        "choice": [
           {
             "text": "Elles sont soeurs.",
             "answer": "true"
@@ -7148,7 +7148,7 @@
       {
         "number": "312",
         "text": "Léa engendra combien de fils à Jacob ?",
-        "select": [
+        "choice": [
           {
             "text": "5 fils.",
             "answer": "false"
@@ -7171,7 +7171,7 @@
       {
         "number": "313",
         "text": "Pourquoi Léa donna-t-elle sa servante Zilpa pour femme à Jacob ?",
-        "select": [
+        "choice": [
           {
             "text": "Voulait donner d'autres fils.",
             "answer": "false"
@@ -7194,7 +7194,7 @@
       {
         "number": "314",
         "text": "Rachel donna sa servante Bilha pour femme à Jacob. Combien lui enfanta-t-elle de fils ?",
-        "select": [
+        "choice": [
           {
             "text": "3 fils.",
             "answer": "false"
@@ -7217,7 +7217,7 @@
       {
         "number": "315",
         "text": "Rachel enfanta deux fils à Jacob. Comment se nomment-ils ?",
-        "select": [
+        "choice": [
           {
             "text": "Lévi et Joseph.",
             "answer": "false"
@@ -7240,7 +7240,7 @@
       {
         "number": "316",
         "text": "Rachel enfanta un premier fils à Jacob qu'elle nomma Joseph. Plus tard, elle décéda en donnant le jour à un second fils. Qui est-il ?",
-        "select": [
+        "choice": [
           {
             "text": "Zabulon.",
             "answer": "false"
@@ -7263,7 +7263,7 @@
       {
         "number": "317",
         "text": "Combien de fils engendra Jacob au cours de sa vie?",
-        "select": [
+        "choice": [
           {
             "text": "10 fils.",
             "answer": "false"
@@ -7286,7 +7286,7 @@
       {
         "number": "318",
         "text": "Jacob eut 12 fils au cours de sa vie, 6 avec Léa, 2 avec Zilpa, 2 avec Rachel, 2 avec Bilha. Comment se nomme le plus jeune ?",
-        "select": [
+        "choice": [
           {
             "text": "Issacar.",
             "answer": "false"
@@ -7309,7 +7309,7 @@
       {
         "number": "319",
         "text": "Moïse déposa les 12 verges des princes des tribus d'Israël dans la tente d'assignation. Qu'arriva-t-il à la verge d'Aaron ?",
-        "select": [
+        "choice": [
           {
             "text": "Elle fleurit.",
             "answer": "true"
@@ -7332,7 +7332,7 @@
       {
         "number": "320",
         "text": "L'Éternel s'enflamma contre Balaam qui était parti avec les chefs de Moab. Que fit-il pour le ramener vers les chefs de Balak ?",
-        "select": [
+        "choice": [
           {
             "text": "Il le rendit aveugle pour un temps.",
             "answer": "false"
@@ -7355,7 +7355,7 @@
       {
         "number": "321",
         "text": "Le peuple d'Israël s'attacha aux dieux des filles de Moab. La colère de l'Éternel s'enflamma contre Israël. Combien moururent de la plaie ?",
-        "select": [
+        "choice": [
           {
             "text": "5000.",
             "answer": "false"
@@ -7378,7 +7378,7 @@
       {
         "number": "322",
         "text": "Qui est la PAROLE telle que décrite dans le premier chapitre de l'évangile de Jean ?",
-        "select": [
+        "choice": [
           {
             "text": "Jésus-Christ.",
             "answer": "true"
@@ -7401,7 +7401,7 @@
       {
         "number": "323",
         "text": "Où trouve-t-on: \" Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne périsse point,...\" ?",
-        "select": [
+        "choice": [
           {
             "text": "Ro 3:23",
             "answer": "false"
@@ -7424,7 +7424,7 @@
       {
         "number": "324",
         "text": "Complétez: \" Celui qui croit ................ a la vie éternelle; celui qui ne croit pas au Fils ne verra point la vie,...\"",
-        "select": [
+        "choice": [
           {
             "text": "au Fils",
             "answer": "true"
@@ -7447,7 +7447,7 @@
       {
         "number": "325",
         "text": "Jésus fatigué s'assit près du puits de Jacob. Une femme vint y puiser de l'eau et lui donna à boire. D'où venait-elle ?",
-        "select": [
+        "choice": [
           {
             "text": "De Samarie.",
             "answer": "true"
@@ -7470,7 +7470,7 @@
       {
         "number": "326",
         "text": "Complétez: \" Dieu est Esprit, et il faut que ceux qui l'adorent l'adorent .........................\"",
-        "select": [
+        "choice": [
           {
             "text": "de toute leur force.",
             "answer": "false"
@@ -7493,7 +7493,7 @@
       {
         "number": "327",
         "text": "\" Celui qui écoute ma parole, et qui croit en celui qui m'a envoyé, a la vie éternelle et ne vient point en jugement, mais ........................\"",
-        "select": [
+        "choice": [
           {
             "text": "il est passé de la mort à la vie.",
             "answer": "true"
@@ -7516,7 +7516,7 @@
       {
         "number": "328",
         "text": "\" ........................... c'est que quiconque voit le Fils et croit en lui ait la vie éternelle; et je le ressusciterai au dernier jour. \"",
-        "select": [
+        "choice": [
           {
             "text": "La volonté de mon Père",
             "answer": "true"
@@ -7539,7 +7539,7 @@
       {
         "number": "329",
         "text": "Complétez: \" Celui qui est de Dieu ..........................; vous n'écoutez pas, parce que vous n'êtes pas de Dieu. \"",
-        "select": [
+        "choice": [
           {
             "text": "fait ma volonté",
             "answer": "false"
@@ -7562,7 +7562,7 @@
       {
         "number": "330",
         "text": "Où trouve-t-on: \" Je suis la porte. Si quelqu'un entre par moi, il sera sauvé; il entrera et il sortira, et il trouvera des pâturages. \"",
-        "select": [
+        "choice": [
           {
             "text": "Apocalypse",
             "answer": "false"
@@ -7585,7 +7585,7 @@
       {
         "number": "331",
         "text": "Complétez: \" Je suis ............................. Nul ne vient au Père que par moi. \"",
-        "select": [
+        "choice": [
           {
             "text": "le chemin, la vérité et la vie.",
             "answer": "true"
@@ -7608,7 +7608,7 @@
       {
         "number": "332",
         "text": "Complétez: \" ....................... c'est qu'ils te connaissent, toi, le seul vrai Dieu, et celui que tu as envoyé, Jésus-Christ. \"",
-        "select": [
+        "choice": [
           {
             "text": "Ma mission sur terre",
             "answer": "false"
@@ -7631,7 +7631,7 @@
       {
         "number": "333",
         "text": "Est-ce que Jésus a vraiment dit: \" Demandez, et vous recevrez, afin que votre joie soit parfaite. \" ?",
-        "select": [
+        "choice": [
           {
             "text": "Vrai",
             "answer": "true"
@@ -7652,7 +7652,7 @@
       {
         "number": "334",
         "text": "Dans la parabole du fils perdu, quels animaux le fils sans le sou doit-il garder ?",
-        "select": [
+        "choice": [
           {
             "text": "Des ânes",
             "answer": "false"
@@ -7675,7 +7675,7 @@
       {
         "number": "335",
         "text": "En quittant Jérusalem, où se rendaient les deux disciples que Jésus accompagne sur la route, après sa résurrection ?",
-        "select": [
+        "choice": [
           {
             "text": "Emmaüs",
             "answer": "true"
@@ -7698,7 +7698,7 @@
       {
         "number": "336",
         "text": "Combien de temps Marie resta-t-elle chez sa cousine Élisabeth, qui attendait un enfant ?",
-        "select": [
+        "choice": [
           {
             "text": "Environ trois mois",
             "answer": "true"
@@ -7721,7 +7721,7 @@
       {
         "number": "337",
         "text": "Quel était le premier nom de Pierre ?",
-        "select": [
+        "choice": [
           {
             "text": "Simon",
             "answer": "true"
@@ -7744,7 +7744,7 @@
       {
         "number": "338",
         "text": "Parabole du bon samaritain : Les brigands ont laissé le blessé au bord de la route. Deux hommes passent sans lui porter secours ...",
-        "select": [
+        "choice": [
           {
             "text": "Deux bergers",
             "answer": "false"
@@ -7767,7 +7767,7 @@
       {
         "number": "339",
         "text": "Parabole du bon samaritain : Les brigands ont laissé le blessé au bord de la route. Deux hommes passent sans lui porter secours ...",
-        "select": [
+        "choice": [
           {
             "text": "Deux bergers",
             "answer": "false"
@@ -7790,7 +7790,7 @@
       {
         "number": "340",
         "text": "Dans le désert, que répondit Jésus au diable qui lui proposait de changer des pierres en pains ? Mt 4",
-        "select": [
+        "choice": [
           {
             "text": "Va-t-en Satan !",
             "answer": "false"
@@ -7813,7 +7813,7 @@
       {
         "number": "341",
         "text": "Comment les mages avaient-ils appris la naissance de Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Par un messager d'Hérode.",
             "answer": "false"
@@ -7836,7 +7836,7 @@
       {
         "number": "342",
         "text": "Où Syméon prononça-t-il une bénédiction sur Jésus et sur ses parents ?",
-        "select": [
+        "choice": [
           {
             "text": "Dans une maison de Bethléem",
             "answer": "false"
@@ -7859,7 +7859,7 @@
       {
         "number": "343",
         "text": "Quel est le nom de l'homme qui monta sur un arbre pour voir Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Jacques le petit",
             "answer": "false"
@@ -7882,7 +7882,7 @@
       {
         "number": "344",
         "text": "Quand Jésus demande d'ouvrir le tombeau de Lazare, quelle est l'objection de sa soeur Marthe ?",
-        "select": [
+        "choice": [
           {
             "text": "Il sent déjà.",
             "answer": "true"
@@ -7905,7 +7905,7 @@
       {
         "number": "345",
         "text": "En quelles langues Pilate avait-il écrit l'inscription qu'on posa au-dessus de la croix de Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Hébreu",
             "answer": "false"
@@ -7928,7 +7928,7 @@
       {
         "number": "346",
         "text": "Le grand prêtre : Es-tu le Christ, le fils du Dieu béni ? -- Je le suis, répond Jésus. Que fait alors le grand prêtre ?",
-        "select": [
+        "choice": [
           {
             "text": "Il déchire ses vêtements",
             "answer": "true"
@@ -7951,7 +7951,7 @@
       {
         "number": "347",
         "text": "Par quel cri de joie la foule salua-t-elle Jésus entrant triomphalement à Jérusalem ?",
-        "select": [
+        "choice": [
           {
             "text": "Alléluia !",
             "answer": "false"
@@ -7974,7 +7974,7 @@
       {
         "number": "348",
         "text": "Où étaient partis les disciples quand Jésus rencontre la Samaritaine près du puits de Jacob ?",
-        "select": [
+        "choice": [
           {
             "text": "Visiter un malade.",
             "answer": "false"
@@ -7997,7 +7997,7 @@
       {
         "number": "349",
         "text": "Qui sont les deux soeurs de Lazare, à Béthanie ?",
-        "select": [
+        "choice": [
           {
             "text": "Marthe et Marie",
             "answer": "true"
@@ -8020,7 +8020,7 @@
       {
         "number": "350",
         "text": "Pourquoi la Samaritaine était-elle venue près du puits de Jacob ?",
-        "select": [
+        "choice": [
           {
             "text": "Pour se promener",
             "answer": "false"
@@ -8043,7 +8043,7 @@
       {
         "number": "351",
         "text": "Que font Moïse et Elie, apparus à côté de Jésus, transfiguré, sur la montagne ?",
-        "select": [
+        "choice": [
           {
             "text": "Ils chantent la gloire de Dieu.",
             "answer": "false"

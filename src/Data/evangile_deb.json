@@ -5,7 +5,7 @@
       {
         "number": "1",
         "text": "Je suis la mère de Jésus. Quel est mon nom ?",
-        "select": [
+        "choice": [
           {
             "text": "Marthe",
             "answer": "false"
@@ -28,7 +28,7 @@
       {
         "number": "2",
         "text": "Quel est le premier livre du Nouveau Testament ?",
-        "select": [
+        "choice": [
           {
             "text": "L'évangile de Marc",
             "answer": "false"
@@ -51,7 +51,7 @@
       {
         "number": "3",
         "text": "Qui a trahi Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Jacques, fils de Zébédée",
             "answer": "false"
@@ -74,7 +74,7 @@
       {
         "number": "4",
         "text": "Dans quelle ville de Palestine Jésus est-il né ?",
-        "select": [
+        "choice": [
           {
             "text": "Bethléem",
             "answer": "true"
@@ -97,7 +97,7 @@
       {
         "number": "5",
         "text": "Frère de Marie et de Marthe, il fut ressuscité par Jésus. Qui est-ce ?",
-        "select": [
+        "choice": [
           {
             "text": "Lazare le mendiant",
             "answer": "false"
@@ -120,7 +120,7 @@
       {
         "number": "6",
         "text": "Au début de son ministère, le diable vint tenter Jésus. Pendant combien de jours et de nuits avait-il jeûné dans le désert ?",
-        "select": [
+        "choice": [
           {
             "text": "20",
             "answer": "false"
@@ -143,7 +143,7 @@
       {
         "number": "7",
         "text": "Avancée en âge, la femme de Zacharie enfanta un fils, par la grâce de Dieu. Comment se nomme-t-elle ?",
-        "select": [
+        "choice": [
           {
             "text": "Sara",
             "answer": "false"
@@ -166,7 +166,7 @@
       {
         "number": "8",
         "text": "Elisabeth, femme de Zacharie, enfanta un fils dans sa vieillesse. Qui est ce fils ?",
-        "select": [
+        "choice": [
           {
             "text": "Jean, l'apôtre",
             "answer": "false"
@@ -189,7 +189,7 @@
       {
         "number": "9",
         "text": "Pourquoi Joseph se rendit-il à Bethléem juste avant la naissance de Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Pour fuir Hérode",
             "answer": "false"
@@ -212,7 +212,7 @@
       {
         "number": "10",
         "text": "Quel livre se trouve entre l'évangile de Matthieu et l'évangile de Luc ?",
-        "select": [
+        "choice": [
           {
             "text": "L'évangile de Jean",
             "answer": "false"
@@ -235,7 +235,7 @@
       {
         "number": "11",
         "text": "A qui Jésus a-t-il dit : \" Avant que le coq chante aujourd'hui, tu auras dit trois fois que tu ne me connais pas.\" ?",
-        "select": [
+        "choice": [
           {
             "text": "Barthélémy",
             "answer": "false"
@@ -258,7 +258,7 @@
       {
         "number": "12",
         "text": "Joseph, le fiancé de Marie, voulait rompre secrètement avec elle, lorsqu'elle lui apprit qu'elle était enceinte. Pourquoi ne l'a-t-il pas fait ?",
-        "select": [
+        "choice": [
           {
             "text": "Il était trop timide",
             "answer": "false"
@@ -281,7 +281,7 @@
       {
         "number": "13",
         "text": "Que signifie le nom : EMMANUEL ?",
-        "select": [
+        "choice": [
           {
             "text": "Dieu donne",
             "answer": "false"
@@ -304,7 +304,7 @@
       {
         "number": "14",
         "text": "Qui a averti Joseph de quitter Bethléem et de fuir en Égypte, quand Hérode se préparait à faire massacrer tous les enfants de moins de deux ans ?",
-        "select": [
+        "choice": [
           {
             "text": "Un ange du Seigneur",
             "answer": "true"
@@ -327,7 +327,7 @@
       {
         "number": "15",
         "text": "Vêtu d'un vêtement de poils de chameau, se nourrissant de sauterelles et de miel sauvage, il prêchait dans le désert de Judée. Qui est-ce ?",
-        "select": [
+        "choice": [
           {
             "text": "Jean Baptiste",
             "answer": "true"
@@ -350,7 +350,7 @@
       {
         "number": "16",
         "text": "Complétez: \"..... vos ennemis, ..... ceux qui vous maudissent, faites ...... à ceux qui vous haïssent et priez pour ceux qui vous maltraitent.\"",
-        "select": [
+        "choice": [
           {
             "text": "Aimez, bénissez, du bien",
             "answer": "true"
@@ -373,7 +373,7 @@
       {
         "number": "17",
         "text": "Lorsque vous priez, ne soyez pas comme ..... qui aiment à prier debout dans les synagogues et au coin des rues, pour être vus des hommes.",
-        "select": [
+        "choice": [
           {
             "text": "ceux-là",
             "answer": "false"
@@ -396,7 +396,7 @@
       {
         "number": "18",
         "text": "Dans l'histoire du roi et de son serviteur à qui il avait remis sa dette, comment punit-il ce serviteur de sa cruauté vis-à-vis d'un collègue ?",
-        "select": [
+        "choice": [
           {
             "text": "Il le jeta en prison",
             "answer": "false"
@@ -419,7 +419,7 @@
       {
         "number": "19",
         "text": "Edifice religieux où les Juifs se réunissaient le jour du sabbat et les jours de fête, pour prier et pour lire et expliquer les textes de la Bible.",
-        "select": [
+        "choice": [
           {
             "text": "Synagogue",
             "answer": "true"
@@ -442,7 +442,7 @@
       {
         "number": "20",
         "text": "Quel métier exerçait Joseph, le père de Jésus ? (Mt 13:55)",
-        "select": [
+        "choice": [
           {
             "text": "Charpentier",
             "answer": "true"
@@ -465,7 +465,7 @@
       {
         "number": "21",
         "text": "A qui Jésus a-t-il dit : \" Ma maison sera appelée une maison de prière. Mais vous en faites une caverne de voleurs. \" ?",
-        "select": [
+        "choice": [
           {
             "text": "Aux scribes de la synagogue",
             "answer": "false"
@@ -488,7 +488,7 @@
       {
         "number": "22",
         "text": "\" Tout ce que vous voulez que les hommes fassent pour vous, faites-le de même pour eux. \" Qui a dit cela ?",
-        "select": [
+        "choice": [
           {
             "text": "Jean Baptiste",
             "answer": "false"
@@ -511,7 +511,7 @@
       {
         "number": "23",
         "text": "Judas livra Jésus à Caïphe. Pour combien de pièces d'argent ?",
-        "select": [
+        "choice": [
           {
             "text": "30 pièces",
             "answer": "true"
@@ -534,7 +534,7 @@
       {
         "number": "24",
         "text": "Qui a dit : \" Si je ne vois dans ses mains la marque des clous et si je ne mets ma main dans son côté, je ne croirai pas. \" ?",
-        "select": [
+        "choice": [
           {
             "text": "Thomas",
             "answer": "true"
@@ -557,7 +557,7 @@
       {
         "number": "25",
         "text": "Les mages dirent qu'ils avaient vu chez eux l'étoile annonçant la naissance du roi des Juifs. D'où venaient-ils ?",
-        "select": [
+        "choice": [
           {
             "text": "Du Nord",
             "answer": "false"
@@ -580,7 +580,7 @@
       {
         "number": "26",
         "text": "Où les dix jeunes filles de la parabole se rendaient-elles, avec leurs lampes ?",
-        "select": [
+        "choice": [
           {
             "text": "À la rencontre de l'époux",
             "answer": "true"
@@ -603,7 +603,7 @@
       {
         "number": "27",
         "text": "Où se trouvait Pierre après l'arrestation de Jésus et pendant son procès devant le Sanhédrin ?",
-        "select": [
+        "choice": [
           {
             "text": "Il était en fuite",
             "answer": "false"
@@ -626,7 +626,7 @@
       {
         "number": "28",
         "text": "Marie de Béthanie, ayant pris une livre de parfum de grand prix, le versa sur les pieds de Jésus. Avec quoi lui a-t-elle essuyé les pieds ?",
-        "select": [
+        "choice": [
           {
             "text": "Sa robe",
             "answer": "false"
@@ -649,7 +649,7 @@
       {
         "number": "29",
         "text": "Sur quel animal Jésus fit-il son entrée à Jérusalem ?",
-        "select": [
+        "choice": [
           {
             "text": "Un ânon",
             "answer": "true"
@@ -672,7 +672,7 @@
       {
         "number": "30",
         "text": "Lors de l'arrestation de Jésus dans le jardin de Gethsémani, de quoi était armée la troupe envoyée par les chefs des prêtres et les anciens ?",
-        "select": [
+        "choice": [
           {
             "text": "De pierres",
             "answer": "false"
@@ -695,7 +695,7 @@
       {
         "number": "31",
         "text": "\" Jusqu'à combien de fois pardonner à son frère ? \" demanda Pierre. Jésus lui répondit qu'il fallait pardonner .........",
-        "select": [
+        "choice": [
           {
             "text": "... jusqu'à sept fois",
             "answer": "false"
@@ -718,7 +718,7 @@
       {
         "number": "32",
         "text": "Que fit le jeune homme riche après que Jésus lui eut demandé de vendre tout ce qu'il possédait, de le donner aux pauvres et de le suivre ?",
-        "select": [
+        "choice": [
           {
             "text": "Il pleura et demanda pardon",
             "answer": "false"
@@ -741,7 +741,7 @@
       {
         "number": "33",
         "text": "Comment Jésus a-t-il guéri les deux aveugles de Jéricho ?",
-        "select": [
+        "choice": [
           {
             "text": "Il les plongea dans l'eau",
             "answer": "false"
@@ -764,7 +764,7 @@
       {
         "number": "34",
         "text": "Par quel signe Judas Iscariote livra-t-il Jésus à la troupe envoyée par les chefs des prêtres et le conseil des anciens du peuple ?",
-        "select": [
+        "choice": [
           {
             "text": "Il le pointa du doigt",
             "answer": "false"
@@ -787,7 +787,7 @@
       {
         "number": "35",
         "text": "Quand Jésus entra à Jérusalem, il se dirigea vers le Temple de Dieu. Qu'y fit-il en arrivant ?",
-        "select": [
+        "choice": [
           {
             "text": "Il y pria et prêcha",
             "answer": "false"
@@ -810,7 +810,7 @@
       {
         "number": "36",
         "text": "Dans la parabole des deux fils, que demandait le père à ses deux fils ?",
-        "select": [
+        "choice": [
           {
             "text": "De garder le troupeau",
             "answer": "false"
@@ -833,7 +833,7 @@
       {
         "number": "37",
         "text": "Le second fils a dit OUI et n'y est pas allé. Le premier avait dit NON, mais il y est allé. Lequel a fait la volonté de son père ?",
-        "select": [
+        "choice": [
           {
             "text": "Le premier",
             "answer": "true"
@@ -856,7 +856,7 @@
       {
         "number": "38",
         "text": "Complétez : \"Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du St- Esprit. Enseignez-leur à observer..",
-        "select": [
+        "choice": [
           {
             "text": "... les dix commandements. \"",
             "answer": "false"
@@ -879,7 +879,7 @@
       {
         "number": "39",
         "text": "Dans la parabole, combien sont les jeunes filles qui attendent, avec leurs lampes, pour participer à la noce ? (Mt 25)",
-        "select": [
+        "choice": [
           {
             "text": "Cinq",
             "answer": "false"
@@ -902,7 +902,7 @@
       {
         "number": "40",
         "text": "Quelle était l'inscription que les soldats avaient mise au-dessus de la tête de Jésus crucifié ?",
-        "select": [
+        "choice": [
           {
             "text": "Celui-ci est Jésus, roi des Juifs",
             "answer": "true"
@@ -925,7 +925,7 @@
       {
         "number": "41",
         "text": "Qu'a proposé Pierre, quand il a vu Jésus transfiguré, sur la montagne, avec Moïse et Elie ?",
-        "select": [
+        "choice": [
           {
             "text": "De préparer le repas",
             "answer": "false"
@@ -948,7 +948,7 @@
       {
         "number": "42",
         "text": "Jésus dit : \" Si vous ne vous convertissez pas et si vous ne devenez ............... , vous n'entrerez pas dans le Royaume des Cieux. \"",
-        "select": [
+        "choice": [
           {
             "text": "croyants",
             "answer": "false"
@@ -971,7 +971,7 @@
       {
         "number": "43",
         "text": "Dans l'histoire du roi qui avait remis sa dette à son serviteur, que fit celui-ci à son compagnon qui lui devait cent deniers ?",
-        "select": [
+        "choice": [
           {
             "text": "Il le fit fouetter",
             "answer": "false"
@@ -994,7 +994,7 @@
       {
         "number": "44",
         "text": "Devant la très grosse dette de son serviteur, comment le roi voulut-il d'abord se rembourser ? Qu'avait-il décidé de faire ?",
-        "select": [
+        "choice": [
           {
             "text": "Le faire mettre en prison",
             "answer": "false"
@@ -1017,7 +1017,7 @@
       {
         "number": "45",
         "text": "Nous connaissons la parabole de la brebis perdue. Combien y avait-il, en tout, de brebis dans cette histoire ? (Lc 15 ou Mt 18)",
-        "select": [
+        "choice": [
           {
             "text": "99",
             "answer": "false"
@@ -1040,7 +1040,7 @@
       {
         "number": "46",
         "text": "Zachée, l'homme qui avait grimpé dans un arbre pour voir Jésus, et qui le reçut avec joie dans sa maison était .....",
-        "select": [
+        "choice": [
           {
             "text": "Gouverneur",
             "answer": "false"
@@ -1063,7 +1063,7 @@
       {
         "number": "47",
         "text": "Quel fut le premier miracle public de Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Il a guéri un paralytique",
             "answer": "false"
@@ -1086,7 +1086,7 @@
       {
         "number": "48",
         "text": "Qu'apportaient les mages venus adorer l'enfant Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Argent et or",
             "answer": "false"
@@ -1109,7 +1109,7 @@
       {
         "number": "49",
         "text": "A qui Jésus a-t-il dit : \" Tu ne tenteras pas le Seigneur, ton Dieu. \" ?",
-        "select": [
+        "choice": [
           {
             "text": "A Hérode",
             "answer": "false"
@@ -1132,7 +1132,7 @@
       {
         "number": "50",
         "text": "Jésus vint de Galilée se faire baptiser par Jean-Baptiste dans les eaux du Jourdain. Quel signe divin fut alors visible ?",
-        "select": [
+        "choice": [
           {
             "text": "L'Esprit de Dieu descendit sur lui",
             "answer": "true"
@@ -1155,7 +1155,7 @@
       {
         "number": "51",
         "text": "\" Quand Jésus vit la foule, il gravit la montagne... \" dit l'évangile de Matthieu. Pourquoi ?",
-        "select": [
+        "choice": [
           {
             "text": "Afin d'être mieux vu par la foule",
             "answer": "true"
@@ -1178,7 +1178,7 @@
       {
         "number": "52",
         "text": "\" En priant, ne ...... pas de vaines paroles, comme les païens, qui s'imaginent qu'à force de paroles ils seront exaucés. Mt 6:7",
-        "select": [
+        "choice": [
           {
             "text": "multipliez",
             "answer": "true"
@@ -1201,7 +1201,7 @@
       {
         "number": "53",
         "text": "Quel est le plus grand commandement de la Loi ?",
-        "select": [
+        "choice": [
           {
             "text": "Tu n'auras pas d'autres dieux",
             "answer": "false"
@@ -1224,7 +1224,7 @@
       {
         "number": "54",
         "text": "De qui Jésus a-t-il dit : \" Ils disent et ne font pas. Ils lient des fardeaux pesants et les mettent sur les épaules des hommes.\" ?",
-        "select": [
+        "choice": [
           {
             "text": "Des disciples",
             "answer": "false"
@@ -1247,7 +1247,7 @@
       {
         "number": "55",
         "text": "Complétez. \" Cette bonne nouvelle sera prêchée dans le monde entier, pour servir de témoignage à toutes les nations. Alors ...... \"",
-        "select": [
+        "choice": [
           {
             "text": "tous se convertiront",
             "answer": "false"
@@ -1270,7 +1270,7 @@
       {
         "number": "56",
         "text": "Lors de la transfiguration, quels personnages apparurent auprès de Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Abraham et Isaac",
             "answer": "false"
@@ -1293,7 +1293,7 @@
       {
         "number": "57",
         "text": "Après l'arrestation de Jésus par la troupe armée dans le jardin de Gethsémani, que firent les disciples ?",
-        "select": [
+        "choice": [
           {
             "text": "Ils s'enfuirent",
             "answer": "true"
@@ -1316,7 +1316,7 @@
       {
         "number": "58",
         "text": "Dans le jardin de Gethsémani, la nuit de son arrestation, pourquoi Jésus ne permit-il pas à ses disciples de le défendre ?",
-        "select": [
+        "choice": [
           {
             "text": "Les disciples avaient fui",
             "answer": "false"
@@ -1339,7 +1339,7 @@
       {
         "number": "59",
         "text": "Que signifie le nom de JESUS ?",
-        "select": [
+        "choice": [
           {
             "text": "Dieu avec nous",
             "answer": "false"
@@ -1362,7 +1362,7 @@
       {
         "number": "60",
         "text": "Que fit le gouverneur Pilate pour montrer qu'il serait innocent du sang de Jésus dont la foule réclamait la mort ?",
-        "select": [
+        "choice": [
           {
             "text": "Il fit un discours",
             "answer": "false"
@@ -1385,7 +1385,7 @@
       {
         "number": "61",
         "text": "Quel est le nom hébreu du lieu où Jésus et les deux brigands furent crucifiés ?",
-        "select": [
+        "choice": [
           {
             "text": "Goath",
             "answer": "false"
@@ -1408,7 +1408,7 @@
       {
         "number": "62",
         "text": "Qui furent crucifiés aux côtés de Jésus sur le Golgotha ?",
-        "select": [
+        "choice": [
           {
             "text": "Deux anciens disciples de Jésus",
             "answer": "false"
@@ -1431,7 +1431,7 @@
       {
         "number": "63",
         "text": "Qui était près du tombeau de Jésus lorsque l'ange du Seigneur vint rouler la pierre de l'entrée du tombeau ?",
-        "select": [
+        "choice": [
           {
             "text": "Pierre et André",
             "answer": "false"
@@ -1454,7 +1454,7 @@
       {
         "number": "64",
         "text": "Que signifie le mot ALLELUIA ?",
-        "select": [
+        "choice": [
           {
             "text": "Que ta volonté soit faite !",
             "answer": "false"
@@ -1477,7 +1477,7 @@
       {
         "number": "65",
         "text": "Combien de brigands furent crucifiés à côté de Jésus au mont Golgotha ?",
-        "select": [
+        "choice": [
           {
             "text": "Un seul",
             "answer": "false"
@@ -1500,7 +1500,7 @@
       {
         "number": "66",
         "text": "Un lépreux vint près de Jésus. Emu, Jésus étendit la main et le guérit. Puis il le renvoya en lui recommandant ......",
-        "select": [
+        "choice": [
           {
             "text": "de parler partout de ce miracle",
             "answer": "false"
@@ -1523,7 +1523,7 @@
       {
         "number": "67",
         "text": "A Capharnaüm, un grand nombre de personnes étaient assemblées dans une maison pour entendre Jésus. Quatre hommes arrivèrent avec un paralytique et...",
-        "select": [
+        "choice": [
           {
             "text": "le poussèrent par la fenêtre",
             "answer": "false"
@@ -1546,7 +1546,7 @@
       {
         "number": "68",
         "text": "Jésus se mit à table avec des publicains et des gens de mauvaise vie. Aux scribes et pharisiens outrés il dit : \" Je ne suis pas venu appeler ....\"",
-        "select": [
+        "choice": [
           {
             "text": "des justes, mais des pécheurs",
             "answer": "true"
@@ -1569,7 +1569,7 @@
       {
         "number": "69",
         "text": "Qu'arriva-t-il aux esprits impurs, nommés Légion, que Jésus chassa du possédé, et qui entrèrent dans les pourceaux ?",
-        "select": [
+        "choice": [
           {
             "text": "Ils finirent noyés dans la mer",
             "answer": "true"
@@ -1592,7 +1592,7 @@
       {
         "number": "70",
         "text": "Salomé dansa et plut au roi Hérode. Il lui dit : \" Demande-moi ce que tu voudras et je te le donnerai. \" Qu'a-t-elle demandé ?",
-        "select": [
+        "choice": [
           {
             "text": "La moitié du royaume",
             "answer": "false"
@@ -1615,7 +1615,7 @@
       {
         "number": "71",
         "text": "Complétez: \" Laissez venir à moi les petits enfants et ne les empêchez pas, car le royaume de Dieu est ......",
-        "select": [
+        "choice": [
           {
             "text": "à eux. \"",
             "answer": "false"
@@ -1638,7 +1638,7 @@
       {
         "number": "72",
         "text": "Complétez : \" Mais quiconque veut être grand parmi vous, qu'il soit ............... et quiconque veut être le premier qu'il soit au service de tous.",
-        "select": [
+        "choice": [
           {
             "text": "votre conseiller",
             "answer": "false"
@@ -1661,7 +1661,7 @@
       {
         "number": "73",
         "text": "Jésus fatigué s'assit près du puits de Jacob. Une femme vint y puiser de l'eau et lui donna à boire. D'où venait-elle ?",
-        "select": [
+        "choice": [
           {
             "text": "De Samarie",
             "answer": "true"
@@ -1684,7 +1684,7 @@
       {
         "number": "74",
         "text": "Complétez : \" Dieu est Esprit et il faut que ceux qui l'adorent l'adorent .........",
-        "select": [
+        "choice": [
           {
             "text": "en respectant tous les rites.\"",
             "answer": "false"
@@ -1707,7 +1707,7 @@
       {
         "number": "75",
         "text": "Dans la parabole du fils perdu, quels animaux le fils sans le sou doit-il garder ?",
-        "select": [
+        "choice": [
           {
             "text": "Des ânes",
             "answer": "false"
@@ -1730,7 +1730,7 @@
       {
         "number": "76",
         "text": "En quittant Jérusalem, où se rendaient les deux disciples que Jésus accompagne sur la route, après sa résurrection ?",
-        "select": [
+        "choice": [
           {
             "text": "Emmaüs",
             "answer": "true"
@@ -1753,7 +1753,7 @@
       {
         "number": "77",
         "text": "Combien de temps Marie resta-t-elle chez sa cousine Élisabeth, qui attendait un enfant ?",
-        "select": [
+        "choice": [
           {
             "text": "Environ trois mois",
             "answer": "true"
@@ -1776,7 +1776,7 @@
       {
         "number": "78",
         "text": "Quel était le premier nom de Pierre ?",
-        "select": [
+        "choice": [
           {
             "text": "Simon",
             "answer": "true"
@@ -1799,7 +1799,7 @@
       {
         "number": "79",
         "text": "Parabole du bon samaritain : Les brigands ont laissé le blessé au bord de la route. Deux hommes passent sans lui porter secours ...",
-        "select": [
+        "choice": [
           {
             "text": "Deux bergers",
             "answer": "false"
@@ -1822,7 +1822,7 @@
       {
         "number": "80",
         "text": "Dans le désert, que répondit Jésus au diable qui lui proposait de changer des pierres en pains ? Mt 4",
-        "select": [
+        "choice": [
           {
             "text": "Va-t-en Satan !",
             "answer": "false"
@@ -1845,7 +1845,7 @@
       {
         "number": "81",
         "text": "Comment les mages avaient-ils appris la naissance de Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Par un messager d'Hérode.",
             "answer": "false"
@@ -1868,7 +1868,7 @@
       {
         "number": "82",
         "text": "Où Syméon prononça-t-il une bénédiction sur Jésus et sur ses parents ?",
-        "select": [
+        "choice": [
           {
             "text": "Dans une maison de Bethléem",
             "answer": "false"
@@ -1891,7 +1891,7 @@
       {
         "number": "83",
         "text": "Quel est le nom de l'homme qui monta sur un arbre pour voir Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Jacques le petit",
             "answer": "false"
@@ -1914,7 +1914,7 @@
       {
         "number": "84",
         "text": "Quand Jésus demande d'ouvrir le tombeau de Lazare, quelle est l'objection de sa soeur Marthe ?",
-        "select": [
+        "choice": [
           {
             "text": "Il sent déjà.",
             "answer": "true"
@@ -1937,7 +1937,7 @@
       {
         "number": "85",
         "text": "En quelles langues Pilate avait-il écrit l'inscription qu'on posa au-dessus de la croix de Jésus ?",
-        "select": [
+        "choice": [
           {
             "text": "Hébreu",
             "answer": "false"
@@ -1960,7 +1960,7 @@
       {
         "number": "86",
         "text": "Le grand prêtre : Es-tu le Christ, le fils du Dieu béni ? -- Je le suis, répond Jésus. Que fait alors le grand prêtre ?",
-        "select": [
+        "choice": [
           {
             "text": "Il déchire ses vêtements",
             "answer": "false"
@@ -1983,7 +1983,7 @@
       {
         "number": "87",
         "text": "Par quel cri de joie la foule salua-t-elle Jésus entrant triomphalement à Jérusalem ?",
-        "select": [
+        "choice": [
           {
             "text": "Alléluia !",
             "answer": "false"
@@ -2006,7 +2006,7 @@
       {
         "number": "88",
         "text": "Où étaient partis les disciples quand Jésus rencontre la Samaritaine près du puits de Jacob ?",
-        "select": [
+        "choice": [
           {
             "text": "Visiter un malade.",
             "answer": "false"
@@ -2029,7 +2029,7 @@
       {
         "number": "89",
         "text": "Qui sont les deux soeurs de Lazare, à Béthanie ?",
-        "select": [
+        "choice": [
           {
             "text": "Marthe et Marie",
             "answer": "true"
@@ -2052,7 +2052,7 @@
       {
         "number": "90",
         "text": "Pourquoi la Samaritaine était-elle venue près du puits de Jacob ?",
-        "select": [
+        "choice": [
           {
             "text": "Pour se promener",
             "answer": "false"
@@ -2075,7 +2075,7 @@
       {
         "number": "91",
         "text": "Que font Moïse et Elie, apparus à côté de Jésus, transfiguré, sur la montagne ?",
-        "select": [
+        "choice": [
           {
             "text": "Ils chantent la gloire de Dieu.",
             "answer": "false"
