@@ -6,7 +6,7 @@
 
 var getData = function (result) {
     var items = [];
-
+    
     $.each(result.slide, function (i, slide) {
 
         items.push("<li>");
@@ -61,9 +61,22 @@ var doChoice = function (slide, items) {
 }
 
 var doComment = function (slide, items) {
-    if (typeof slide.comment !== "undefined") {
+    var options = JSON.parse(localStorage.getItem('options'));
+    if (options.mode === "learning" && typeof slide.comment !== "undefined") {
         items.push("<p>" + slide.comment + "</p>");
     }
+}
+
+var storeOptions = function () {
+    var options = {};
+    options.mode = getQueryVariable("mode");
+    options.select = getQueryVariable("select");
+    options.order = getQueryVariable("order");
+    
+    var optionsToStore = JSON.stringify(options);
+
+    localStorage.setItem('options', optionsToStore);
+
 }
 
 var getQueryVariable = function (variable) {

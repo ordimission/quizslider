@@ -98,6 +98,8 @@
             if (story==="undefined") {
                 story = "evangile_deb";
             }
+            storeOptions();
+            
             $.getJSON("./Data/"+story+".json", getData)
                 .done(navigate);
         });
