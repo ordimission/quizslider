@@ -6,8 +6,22 @@
 
 var getData = function (result) {
     var items = [];
+    
+     var options = JSON.parse(localStorage.getItem('options'));
+     
+     var slidesToBrowse = result.slide;
+     
+     if (options.order === "false") {
+         if (options.select === "all") {
+             slidesToBrowse = shuffle(result.slide,result.slide.length);
+         }
+         else {
+             slidesToBrowse = shuffle(result.slide,parseInt(options.select,10));
+         }
+     }
+     
 
-    $.each(result.slide, function (i, slide) {
+    $.each(slidesToBrowse, function (i, slide) {
 
         items.push("<li>");
 
@@ -31,6 +45,24 @@ var getData = function (result) {
     }).appendTo("#slider");
     $("title").text(result.title);
 };
+
+
+var shuffle = function(sourceArray,targetSize) {
+    var targetArray = [];
+    for (var i=0; i<targetSize; i++) {
+        targetArray.push(sourceArray[i]);
+    }    
+    for (var i=targetSize; i<sourceArray.length; i++) {
+        var j =  Math.floor((Math.random() * i));
+        if (j < targetSize) {
+	     targetArray[j] = sourceArray[i];
+         }     
+    } 
+    return targetArray;
+ }    
+
+
+
 
 var doImg = function (slide, items) {
     if (typeof slide.img !== "undefined") {
@@ -80,9 +112,17 @@ var doComment = function (slide, items) {
 var storeOptions = function () {
     var options = {};
     options.mode = getQueryVariable("mode");
+    if (options.mode === "undefined") {
+        options.mode = "exam";
+    }
     options.select = getQueryVariable("select");
+    if (options.select === "undefined") {
+        options.select = "all";
+    }
     options.order = getQueryVariable("order");
-
+    if (options.order === "undefined") {
+        options.order = "true";
+    }
     var optionsToStore = JSON.stringify(options);
 
     localStorage.setItem('options', optionsToStore);
