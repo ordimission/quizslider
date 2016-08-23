@@ -59,7 +59,13 @@
             "img": {
                 "src": "Images/Ausweise/KG2B9.jpg"
             },
-            "text": ["Warum wissen wir, dass Jesus Gottes Sohn ist?", "Welchen Ausweis hältst du für den Wichtigsten?", "Welchen Ausweis bekam Jesus bei der Hochzeit in Kana?"]
+            "free": [{
+                    "text": "Warum wissen wir, dass Jesus Gottes Sohn ist?"
+                }, {
+                    "text": "Welchen Ausweis hältst du für den Wichtigsten?"
+                }, {
+                    "text": "Welchen Ausweis bekam Jesus bei der Hochzeit in Kana?"
+                }]
         }
     ]
 }

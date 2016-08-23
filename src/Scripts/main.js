@@ -6,20 +6,19 @@
 
 var getData = function (result) {
     var items = [];
-    
-     var options = JSON.parse(localStorage.getItem('options'));
-     
-     var slidesToBrowse = result.slide;
-     
-     if (options.order === "false") {
-         if (options.select === "all") {
-             slidesToBrowse = shuffle(result.slide,result.slide.length);
-         }
-         else {
-             slidesToBrowse = shuffle(result.slide,parseInt(options.select,10));
-         }
-     }
-     
+
+    var options = JSON.parse(localStorage.getItem('options'));
+
+    var slidesToBrowse = result.slide;
+
+    if (options.order === "false") {
+        if (options.select === "all") {
+            slidesToBrowse = shuffle(result.slide, result.slide.length);
+        } else {
+            slidesToBrowse = shuffle(result.slide, parseInt(options.select, 10));
+        }
+    }
+
 
     $.each(slidesToBrowse, function (i, slide) {
 
@@ -34,6 +33,9 @@ var getData = function (result) {
         // choice
         doChoice(slide, items, true);
 
+        // free text area
+        doFree(slide, items);
+
         // text
         doComment(slide, items);
 
@@ -47,19 +49,19 @@ var getData = function (result) {
 };
 
 
-var shuffle = function(sourceArray,targetSize) {
+var shuffle = function (sourceArray, targetSize) {
     var targetArray = [];
-    for (var i=0; i<targetSize; i++) {
+    for (var i = 0; i < targetSize; i++) {
         targetArray.push(sourceArray[i]);
-    }    
-    for (var i=targetSize; i<sourceArray.length; i++) {
-        var j =  Math.floor((Math.random() * i));
+    }
+    for (var i = targetSize; i < sourceArray.length; i++) {
+        var j = Math.floor((Math.random() * i));
         if (j < targetSize) {
-	     targetArray[j] = sourceArray[i];
-         }     
-    } 
+            targetArray[j] = sourceArray[i];
+        }
+    }
     return targetArray;
- }    
+}
 
 
 
@@ -71,12 +73,14 @@ var doImg = function (slide, items) {
 }
 
 var doText = function (slide, items) {
-    if (Array.isArray(slide.text)) {
-        $.each(slide.text, function (j, paragraph) {
-            items.push("<p>" + paragraph + "</p>");
-        });
-    } else {
-        items.push("<p>" + slide.text + "</p>");
+    if (typeof slide.text !== "undefined") {
+        if (Array.isArray(slide.text)) {
+            $.each(slide.text, function (j, paragraph) {
+                items.push("<p>" + paragraph + "</p>");
+            });
+        } else {
+            items.push("<p>" + slide.text + "</p>");
+        }
     }
 }
 
@@ -86,7 +90,7 @@ var doChoice = function (slide, items, showAnswer) {
     if (typeof slide.choice !== "undefined") {
         items.push("<form>");
         $.each(slide.choice, function (j, ch) {
-            if (options.mode === "learning"||showAnswer) {
+            if (options.mode === "learning" || showAnswer) {
                 if (ch.answer === "true") {
                     items.push("<p><input type='checkbox' checked='true'/>&nbsp;");
                 } else {
@@ -97,6 +101,18 @@ var doChoice = function (slide, items, showAnswer) {
             }
             items.push(ch.text);
             items.push("</p>")
+        });
+        items.push("</form>");
+    }
+}
+
+var doFree = function (slide, items) {
+    if (typeof slide.free !== "undefined") {
+        items.push("<form>");
+        $.each(slide.free, function (j, f) {
+            items.push("<p>");
+            items.push(f.text);
+            items.push("</p><p><textarea rows='3' cols='80' /></p>");
         });
         items.push("</form>");
     }
