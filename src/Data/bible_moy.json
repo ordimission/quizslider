@@ -3,7 +3,7 @@
     "title": "Bible niveau moyen",
     "slide": [
         {
-            "number": "1",
+            "name": "bm1",
             "text": "Quel fut le premier miracle public de Jésus ?",
             "choice": [
                 {
@@ -26,7 +26,7 @@
             "comment": "N'ayant plus de vin pour la noce, Jésus transforma six vases de pierre d'eau en vin. Jn 2"
         },
         {
-            "number": "2",
+            "name": "bm2",
             "text": "Qui fut désigné apôtre en remplacement de Judas l'Iscariot dans la chambre haute ?",
             "choice": [
                 {
@@ -49,7 +49,7 @@
             "comment": "Les apôtres prièrent et tirèrent au sort entre Matthias et Joseph appelé Barsabbas.Ac 1:23"
         },
         {
-            "number": "3",
+            "name": "bm3",
             "text": "Quel est le représentant de la tribu d'Éphraïm qui fit entrer le peuple en terre de Canaan ?",
             "choice": [
                 {
@@ -72,7 +72,7 @@
             "comment": "Ayant été trouvé fidèle par Dieu, il succéda à Moïse et mena le peuple à Canaan. De 31"
         },
         {
-            "number": "4",
+            "name": "bm4",
             "text": "Quel est l'homme qui fit sortir le peuple hors d'Égypte ?",
             "choice": [
                 {
@@ -95,7 +95,7 @@
             "comment": "Après 430 ans d'esclavage, l'Éternel frappa l'Égypte de 10 plaies. Ex 12:40"
         },
         {
-            "number": "5",
+            "name": "bm5",
             "text": "Cet homme était juste et pieux, il attendait la consolation d'Israël, et l'Esprit-Saint était sur lui. Il ne mourrait pas avant d'avoir vu le Christ?",
             "choice": [
                 {
@@ -118,7 +118,7 @@
             "comment": "Siméon prit l'enfant Jésus et bénit Dieu. Il reconnut le Messie en lui. Luc 2:25"
         },
         {
-            "number": "6",
+            "name": "bm6",
             "text": "Zacharie (Père de Jean-Baptiste) fut incrédule devant l'apparition de l'ange lui annonçant la naissance d'un fils. Qu'était-il ?",
             "choice": [
                 {
@@ -141,7 +141,7 @@
             "comment": "Étant avancé en âge, il ne crut point l'ange Gabriel et devint temporairement muet. Lc 1"
         },
         {
-            "number": "7",
+            "name": "bm7",
             "text": "Fille de Phanuel, de la tribu d'Aser, elle était âgée de 84 ans. Elle ne quittait pas le temple et servait Dieu nuit et jour ?",
             "choice": [
                 {
@@ -164,7 +164,7 @@
             "comment": "Elle vit l'enfant Jésus et le proclama le Messie. Lc 2:36"
         },
         {
-            "number": "8",
+            "name": "bm8",
             "text": "Quel est le pharisien qui vint de nuit en secret voir Jésus ?",
             "choice": [
                 {
@@ -187,7 +187,7 @@
             "comment": "Docteur de la Loi, membre du Sanhédrin il croyait que Jésus était un envoyé de Dieu. Jn 7"
         },
         {
-            "number": "9",
+            "name": "bm9",
             "text": "Quel est le nom du roi qui a bâti la maison de l'Eternel ?",
             "choice": [
                 {
@@ -210,7 +210,7 @@
             "comment": "Il prit 7 ans et 6 mois pour construire le Temple de l'Eternel. 1Rois 6"
         },
         {
-            "number": "10",
+            "name": "bm10",
             "text": "C'est le sacrificateur ........ qui versa l'onction d'huile sur la tête de Salomon afin de le consacrer roi d'Israël et de Juda.",
             "choice": [
                 {
@@ -233,7 +233,7 @@
             "comment": "Tsadok accompagné du prophète Nathan exécuta cet ordre du roi David. 1 Rois 1:32"
         },
         {
-            "number": "11",
+            "name": "bm11",
             "text": "Hénoc père de Metuschélah marcha avec Dieu ...",
             "choice": [
                 {
@@ -256,7 +256,7 @@
             "comment": "Hénoc marcha avec Dieu; puis il ne fut plus, parce que Dieu le prit. Ge 5:24"
         },
         {
-            "number": "12",
+            "name": "bm12",
             "text": "Jaïrus, l'homme qui se jeta aux pieds de Jésus était......",
             "choice": [
                 {
@@ -279,7 +279,7 @@
             "comment": "Sa fille de douze ans étant morte, Jésus la ressuscita en disant: \"Enfant lève-toi.\" Lc 8"
         },
         {
-            "number": "13",
+            "name": "bm13",
             "text": "Zachée, l'homme qui reçut Jésus avec joie dans sa maison était ........",
             "choice": [
                 {
@@ -302,7 +302,7 @@
             "comment": "Jésus lui dit: \" Le salut est entré aujourd'hui dans cette maison.\" Lc 19:9"
         },
         {
-            "number": "14",
+            "name": "bm14",
             "text": "Ennemi des Juifs, élevé en dignité par le roi Assuérus, il persuada celui-ci d'éliminer ce peuple ?",
             "choice": [
                 {
@@ -325,7 +325,7 @@
             "comment": "Il échouera et sera ridiculisé sur la place publique. Mardochée sera élevé. Esther 3"
         },
         {
-            "number": "15",
+            "name": "bm15",
             "text": "Quel héros tua plus d'ennemis dans sa mort que dans sa vie ?",
             "choice": [
                 {
@@ -348,7 +348,7 @@
             "comment": "Samson renversa les colonnes de l'édifice qui s'effondra sur la foule. Juges 16"
         },
         {
-            "number": "16",
+            "name": "bm16",
             "text": "Quel homme juif le roi Assuérus éleva en dignité ?",
             "choice": [
                 {
@@ -371,7 +371,7 @@
             "comment": "Le roi ôta son anneau et le donna à Mardochée. Vêtement royal, couronne d'or,... Es 8"
         },
         {
-            "number": "17",
+            "name": "bm17",
             "text": "Qu'apportaient les mages venus adorer l'enfant Dieu ?",
             "choice": [
                 {
@@ -394,7 +394,7 @@
             "comment": "Guidés par l'étoile, ils entrèrent dans la maison et adorèrent le petit enfant. Mt 2:9-12"
         },
         {
-            "number": "18",
+            "name": "bm18",
             "text": "A qui Jésus a-t-il dit \" Tu ne tenteras point le Seigneur, ton Dieu.\" ?",
             "choice": [
                 {
@@ -417,7 +417,7 @@
             "comment": "Il promettait toutes les richesses et la gloire à Jésus s'il l'adorait. Mt 4:7 Lu 4:12"
         },
         {
-            "number": "19",
+            "name": "bm19",
             "text": "Jésus vint de Galilée se faire baptiser par Jean- Baptiste dans les eaux du Jourdain. Après être sorti de l'eau, quel signe divin reçu-t-il ?",
             "choice": [
                 {
@@ -440,7 +440,7 @@
             "comment": "L'Esprit descendit des cieux comme une colombe et une voix se fit entendre. Mt 3:13-17"
         },
         {
-            "number": "20",
+            "name": "bm20",
             "text": "Dans le sermon sur la montagne, pourquoi Jésus monte-t-il dans la montagne ?",
             "choice": [
                 {
@@ -463,7 +463,7 @@
             "comment": "Une grande foule suivait Jésus, afin d'être vu et entendu il se plaça sur une colline Mt5"
         },
         {
-            "number": "21",
+            "name": "bm21",
             "text": "\" En priant, ne .............. pas de vaines paroles, comme les païens, qui s'imaginent qu'à force de paroles ils seront exaucés.\" Mt 6:7",
             "choice": [
                 {
@@ -486,7 +486,7 @@
             "comment": "Par la suite, Jésus enseigne comment prier le Père."
         },
         {
-            "number": "22",
+            "name": "bm22",
             "text": "\" Cherchez premièrement ...................... et la justice de Dieu; et toutes ces choses vous seront données par-dessus.\"",
             "choice": [
                 {
@@ -509,7 +509,7 @@
             "comment": "Parole de Jésus dans Mt 6:33"
         },
         {
-            "number": "23",
+            "name": "bm23",
             "text": "Temple portatif provisoire où l'Éternel rencontrait son peuple et qui les accompagnait dans le désert jusqu'en Terre Promise ?",
             "choice": [
                 {
@@ -532,7 +532,7 @@
             "comment": "Dieu en ordonna la construction à Moïse.Il lui permettait d'habiter avec son peuple. Ex 33"
         },
         {
-            "number": "24",
+            "name": "bm24",
             "text": "Quel est le nom du compagnon de captivité du serviteur Paul ?",
             "choice": [
                 {
@@ -555,7 +555,7 @@
             "comment": "Il rendit visite à Paul, prisonnier à Rome, avec des nouvelles de l'Église de Colosses."
         },
         {
-            "number": "25",
+            "name": "bm25",
             "text": "Combien d'enfants eut Rachel, femme de Jacob ?",
             "choice": [
                 {
@@ -578,7 +578,7 @@
             "comment": "Rachel eut deux enfants: Joseph et Benjamin, elle mourut à la naissance de celui-ci."
         },
         {
-            "number": "26",
+            "name": "bm26",
             "text": "De quel instrument jouait David en présence du roi Saül ?",
             "choice": [
                 {
@@ -601,7 +601,7 @@
             "comment": "David s'en servait pour apaiser Saül, en proie à des crises de démence. 1 S 16:16"
         },
         {
-            "number": "27",
+            "name": "bm27",
             "text": "Lorsque l'enfant eut grandi, elle l'appela Moïse car elle l'avait retiré des eaux. Qui est-elle?",
             "choice": [
                 {
@@ -624,7 +624,7 @@
             "comment": "Elle descendit au fleuve, et aperçut la caisse au milieu des roseaux. Ex 2"
         },
         {
-            "number": "28",
+            "name": "bm28",
             "text": "J'étais la femme de Urie, le Héthien avant que David fasse de moi sa femme. On dit que j'étais très belle de figure. Qui suis-je ?",
             "choice": [
                 {
@@ -647,7 +647,7 @@
             "comment": "Le roi David causa la mort d'Urie afin de s'accaparer sa femme. Cela déplut à Dieu. 2S 11"
         },
         {
-            "number": "29",
+            "name": "bm29",
             "text": "De quelle façon Dieu punit-il le roi David après qu'il eut commis l'adultère avec Bath-Shéba et fait mourir son époux ?",
             "choice": [
                 {
@@ -670,7 +670,7 @@
             "comment": "Malgré son repentir, ses jeûnes et ses pleurs, l'enfant de David mourut. 2S 12:15-20"
         },
         {
-            "number": "30",
+            "name": "bm30",
             "text": "Les soldats de Pilate prirent Jésus et le battirent. Ils le couronnèrent d'épines et le revêtirent d'un manteau...",
             "choice": [
                 {
@@ -693,7 +693,7 @@
             "comment": "Cette couleur était symbole de royauté et on en affubla Jésus pour s'en moquer. Jn 19:2"
         },
         {
-            "number": "31",
+            "name": "bm31",
             "text": "Qui a préparé le corps de Jésus selon les rites et coutumes juives avant de le déposer dans le sépulcre ?",
             "choice": [
                 {
@@ -716,7 +716,7 @@
             "comment": "C'est Marie de Magdala qui aperçut la première que le sépulcre était vide. Jn 19:38-42"
         },
         {
-            "number": "32",
+            "name": "bm32",
             "text": "Quelle était l'inscription qui figurait sur la croix et écrite par Pilate lors de la crucifixion ?",
             "choice": [
                 {
@@ -739,7 +739,7 @@
             "comment": "L'inscription était écrite en hébreu, en grec et en latin. Jn 19:17-22"
         },
         {
-            "number": "33",
+            "name": "bm33",
             "text": "Qui sont les femmes qui se tenaient près de la croix lors de la crucifixion de Jésus ?",
             "choice": [
                 {
@@ -762,7 +762,7 @@
             "comment": "Jésus présenta sa mère à Jean et lui dit: \"Voilà ta mère\". Et Jean la prit chez lui. Jn 19"
         },
         {
-            "number": "34",
+            "name": "bm34",
             "text": "A qui Jésus est-il apparu le premier après sa résurrection ?",
             "choice": [
                 {
@@ -785,7 +785,7 @@
             "comment": "2 anges étaient assis dans le tombeau et Jésus apparut à Marie. Jn 20:12-18"
         },
         {
-            "number": "35",
+            "name": "bm35",
             "text": "Sur une haute montagne, Jésus fut transfiguré: son visage devint resplendissant et ses vêtements blancs comme la lumière. Quels apôtres étaient là?",
             "choice": [
                 {
@@ -808,7 +808,7 @@
             "comment": "Moïse et Élie apparurent. Une nuée lumineuse fit entendre la voix de Dieu. Mt 17:1-8"
         },
         {
-            "number": "36",
+            "name": "bm36",
             "text": "En combien de langues la Bible était traduite en totalité ou en partie en 1994 ?",
             "choice": [
                 {
@@ -831,7 +831,7 @@
             "comment": "En 1994, elle fut traduite en Quetchuaimbabura (Equateur). Alliance biblique universelle"
         },
         {
-            "number": "37",
+            "name": "bm37",
             "text": "Aux noces à Cana, les invités vinrent à manquer devin. Alors, Jésus fit son premier miracle. Il changea combien de vases remplis d'eau en vin ?",
             "choice": [
                 {
@@ -854,7 +854,7 @@
             "comment": "Jésus fit remplir d'eau les vases et les serviteurs y puisèrent du bon vin. Jn 2:1-11"
         },
         {
-            "number": "38",
+            "name": "bm38",
             "text": "Qui étaient dans l'admiration de voir que les muets parlaient, les estropiés guérissaient, les boiteux marchaient et les aveugles voyaient ?",
             "choice": [
                 {
@@ -877,7 +877,7 @@
             "comment": "Jésus guérissait tous ceux qui s'approchaient de lui. Une grande foule le suivait. Mt 15"
         },
         {
-            "number": "39",
+            "name": "bm39",
             "text": "A la multiplication des pains, Jésus nourrit plus de 4000 hommes, femmes et enfants avec 7 pains et quelques poissons. Combien en resta-t-il ?",
             "choice": [
                 {
@@ -900,7 +900,7 @@
             "comment": "Depuis 3 jours, la foule l'écoutait et Jésus ne voulait pas les renvoyer à jeun. Mt 15:37"
         },
         {
-            "number": "40",
+            "name": "bm40",
             "text": "Combien de pièces la pauvre veuve a-t-elle mis dans le tronc ?",
             "choice": [
                 {
@@ -923,7 +923,7 @@
             "comment": "Un quart de sou. Pourtant, Jésus trouva qu'elle avait mis plus que tous! Mc 12:41-44"
         },
         {
-            "number": "41",
+            "name": "bm41",
             "text": "Caïn tua Abel et Dieu le chassa. Que fit-il pour que personne ne puisse abréger les jours de Caïn ?",
             "choice": [
                 {
@@ -946,7 +946,7 @@
             "comment": "Dieu le rendit errant et vagabond. Caïn fut maudit et dut vivre son calvaire. Ge 4:9-15"
         },
         {
-            "number": "42",
+            "name": "bm42",
             "text": "Après le péché d'Adam et Eve, quel moyen Dieu prit-il pour garder l'accès à l'arbre de vie ?",
             "choice": [
                 {
@@ -969,7 +969,7 @@
             "comment": "Dieu voulait les empêcher de manger du fruit de vie et de vivre éternellement. Ge 3:22-24"
         },
         {
-            "number": "43",
+            "name": "bm43",
             "text": "Après avoir mangé du fruit de l'arbre de la connaissance du bien et du mal, que firent Adam et Eve afin de cacher leur nudité ?",
             "choice": [
                 {
@@ -992,7 +992,7 @@
             "comment": "Par la suite, Dieu les revêtit de peaux. Ge 3:7"
         },
         {
-            "number": "44",
+            "name": "bm44",
             "text": "Dans quelle ville les 2 disciples ont-ils trouvé l'ânesse dont Jésus avait besoin ?",
             "choice": [
                 {
@@ -1015,7 +1015,7 @@
             "comment": "Bethphagé est un petit village près de Jérusalem. Mt 21:1"
         },
         {
-            "number": "45",
+            "name": "bm45",
             "text": "Pendant qu'il était assis au tribunal, quelqu'un est venu vers Pilate. Qui et pourquoi ?",
             "choice": [
                 {
@@ -1038,7 +1038,7 @@
             "comment": "La femme de Pilate ne voulait pas qu'il fasse mourir Jésus. Mt:27-19"
         },
         {
-            "number": "46",
+            "name": "bm46",
             "text": "Qui cherchait à s'échapper du navire, sur lequel Paul se trouvait, en mettant la chaloupe à la mer?",
             "choice": [
                 {
@@ -1061,7 +1061,7 @@
             "comment": "Les matelots mettaient la chaloupe à la mer sous prétexte de jeter les ancres. Ac:27-30"
         },
         {
-            "number": "47",
+            "name": "bm47",
             "text": "Où Lazare a-t-il été enterré?",
             "choice": [
                 {
@@ -1084,7 +1084,7 @@
             "comment": "Jésus dit à Marthe: Lazare ressuscitera Mt 11:17-45"
         },
         {
-            "number": "48",
+            "name": "bm48",
             "text": "Dans la parabole du bon Samaritain, qu'ont fait les brigands à l'homme qu'ils ont laissé à demi-mort ?",
             "choice": [
                 {
@@ -1107,7 +1107,7 @@
             "comment": "Un Samaritain banda ses plaies, le mit sur sa monture, l'amena et prit soin de lui .Lc 10"
         },
         {
-            "number": "49",
+            "name": "bm49",
             "text": "Les souverains sacrificateurs ont donné une forte somme d'argent aux soldats pour mentir et nié que Jésus est ressuscité. Qu'ont-ils racontés ?",
             "choice": [
                 {
@@ -1130,7 +1130,7 @@
             "comment": "C'était pour apaiser le gouvernement s'il venait qu'à l'apprendre. Mt 28:11-15"
         },
         {
-            "number": "50",
+            "name": "bm50",
             "text": "Quel fils de David s'est lui-même proclamé roi sans que son père le sache ?",
             "choice": [
                 {
@@ -1153,7 +1153,7 @@
             "comment": "Adonija était le 4e fils de David, par orgueil il dit: \"C'est moi qui serai roi.\" 1R 1:5"
         },
         {
-            "number": "51",
+            "name": "bm51",
             "text": "Dans la parabole de la brebis perdue, combien de brebis y avait-il ?",
             "choice": [
                 {
@@ -1176,7 +1176,7 @@
             "comment": "Il y aura plus de joie dans le ciel pour un seul pécheur, que pour 99 justes. Lc 15:7"
         },
         {
-            "number": "52",
+            "name": "bm52",
             "text": "Lorsque Jésus chassa les démons des deux démonia- ques et qu'ils entrèrent dans des pourceaux, qu'arriva t-il à ceux-ci ?",
             "choice": [
                 {
@@ -1199,7 +1199,7 @@
             "comment": "Les démons prièrent Jésus de les envoyer dans le troupeau de pourceaux. Mt 8:28-34"
         },
         {
-            "number": "53",
+            "name": "bm53",
             "text": "Dans quelle ville Lot s'est-il réfugié avant que Dieu manifeste sa colère ?",
             "choice": [
                 {
@@ -1222,7 +1222,7 @@
             "comment": "Lot s'y réfugia, et l'Eternel détruisit Sodome et Gomorrhe par du soufre et du feu. Ge 19"
         },
         {
-            "number": "54",
+            "name": "bm54",
             "text": "Combien y a-t-il de chapitres dans le livre de Jérémie ?",
             "choice": [
                 {
@@ -1245,7 +1245,7 @@
             "comment": "Dieu avait choisi Jérémie avant sa naissance pour l'établir prophète. Jé 1:4-5"
         },
         {
-            "number": "55",
+            "name": "bm55",
             "text": "\" Et que servirait-il à un homme de...................., s'il perdait son âme ? \"",
             "choice": [
                 {
@@ -1268,7 +1268,7 @@
             "comment": "Parole de Jésus à ses disciples. Mt 16:26"
         },
         {
-            "number": "56",
+            "name": "bm56",
             "text": "Qu'a proposé Pierre à Jésus lors de la transfiguration ?",
             "choice": [
                 {
@@ -1291,7 +1291,7 @@
             "comment": "Pierre subjugué devant l'apparition soudaine de Moïse et Élie est devenu nerveux. Mt 17:4"
         },
         {
-            "number": "57",
+            "name": "bm57",
             "text": "Jésus dit:\"...si vous ne vous convertissez et si vous ne devenez ................, vous n'entrerez pas dans le royaume des cieux.\"",
             "choice": [
                 {
@@ -1314,7 +1314,7 @@
             "comment": "Il expliqua: devenir humble comme un petit enfant. Mt 18:3"
         },
         {
-            "number": "58",
+            "name": "bm58",
             "text": "Un fleuve sortait d'Eden pour arroser le jardin. Il se divisait en quatre bras. Nommez le premier ?",
             "choice": [
                 {
@@ -1337,7 +1337,7 @@
             "comment": "C'était celui qui entourait tout le paysde Havila. Ge 2:10-11"
         },
         {
-            "number": "59",
+            "name": "bm59",
             "text": "Pourquoi Dieu plaça-t-il l'homme dans le jardin d'Eden ?",
             "choice": [
                 {
@@ -1360,7 +1360,7 @@
             "comment": "L'homme pouvait manger de tous les arbres du jardin, sauf un. Ge 2:15"
         },
         {
-            "number": "60",
+            "name": "bm60",
             "text": "Dieu acheva au septième jour son oeuvre, qu'Il avait fait et se reposa. Quelle marque spéciale Dieu attribua-t-il au septième jour ?",
             "choice": [
                 {
@@ -1383,7 +1383,7 @@
             "comment": "Il le fit parce qu'il se reposa de toute son oeuvre qu'il avait créée. Ge 2:3"
         },
         {
-            "number": "61",
+            "name": "bm61",
             "text": "Quand l'homme fut dans le jardin d'Eden, quel ordre strict Dieu lui donna-t-il ?",
             "choice": [
                 {
@@ -1406,7 +1406,7 @@
             "comment": "Il dit: Tu ne mangeras pas de l'arbre de la connaissance du bien et du mal. Ge 2:16-17"
         },
         {
-            "number": "62",
+            "name": "bm62",
             "text": "De quelle matière Dieu créa-t-il les animaux des champs et tous les oiseaux du ciel ?",
             "choice": [
                 {
@@ -1429,7 +1429,7 @@
             "comment": "Il les amena à l'homme pour voir comment il les appellerait. Ge 2:19"
         },
         {
-            "number": "63",
+            "name": "bm63",
             "text": "L'arbre de la connaissance du bien et du mal était le seul dont Dieu avait ordonné de ne pas en manger les fruits. Où était-il situé dans le jardin ?",
             "choice": [
                 {
@@ -1452,7 +1452,7 @@
             "comment": "Dieu avait dit: \"... le jour où tu en mangeras, tu mourras certainement.\" Ge 3:3 2:17"
         },
         {
-            "number": "64",
+            "name": "bm64",
             "text": "Dans l'histoire du roi et de son serviteur, que fit le serviteur à son compagnon qui lui devait cent deniers ?",
             "choice": [
                 {
@@ -1475,7 +1475,7 @@
             "comment": "Cet homme agit sans compassion et le roi l'ayant appris le livra au bourreau. Mt 18"
         },
         {
-            "number": "65",
+            "name": "bm65",
             "text": "Dans l'histoire du roi et de son serviteur, comment le roi voulut-il se rembourser la dette de son serviteur ?",
             "choice": [
                 {
@@ -1498,7 +1498,7 @@
             "comment": "Ému par ses supplications, le roi pris de compassion lui fit grâce. Mt 18:25"
         },
         {
-            "number": "66",
+            "name": "bm66",
             "text": "Dans l'histoire du roi et de son serviteur, comment le roi punit le serviteur de sa cruauté ?",
             "choice": [
                 {
@@ -1521,7 +1521,7 @@
             "comment": "... jusqu'à ce qu'il ait payé tout ce qu'il devait. Mt 18:34"
         },
         {
-            "number": "67",
+            "name": "bm67",
             "text": "De quelle(s) ruse(s) se servit le serpent pour convaincre Eve de manger le fruit de l'arbre de la connaissance du bien et du mal ?",
             "choice": [
                 {
@@ -1544,7 +1544,7 @@
             "comment": "Satan semait le doute dans l'esprit de Eve en disant:\"Dieu a-t-il réellement dit ?\". Ge 3"
         },
         {
-            "number": "68",
+            "name": "bm68",
             "text": "Quelle offrande Caïn offrit-il à l'Éternel ?",
             "choice": [
                 {
@@ -1567,7 +1567,7 @@
             "comment": "Il est écrit que Dieu ne porta pas un regard favorable sur Caïn et son offrande. Ge 4:3"
         },
         {
-            "number": "69",
+            "name": "bm69",
             "text": "Quelle offrande Abel offrit-il à l'Éternel ?",
             "choice": [
                 {
@@ -1590,7 +1590,7 @@
             "comment": "L'Éternel porta un regard favorable sur Abel et son offrande. Caïn en fut irrité. Ge 4:4"
         },
         {
-            "number": "70",
+            "name": "bm70",
             "text": "Qui ordonna un recensement de toute la terre peu avant la naissance du Christ ?",
             "choice": [
                 {
@@ -1613,7 +1613,7 @@
             "comment": "Tous allaient se faire inscrire dans la ville de leur naissance. Lc 2:1"
         },
         {
-            "number": "71",
+            "name": "bm71",
             "text": "Pourquoi Joseph se rendit-il à Bethléhem juste avant la naissance de Jésus ?",
             "choice": [
                 {
@@ -1636,7 +1636,7 @@
             "comment": "Joseph se rendit dans cette ville parce qu'il était de la famille de David. Lc 2:1-5"
         },
         {
-            "number": "72",
+            "name": "bm72",
             "text": "Qui a fondé les 12 tribus d'Israël ?",
             "choice": [
                 {
@@ -1659,7 +1659,7 @@
             "comment": "Les anciens et les chefs des tribus exerçaient une grande influence en Israël. Ex 1:1"
         },
         {
-            "number": "73",
+            "name": "bm73",
             "text": "Dans quelle ville arrivèrent en premier les mages?",
             "choice": [
                 {
@@ -1682,7 +1682,7 @@
             "comment": "Ils cherchaient le roi des Juifs qui venait de naître ayant aperçu son étoile. Mt 2:1-2"
         },
         {
-            "number": "74",
+            "name": "bm74",
             "text": "Qui a dit: \" Que dois-je faire de bon pour avoir la vie éternelle? \" ?",
             "choice": [
                 {
@@ -1705,7 +1705,7 @@
             "comment": "Mt 19:16 Voir Eph 2:8: \" C'est par la grâce que vous êtes sauvés, par la foi...\""
         },
         {
-            "number": "75",
+            "name": "bm75",
             "text": "Descendant de Lévi, frère aîné de Moïse et son porte-parole devant le Pharaon. Il fut le premier souverain sacrificateur. Qui est-ce ?",
             "choice": [
                 {
@@ -1728,7 +1728,7 @@
             "comment": "L'ainé de 3 ans de Moïse, il mourut à 123 ans sans être entré en terre promise. Ex 7:7"
         },
         {
-            "number": "76",
+            "name": "bm76",
             "text": "Fils de Gédéon, il égorgea 70 fils de son père et régna 3 ans à Sichem avant d'être tué. Qui est-ce?",
             "choice": [
                 {
@@ -1751,7 +1751,7 @@
             "comment": "Son trône avait été érigé dans le sang. Un morceau de meule le blessa à mort. Jg 9"
         },
         {
-            "number": "77",
+            "name": "bm77",
             "text": "A quelle époque vivaient les géants ?",
             "choice": [
                 {
@@ -1774,7 +1774,7 @@
             "comment": "Les géants ce sont des héros qui furent fameux dans l'antiquité. Ge 6:4"
         },
         {
-            "number": "78",
+            "name": "bm78",
             "text": "A l'époque de Noé, quel sentiment Dieu éprouva-t-il lorsqu'il vit que les hommes étaient méchants et ne pensaient qu'au mal ?",
             "choice": [
                 {
@@ -1797,7 +1797,7 @@
             "comment": "Il se repentit d'avoir créé l'homme et les animaux. Il décida de les exterminer. Ge 6:6-7"
         },
         {
-            "number": "79",
+            "name": "bm79",
             "text": "Quelle était la longueur de l'arche construite par Noé ?",
             "choice": [
                 {
@@ -1820,7 +1820,7 @@
             "comment": "300 coudées correspond à environ 165 m. Ge 6:15"
         },
         {
-            "number": "80",
+            "name": "bm80",
             "text": "Quelle était la largeur de l'arche construite par Noé ?",
             "choice": [
                 {
@@ -1843,7 +1843,7 @@
             "comment": "50 coudées équivaut à 28 m environ. Ge 6:15"
         },
         {
-            "number": "81",
+            "name": "bm81",
             "text": "L'Arche mesurait 300 coudées de long, 50 coudées de largeur, et sa hauteur était de ...........",
             "choice": [
                 {
@@ -1866,7 +1866,7 @@
             "comment": "30 coudées équivaut à environ 17 mètres. Ge 6:15"
         },
         {
-            "number": "82",
+            "name": "bm82",
             "text": "Combien comptait-on de fenêtres à l'arche ?",
             "choice": [
                 {
@@ -1889,7 +1889,7 @@
             "comment": "Elle était située dans la partie supérieure de l'arche et mesurait env. 55 cm. Ge 6:16"
         },
         {
-            "number": "83",
+            "name": "bm83",
             "text": "Combien de paires d'animaux impurs entrèrent dans l'arche de Noé ?",
             "choice": [
                 {
@@ -1912,7 +1912,7 @@
             "comment": "... et sept paires des animaux purs. Ge 7:2"
         },
         {
-            "number": "84",
+            "name": "bm84",
             "text": "La pluie tomba 40 jours et 40 nuits sur la terre. Ce fut un déluge qui recouvrit toutes les montagnes. D'où provenait toute cette eau ?",
             "choice": [
                 {
@@ -1935,7 +1935,7 @@
             "comment": "Les eaux recouvrirent de plus de 8 m les plus hautes montagnes et soulevèrent l'arche."
         },
         {
-            "number": "85",
+            "name": "bm85",
             "text": "Après le déluge et lorsque la terre fut séchée, comment Noé sut-il qu'il était temps de sortir de l'arche, lui, les siens et les animaux ?",
             "choice": [
                 {
@@ -1958,7 +1958,7 @@
             "comment": "Dieu ordonna que tous se répandent sur la terre, soient féconds et se multiplient. Ge 8:15"
         },
         {
-            "number": "86",
+            "name": "bm86",
             "text": "Quelle fut la première action de Noé lorsqu'il sortit de l'arche ?",
             "choice": [
                 {
@@ -1981,7 +1981,7 @@
             "comment": "Il bâtit un autel et offrit des bêtes pures et des oiseaux purs à Dieu. Ge 20"
         },
         {
-            "number": "87",
+            "name": "bm87",
             "text": "Quels animaux Noé offrit-il en holocauste à l'Éternel dès sa sortie de l'arche ?",
             "choice": [
                 {
@@ -2004,7 +2004,7 @@
             "comment": "L'Éternel sentit une odeur agréable et promis de ne plus maudire la terre... Voir Ge 8:20"
         },
         {
-            "number": "88",
+            "name": "bm88",
             "text": "Après le déluge, Noé offrit un holocauste à l'Éternel. Dieu décida de ...",
             "choice": [
                 {
@@ -2027,7 +2027,7 @@
             "comment": "... à cause de l'homme et de ne plus frapper ce qui est vivant. Ge 8:21-22"
         },
         {
-            "number": "89",
+            "name": "bm89",
             "text": "Après le déluge, Dieu établit une alliance entre lui et la postérité de Noé. Aucune chair ne sera plus détruite par l'eau. Quel signe le symbolise ?",
             "choice": [
                 {
@@ -2050,7 +2050,7 @@
             "comment": "Ce signe est pour se rappeler cette alliance entre Dieu et les hommes. Ge 9:11-17"
         },
         {
-            "number": "90",
+            "name": "bm90",
             "text": "Noé vécut combien d'années encore après le déluge ?",
             "choice": [
                 {
@@ -2073,7 +2073,7 @@
             "comment": "Il vécut 950 ans. Ge 9:28"
         },
         {
-            "number": "91",
+            "name": "bm91",
             "text": "A l'époque de Noé, combien y avait-il de langues sur toute la terre ?",
             "choice": [
                 {
@@ -2096,7 +2096,7 @@
             "comment": "C'est à la tour de Babel, que Dieu multiplia les langues. Ge 11:1"
         },
         {
-            "number": "92",
+            "name": "bm92",
             "text": "Pourquoi les descendants de Noé, construisirent-ils une ville et une tour dans la plaine de Schinear ?",
             "choice": [
                 {
@@ -2119,7 +2119,7 @@
             "comment": "L'Éternel les dispersa combien plus et multiplia le langage des uns et des autres. Ge 11"
         },
         {
-            "number": "93",
+            "name": "bm93",
             "text": "Les habitants de la terre construisirent une ville et une tour dont le sommet toucherait le ciel si Dieu n'avait ...",
             "choice": [
                 {
@@ -2142,7 +2142,7 @@
             "comment": "... et dispersé les hommes à la surface de la terre. Ge 11"
         },
         {
-            "number": "94",
+            "name": "bm94",
             "text": "La femme d'Abram avait une infirmité, elle était...",
             "choice": [
                 {
@@ -2165,7 +2165,7 @@
             "comment": "Saraï était belle de figure. Ge 11:30"
         },
         {
-            "number": "95",
+            "name": "bm95",
             "text": "A quel âge, Térach père d'Abram, mourut-il ?",
             "choice": [
                 {
@@ -2188,7 +2188,7 @@
             "comment": "Il mourut à Charan. Ge 11:32"
         },
         {
-            "number": "96",
+            "name": "bm96",
             "text": "Pourquoi Abram partit de Charan ( son pays, sa patrie et la maison de son père ) ?",
             "choice": [
                 {
@@ -2211,7 +2211,7 @@
             "comment": "Dieu lui promit d'en faire une grande nation et de le bénir. Ge 12:1-3"
         },
         {
-            "number": "97",
+            "name": "bm97",
             "text": "Sous quelle manifestation divine, l'Éternel a promis à Abram le pays de Canaan à sa postérité ?",
             "choice": [
                 {
@@ -2234,7 +2234,7 @@
             "comment": "Et Abram bâtit là un autel à l'Éternel. Ge 12:7"
         },
         {
-            "number": "98",
+            "name": "bm98",
             "text": "Pourquoi Abram quitta-t-il Canaan pour descendre en Égypte y séjourner ?",
             "choice": [
                 {
@@ -2257,7 +2257,7 @@
             "comment": "Ge 12:10"
         },
         {
-            "number": "99",
+            "name": "bm99",
             "text": "De quoi Abram avait-il peur avant d'entrer en Égypte ? Il fuyait la famine du pays de Canaan. Saraï, sa femme, l'accompagnait.",
             "choice": [
                 {
@@ -2280,7 +2280,7 @@
             "comment": "... à cause de Saraï et de sa grande beauté. Ge 12:11-13"
         },
         {
-            "number": "100",
+            "name": "bm100",
             "text": "Lors de l'entrée d'Abram avec Saraï en Égypte, les Égyptiens trouvèrent ...",
             "choice": [
                 {
@@ -2303,7 +2303,7 @@
             "comment": "Pharaon l'a pris pour femme croyant à tort qu'elle était la soeur d'Abram. Ge 12:14"
         },
         {
-            "number": "101",
+            "name": "bm101",
             "text": "Après son entrée en Égypte et son mensonge sur ses liens avec Saraï, Abram fut bien traité par Pharaon. Qu'arriva-t-il à sa femme Saraï ?",
             "choice": [
                 {
@@ -2326,7 +2326,7 @@
             "comment": "Il en fit sa femme. Dieu le frappa de grandes plaies à cause d'elle. Ge 12:15"
         },
         {
-            "number": "102",
+            "name": "bm102",
             "text": "A cause de Saraï, comment le Pharaon traita-t-il Abram ?",
             "choice": [
                 {
@@ -2349,7 +2349,7 @@
             "comment": "Des brebis, des boeufs, des ânes, des serviteurs, des servantes, des ânesses... Ge 12:16"
         },
         {
-            "number": "103",
+            "name": "bm103",
             "text": "Pharaon en voulait à Abram des plaies que l'Éternel lui envoyait. Pourquoi en voulait-il à Abram ?",
             "choice": [
                 {
@@ -2372,7 +2372,7 @@
             "comment": "Il la prit pour femme croyant à tort qu'elle était la soeur d'Abram. Ge 12:18-19"
         },
         {
-            "number": "104",
+            "name": "bm104",
             "text": "D'après le livre d'Apocalypse, au chapitre 20, combien de temps Satan sera-t-il lié ?",
             "choice": [
                 {
@@ -2395,7 +2395,7 @@
             "comment": "Un ange saisit le diable, le lia et le jeta dans l'abîme pour 1000 ans... Ap 20:1-3"
         },
         {
-            "number": "105",
+            "name": "bm105",
             "text": "Pourquoi Ésaü haissait-il son frère cadet ?",
             "choice": [
                 {
@@ -2418,7 +2418,7 @@
             "comment": "Jacob se fit passer pour lui et Isaac lui donna la bénédiction d'Ésaü. Ge 27:36-41"
         },
         {
-            "number": "106",
+            "name": "bm106",
             "text": "A qui Jésus a-t-il dit: \" Ma maison sera appelée une maison de prière. Mais vous en faites une caverne de voleurs. \" ?",
             "choice": [
                 {
@@ -2441,7 +2441,7 @@
             "comment": "Il les chassa et renversa leurs tables et chaises. Mt 21:13"
         },
         {
-            "number": "107",
+            "name": "bm107",
             "text": "Les principaux sacrificateurs et les scribes furent ..............., à la vue des choses merveilleuses qu'il avait faites...",
             "choice": [
                 {
@@ -2464,7 +2464,7 @@
             "comment": "Les enfants criaient dans le temple: \" Hosanna au Fils de David ! \" Mt 21:15"
         },
         {
-            "number": "108",
+            "name": "bm108",
             "text": "Qu'est-il arrivé au figuier qui ne donnait pas de fruit et que Jésus croisa en montant à Jérusalem ?",
             "choice": [
                 {
@@ -2487,7 +2487,7 @@
             "comment": "Il en profita pour enseigner les disciples sur le pouvoir de la foi. Mt 21:18-19"
         },
         {
-            "number": "109",
+            "name": "bm109",
             "text": "Dans la parabole des vignerons, le maître de la maison planta une vigne. Il la confia à des vignerons. Il envoya des serviteurs. Qu'arriva-t-il ?",
             "choice": [
                 {
@@ -2510,7 +2510,7 @@
             "comment": "Le premier fut battu, le deuxième fut tué et le troisième fut lapidé. Mt 21:35"
         },
         {
-            "number": "110",
+            "name": "bm110",
             "text": "Abram remonta d'Égypte vers le midi, lui, sa femme et tout ce qui lui appartenait. Qui d'autre l'accompagnait ?",
             "choice": [
                 {
@@ -2533,7 +2533,7 @@
             "comment": "Lot avait lui aussi des brebis, des boeufs et des tentes. Ge 13:1"
         },
         {
-            "number": "111",
+            "name": "bm111",
             "text": "Pourquoi y a-t-il eu querelle entre les bergers d'Abram et les bergers de Lot ?",
             "choice": [
                 {
@@ -2556,7 +2556,7 @@
             "comment": "Car les troupeaux étaient si nombreux qu'ils ne pouvaient rester ensemble. Ge 13:5-7"
         },
         {
-            "number": "112",
+            "name": "bm112",
             "text": "Les gens de quelle ville étaient méchants et de grands pécheurs contre l'Éternel ?",
             "choice": [
                 {
@@ -2579,7 +2579,7 @@
             "comment": "L'une des cinq villes de la vallée du Jourdain reconnue pour sa perversité. Ge 13:13"
         },
         {
-            "number": "113",
+            "name": "bm113",
             "text": "Dans la parabole du festin des noces, qui furent appelés tout d'abord par le roi pour les noces de son fils ?",
             "choice": [
                 {
@@ -2602,7 +2602,7 @@
             "comment": "Mt 22"
         },
         {
-            "number": "114",
+            "name": "bm114",
             "text": "Les Sadducéens ne croyaient pas à la résurrection et posèrent à Jésus une énigme. Combien de frères épousèrent la même femme successivement ?",
             "choice": [
                 {
@@ -2625,7 +2625,7 @@
             "comment": "Elle épousa les 7 frères, qui moururent tour à tour sans laisser de postérité. Mt 22:23-30"
         },
         {
-            "number": "115",
+            "name": "bm115",
             "text": "Dans Matthieu 23, Jésus demande aux disciples et à la foule de ne pas se faire appeler de trois noms réservés à Dieu et à Christ. Quels sont-ils ?",
             "choice": [
                 {
@@ -2648,7 +2648,7 @@
             "comment": "Un seul est votre Père, un seul est votre rabbi (maître) et un seul est votre directeur."
         },
         {
-            "number": "116",
+            "name": "bm116",
             "text": "A qui Jésus a-t-il dit: \" Malheur à vous, ...... parce que vous fermez aux hommes le royaume des cieux; vous n'y entrez pas vous-mêmes... \"",
             "choice": [
                 {
@@ -2671,7 +2671,7 @@
             "comment": "8 fois Jésus leur répète: \" Malheur à vous,... \" dans Matthieu 23."
         },
         {
-            "number": "117",
+            "name": "bm117",
             "text": "Complétez: \" ... et celui qui jure par .......... jure par ............ de Dieu et par celui qui .......... \"",
             "choice": [
                 {
@@ -2694,7 +2694,7 @@
             "comment": "Mt 23:22"
         },
         {
-            "number": "118",
+            "name": "bm118",
             "text": "Selon l'enseignement de Jésus aux disciples, à quel moment l'iniquité sera accrue et l'amour du plus grand nombre sera refroidi ?",
             "choice": [
                 {
@@ -2717,7 +2717,7 @@
             "comment": "Voir l'énumération des signes de l'avènement du Messie et de la fin du monde dans Mt 24."
         },
         {
-            "number": "119",
+            "name": "bm119",
             "text": "De quelle façon le Christ reviendra selon son propre enseignement dans Matthieu 24 ?",
             "choice": [
                 {
@@ -2740,7 +2740,7 @@
             "comment": "Les cieux seront ébranlés et ses anges rassembleront ses élus des 4 vents. Mt 24:29-44"
         },
         {
-            "number": "120",
+            "name": "bm120",
             "text": "Dans la parabole des dix vierges, où se rendaient-elles avec leurs lampes ?",
             "choice": [
                 {
@@ -2763,7 +2763,7 @@
             "comment": "5 d'entre elles n'avaient pas d'huile et l'époux fit entrer les 5 autres seulement. Mt 25"
         },
         {
-            "number": "121",
+            "name": "bm121",
             "text": "Quand Abram fut informé de la captivité de Lot par le roi Kedorlaomer, que fit-il ?",
             "choice": [
                 {
@@ -2786,7 +2786,7 @@
             "comment": "Il arma 318 de ses serviteurs les plus braves et chassa le roi. Ge 14:14-16"
         },
         {
-            "number": "122",
+            "name": "bm122",
             "text": "Qui était roi de Salem et sacrificateur du Dieu Très-haut au temps d'Abram ?",
             "choice": [
                 {
@@ -2809,7 +2809,7 @@
             "comment": "Il alla au-devant d'Abram vainqueur des rois et lui offrit du pain et du vin. Ge 14:18"
         },
         {
-            "number": "123",
+            "name": "bm123",
             "text": "Qu'à fait Abram après que le roi et sacrificateur Melchisédek l'eut béni après sa victoire des rois qui détenaient Lot ?",
             "choice": [
                 {
@@ -2832,7 +2832,7 @@
             "comment": "Ge 14:20"
         },
         {
-            "number": "124",
+            "name": "bm124",
             "text": "Dieu apparut à Abram dans une vision et lui montra les étoiles du ciel. Dieu lui dit: \"Telle sera ta postérité.\" Qui devait être l'héritier d'Abram ?",
             "choice": [
                 {
@@ -2855,7 +2855,7 @@
             "comment": "Avant la naissance d'Isaac, Abram considérait Éliézer comme son héritier. Ge 15:2-3"
         },
         {
-            "number": "125",
+            "name": "bm125",
             "text": "\"Confie-toi en l'Éternel de tout ton coeur, et ne t'appuie pas sur ...........; reconnais-le dans toutes tes voies, et il aplanira tes sentiers.\"",
             "choice": [
                 {
@@ -2878,7 +2878,7 @@
             "comment": "Proverbes 3:5-6"
         },
         {
-            "number": "126",
+            "name": "bm126",
             "text": "De quelle manière Agar regarda-t-elle sa maîtresse lorsqu'elle apprit qu'elle donnerait un enfant à Abram ?",
             "choice": [
                 {
@@ -2901,7 +2901,7 @@
             "comment": "Ge 16:4"
         },
         {
-            "number": "127",
+            "name": "bm127",
             "text": "Saraï dit à Abram qu'Agar la méprisait depuis sa grossesse. Il lui répondit de faire comme il lui semblait bon. Que fit-elle ?",
             "choice": [
                 {
@@ -2924,7 +2924,7 @@
             "comment": "C'était une coutume du temps d'offrir sa servante comme femme à son mari. Ge 16:6"
         },
         {
-            "number": "128",
+            "name": "bm128",
             "text": "L'ange de l'Éternel trouva Agar en fuite de chez sa maîtresse Saraï dans le désert près d'une source sur le chemin de Shur. Que lui dit-il ?",
             "choice": [
                 {
@@ -2947,7 +2947,7 @@
             "comment": "Elle fuyait Saraï qui la maltraitait. Ge 16:9"
         },
         {
-            "number": "129",
+            "name": "bm129",
             "text": "Complétez le proverbe: \" Une femme ............ est la couronne de son mari, mais celle qui fait honte est comme la carie de ses os. \"",
             "choice": [
                 {
@@ -2970,7 +2970,7 @@
             "comment": "Proverbe 12:4"
         },
         {
-            "number": "130",
+            "name": "bm130",
             "text": "Complétez le proverbe: \" La femme sage .................., et la femme insensée................. de ses propres mains. \"",
             "choice": [
                 {
@@ -2993,7 +2993,7 @@
             "comment": "Proverbe 14:1"
         },
         {
-            "number": "131",
+            "name": "bm131",
             "text": "Complétez le proverbe: \" Le .................. est en horreur à l'Éternel, mais la prière des hommes ............. lui est agréable. \"",
             "choice": [
                 {
@@ -3016,7 +3016,7 @@
             "comment": "Proverbe 15:8"
         },
         {
-            "number": "132",
+            "name": "bm132",
             "text": "Complétez le proverbe: \" Les projets que forme le coeur ........................, mais la réponse que donne la bouche vient de l'Éternel. \"",
             "choice": [
                 {
@@ -3039,7 +3039,7 @@
             "comment": "Proverbe 16:1"
         },
         {
-            "number": "133",
+            "name": "bm133",
             "text": "Complétez le proverbe: \" Celui qui couvre une faute ........................., et celui qui la rappelle dans ses discours divise les amis. \"",
             "choice": [
                 {
@@ -3062,7 +3062,7 @@
             "comment": "Proverbes 17:9"
         },
         {
-            "number": "134",
+            "name": "bm134",
             "text": "Complétez le proverbe: \" L'homme qui a de la sagesse est lent à la colère, et il met sa gloire à ..................\"",
             "choice": [
                 {
@@ -3085,7 +3085,7 @@
             "comment": "Proverbes 19:11"
         },
         {
-            "number": "135",
+            "name": "bm135",
             "text": "Complétez le proverbe: \" La .................. est préférable à de grandes richesses, et la .........vaut mieux que l'argent et que l'or. \"",
             "choice": [
                 {
@@ -3108,7 +3108,7 @@
             "comment": "Proverbes 22:1"
         },
         {
-            "number": "136",
+            "name": "bm136",
             "text": "Complétez le proverbe: \" Soigne tes affaires au-dehors, mets ton champ en état, puis ...................................\"",
             "choice": [
                 {
@@ -3131,7 +3131,7 @@
             "comment": "Proverbes 24:27"
         },
         {
-            "number": "137",
+            "name": "bm137",
             "text": "Complétez le proverbe: \" Les blessures d'un ami prouvent sa fidélité, mais ....................... sont trompeurs.",
             "choice": [
                 {
@@ -3154,7 +3154,7 @@
             "comment": "Proverbes 27:6"
         },
         {
-            "number": "138",
+            "name": "bm138",
             "text": "Complétez le proverbe: \" Un homme qui mérite d'être repris, et qui raidit le cou, sera ....................................\"",
             "choice": [
                 {
@@ -3177,7 +3177,7 @@
             "comment": "Proverbes 29:1"
         },
         {
-            "number": "139",
+            "name": "bm139",
             "text": "Complétez le proverbe: \" Qui peut trouver une femme vertueuse ? Elle a bien plus de valeur ..................... ?",
             "choice": [
                 {
@@ -3200,7 +3200,7 @@
             "comment": "Proverbes 31:10"
         },
         {
-            "number": "140",
+            "name": "bm140",
             "text": "Qui a dit: \" J'ai appliqué mon coeur à rechercher et à sonder par la sagesse tout ce qui se fait sous les cieux: c'est là une occupation pénible.. \"",
             "choice": [
                 {
@@ -3223,7 +3223,7 @@
             "comment": "Ec 1:13"
         },
         {
-            "number": "141",
+            "name": "bm141",
             "text": "Qui a dit: \" Il y a un temps pour tout, un temps pour toute chose sous les cieux: un temps pour naître, et un temps pour mourir; un temps pour... \"",
             "choice": [
                 {
@@ -3246,7 +3246,7 @@
             "comment": "Ec 3:1"
         },
         {
-            "number": "142",
+            "name": "bm142",
             "text": "Qui a dit: \" Celui qui aime l'argent n'est pas rassasié par l'argent, et celui qui aime les richesses n'en profite pas.\"?",
             "choice": [
                 {
@@ -3269,7 +3269,7 @@
             "comment": "Ec 5:9"
         },
         {
-            "number": "143",
+            "name": "bm143",
             "text": "D'où vient la citation: \" Mon bien-aimé est à moi, et je suis à lui...\" ?",
             "choice": [
                 {
@@ -3292,7 +3292,7 @@
             "comment": "Ca 2:16"
         },
         {
-            "number": "144",
+            "name": "bm144",
             "text": "D'où vient la citation suivante: \" Tu es toute belle, mon amie, et il n'y a point en toi de défaut. \" ?",
             "choice": [
                 {
@@ -3315,7 +3315,7 @@
             "comment": "Ca 4:7"
         },
         {
-            "number": "145",
+            "name": "bm145",
             "text": "Quel est l'apôtre qui a dit: \" Même si tu étais pour tous une occasion de chute, tu ne le seras jamais pour moi. \" ?",
             "choice": [
                 {
@@ -3338,7 +3338,7 @@
             "comment": "Pierre à Jésus, quelques heures avant de le renier trois fois. Mt 26:33"
         },
         {
-            "number": "146",
+            "name": "bm146",
             "text": "Par quel signe, Judas Iscariot livra t-il Jésus aux principaux sacrificateurs et aux anciens du peuple ?",
             "choice": [
                 {
@@ -3361,7 +3361,7 @@
             "comment": "Mt 26:48"
         },
         {
-            "number": "147",
+            "name": "bm147",
             "text": "Que répondit Jésus à Judas à la suite de son baiser ? ( Baiser qui identifiait Jésus et le livrait à la foule. )",
             "choice": [
                 {
@@ -3384,7 +3384,7 @@
             "comment": "Jésus lui dit: \" Mon ami, ce que tu es venu faire, fais-le. \" Mt 26:50"
         },
         {
-            "number": "148",
+            "name": "bm148",
             "text": "Lors de l'arrestation de Jésus dans le jardin de Gethsémané, de quoi était armée la foule envoyée par les principaux sacrificateurs et les anciens ?",
             "choice": [
                 {
@@ -3407,7 +3407,7 @@
             "comment": "Jésus leur dit: \" Vous êtes venus, comme après un brigand, .... Mt 26:55"
         },
         {
-            "number": "149",
+            "name": "bm149",
             "text": "Après un procès factice, les principaux sacrificateurs et tout le Sanhédrin jugèrent que Jésus méritait la mort. Que lui firent-ils ?",
             "choice": [
                 {
@@ -3430,7 +3430,7 @@
             "comment": "Ils disaient: \" Christ prophétise; dis-nous qui t'a frappé. \" Mt 26:67-68"
         },
         {
-            "number": "150",
+            "name": "bm150",
             "text": "Où se trouvait Pierre après l'arrestation de Jésus et son procès bidon au Sanhédrin ?",
             "choice": [
                 {
@@ -3453,7 +3453,7 @@
             "comment": "Tentant en vain de passer inaperçu, Pierre reconnu par une servante renia Jésus. Mt 26"
         },
         {
-            "number": "151",
+            "name": "bm151",
             "text": "La nuit de l'arrestation de Jésus, que fit Pierre avant que le coq n'ait chanté ?",
             "choice": [
                 {
@@ -3476,7 +3476,7 @@
             "comment": "Il venait de renier son maître trois fois de suite malgré sa promesse. Mt 26:75"
         },
         {
-            "number": "152",
+            "name": "bm152",
             "text": "Que signifie le titre CHRIST ?",
             "choice": [
                 {
@@ -3499,7 +3499,7 @@
             "comment": "Vient du grec CHRISTOS. De l'hébreu MASHIAH ( oint, messie )"
         },
         {
-            "number": "153",
+            "name": "bm153",
             "text": "Les soldats du gouverneur conduisirent Jésus dans le prétoire et s'assemblèrent autour de lui. Il le couvrirent d'un manteau de quelle couleur ?",
             "choice": [
                 {
@@ -3522,7 +3522,7 @@
             "comment": "Les chefs militaires avaient coutume de porter des manteaux écarlates. Mt 27:27"
         },
         {
-            "number": "154",
+            "name": "bm154",
             "text": "Tout juste avant de crucifier Jésus les soldats du gouverneur lui offrirent une boisson. Quelle est cette boisson ?",
             "choice": [
                 {
@@ -3545,7 +3545,7 @@
             "comment": "Ce breuvage constituait un stupéfiant pour apaiser les souffrances. Mt 27:34"
         },
         {
-            "number": "155",
+            "name": "bm155",
             "text": "Combien y a t-il de livres dans le Pentateuque ?",
             "choice": [
                 {
@@ -3568,7 +3568,7 @@
             "comment": "Appelé aussi Torah, il s'agit des 5 premiers livres de l'Ancien Testament."
         },
         {
-            "number": "156",
+            "name": "bm156",
             "text": "Qui se moquait de Jésus crucifié dans l'évangile de Matthieu ?",
             "choice": [
                 {
@@ -3591,7 +3591,7 @@
             "comment": "Les brigands crucifiés avec lui l'insultaient également. Mt 27: 38-44"
         },
         {
-            "number": "157",
+            "name": "bm157",
             "text": "Quelle était l'inscription que les soldats écrivirent au-dessus de la tête de Jésus crucifié ?",
             "choice": [
                 {
@@ -3614,7 +3614,7 @@
             "comment": "Chacun des évangélistes donne un extrait de l'inscription. Voir Mt 27:37"
         },
         {
-            "number": "158",
+            "name": "bm158",
             "text": "Au moment de rendre l'âme Jésus en croix s'exclama d'une voix forte: \" Éli, Éli, lama sabachthani \". Ça signifie ...",
             "choice": [
                 {
@@ -3637,7 +3637,7 @@
             "comment": "Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné ? Parole prophétique du Psaume 22:2"
         },
         {
-            "number": "159",
+            "name": "bm159",
             "text": "Quels événements spéciaux se produirent lorsque Jésus rendit l'esprit en croix ?",
             "choice": [
                 {
@@ -3660,7 +3660,7 @@
             "comment": "Les morts ressuscités entrèrent dans la ville sainte et apparurent à plusieurs personnes."
         },
         {
-            "number": "160",
+            "name": "bm160",
             "text": "Qui roula la pierre du sépulcre de Jésus à l'aube du premier jour de la semaine ?",
             "choice": [
                 {
@@ -3683,7 +3683,7 @@
             "comment": "Son aspect était comme l'éclair et son vêtement blanc comme la neige. Mt 28:2-3"
         },
         {
-            "number": "161",
+            "name": "bm161",
             "text": "Complétez: \"Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du St-Esprit, et enseignez-leur à observer...",
             "choice": [
                 {
@@ -3706,7 +3706,7 @@
             "comment": "Suite: Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde. Mt 28:19-20"
         },
         {
-            "number": "162",
+            "name": "bm162",
             "text": "Après la mort de Jésus, les apôtres et les disciples se réunirent pour choisir un remplaçant à Judas l'Iscariot. Quel nombre étaient-ils ?",
             "choice": [
                 {
@@ -3729,7 +3729,7 @@
             "comment": "Il y avait les apôtres, les femmes dont Marie mère de Jésus, ses frères, et les disciples."
         },
         {
-            "number": "163",
+            "name": "bm163",
             "text": "Que signifie en hébreu le nom \" ABRAHAM \" ?",
             "choice": [
                 {
@@ -3752,7 +3752,7 @@
             "comment": "Dieu avait lui-même renommé Abram en Abraham. Ge 17:5"
         },
         {
-            "number": "164",
+            "name": "bm164",
             "text": "Le jour de la Pentecôte, les disciples furent remplis du St-Esprit. Quel signe spécial leur fut donné ?",
             "choice": [
                 {
@@ -3775,7 +3775,7 @@
             "comment": "Ac 2:4"
         },
         {
-            "number": "165",
+            "name": "bm165",
             "text": "Les disciples ayant reçu le St-Esprit se mirent à parler en d'autres langues inconnues. Que disaient-ils selon des hommes pieux en visite ?",
             "choice": [
                 {
@@ -3798,7 +3798,7 @@
             "comment": "Ces étrangers venus d'ailleurs furent surpris de les entendre dans leur langue. Ac 2:11"
         },
         {
-            "number": "166",
+            "name": "bm166",
             "text": "Complétez: \" Que toute la maison d'Israël sache donc avec certitude que Dieu a .............................. ce Jésus que vous avez crucifié. \"",
             "choice": [
                 {
@@ -3821,7 +3821,7 @@
             "comment": "Pierre faisant un discours aux Juifs après avoir reçu le St-Esprit. Ac 2:36"
         },
         {
-            "number": "167",
+            "name": "bm167",
             "text": "Le jour du discours de Pierre à la Pentecôte, combien de personnes acceptèrent sa parole et devinrent disciples de Christ ?",
             "choice": [
                 {
@@ -3844,7 +3844,7 @@
             "comment": "Ces jeunes chrétiens persévéraient dans l'enseignement, la prière, la communion... Ac 2:41"
         },
         {
-            "number": "168",
+            "name": "bm168",
             "text": "Complétez: \" Repentez-vous donc et .........................., pour que vos péchés soient effacés... \"",
             "choice": [
                 {
@@ -3867,7 +3867,7 @@
             "comment": "Parole de Pierre au peuple israélite dans Actes 3:19"
         },
         {
-            "number": "169",
+            "name": "bm169",
             "text": "Qui a dit: \" Si cette entreprise ou cette oeuvre vient des hommes, elle se détruira; mais si elle vient de Dieu, vous ne pourrez la détruire. \" ?",
             "choice": [
                 {
@@ -3890,7 +3890,7 @@
             "comment": "Sur son avis, le Sanhédrin relâcha les apôtres et leur interdit de parler de Jésus. Ac 5"
         },
         {
-            "number": "170",
+            "name": "bm170",
             "text": "Parmi ces noms, lequel ne fut pas élu pour servir aux tables en remplacement des apôtres ?",
             "choice": [
                 {
@@ -3913,7 +3913,7 @@
             "comment": "L'assemblée les élirent. Les apôtres prièrent et leur imposèrent les mains. Ac 6:1-6"
         },
         {
-            "number": "171",
+            "name": "bm171",
             "text": "Selon Actes 6:5, Étienne était un homme .........",
             "choice": [
                 {
@@ -3936,7 +3936,7 @@
             "comment": "Il fut choisi avec 6 autres pour servir aux tables à la place des apôtres."
         },
         {
-            "number": "172",
+            "name": "bm172",
             "text": "Qui rempli du Saint-Esprit et fixant les regards vers le ciel, vit la gloire de Dieu et Jésus debout à la droite de Dieu ?",
             "choice": [
                 {
@@ -3959,7 +3959,7 @@
             "comment": "Actes 7:55"
         },
         {
-            "number": "173",
+            "name": "bm173",
             "text": "Quelles sont les dernières paroles d'Étienne avant de mourir lapidé sous les pierres par les faux témoins ?",
             "choice": [
                 {
@@ -3982,7 +3982,7 @@
             "comment": "La loi romaine défendait de mettre à mort quiconque sans qu'elle l'eût permis. Ac 7:60"
         },
         {
-            "number": "174",
+            "name": "bm174",
             "text": "Dans la ville de Samarie, un homme se donnant pour un personnage important, exerçait la magie et provoquait l'étonnement du peuple. Qui était-il ?",
             "choice": [
                 {
@@ -4005,7 +4005,7 @@
             "comment": "Grand sorcier, il se convertit et chercha à acheter le don de donner le St-Esprit. Ac 8:9"
         },
         {
-            "number": "175",
+            "name": "bm175",
             "text": "Philippe rencontra un eunuque éthiopien sur le chemin qui descend de Jérusalem à Gaza. Qu'est-ce que ce ministre de Candace lisait ?",
             "choice": [
                 {
@@ -4028,7 +4028,7 @@
             "comment": "Il lisait sans comprendre Es 53:7-8. Philippe lui expliqua. Ac 8:28"
         },
         {
-            "number": "176",
+            "name": "bm176",
             "text": "Au mont Carmel, combien de pierres Élie prit-il pour bâtir un autel au nom de l'Éternel ?",
             "choice": [
                 {
@@ -4051,7 +4051,7 @@
             "comment": "D'après le nombre des tribus des fils de Jacob. 1R 18:31-32"
         },
         {
-            "number": "177",
+            "name": "bm177",
             "text": "Quel évangile ne relate pas l'histoire de la transfiguration ?",
             "choice": [
                 {
@@ -4074,7 +4074,7 @@
             "comment": "Mt 17:1-9, Mc 9:2-10 et Lc 9:28-36."
         },
         {
-            "number": "178",
+            "name": "bm178",
             "text": "Goliath, le philistin de Gath, lança un défi aux troupes d'Israël. Personne ne voulait l'affronter mis à part David. Combien mesurait-il ?",
             "choice": [
                 {
@@ -4097,7 +4097,7 @@
             "comment": "Il mesurait 6 coudées et un empan. 1S 17:4"
         },
         {
-            "number": "179",
+            "name": "bm179",
             "text": "Quel livre de la Bible précède le livre de Lévitique ?",
             "choice": [
                 {
@@ -4120,7 +4120,7 @@
             "comment": "Aucun autre livre de la Bible ne contient autant de paroles exprimées par Dieu."
         },
         {
-            "number": "180",
+            "name": "bm180",
             "text": "Complétez: \" Celui qui demeure sous l'abri du Très-Haut repose à l'ombre ......................... \"",
             "choice": [
                 {
@@ -4143,7 +4143,7 @@
             "comment": "Psaume 91:1"
         },
         {
-            "number": "181",
+            "name": "bm181",
             "text": "Après sa rencontre avec le Seigneur sur la route qui mène à Damas, combien de jours Saul (Paul) demeura-t-il sans voir ?",
             "choice": [
                 {
@@ -4166,7 +4166,7 @@
             "comment": "Une lumière venant du ciel resplendit autour de lui et l'aveugla temporairement. Ac 9:9"
         },
         {
-            "number": "182",
+            "name": "bm182",
             "text": "Le Seigneur dit à Ananias: \" Va, car cet homme est un instrument que j'ai choisi, pour porter mon nom devant les nations,...\" Qui est-ce ?",
             "choice": [
                 {
@@ -4189,7 +4189,7 @@
             "comment": "Malgré son passé à persécuter les chrétiens, Paul fut choisi par le Seigneur. Ac 9:15"
         },
         {
-            "number": "183",
+            "name": "bm183",
             "text": "Qui imposa les mains à Saul atteint de cécité et réfugié dans une maison de Damas ?",
             "choice": [
                 {
@@ -4212,7 +4212,7 @@
             "comment": "Il tomba comme des écailles de ses yeux et il retrouva la vue. Actes 9:17"
         },
         {
-            "number": "184",
+            "name": "bm184",
             "text": "Il y avait à Joppé une femme nommée Tabitha qui faisait beaucoup de bonnes oeuvres et l'aumône. Elle mourut et fut ressuscitée par ...",
             "choice": [
                 {
@@ -4235,7 +4235,7 @@
             "comment": "Pierre se mit à genoux, pria, se tourna vers le corps et dit:\"Tabitha, lève-toi!\" Ac 9:40"
         },
         {
-            "number": "185",
+            "name": "bm185",
             "text": "Cet homme juste et craignant Dieu, et de qui toute la nation des Juifs rendait un bon témoignage, fit venir Pierre chez lui pour entendre ses paroles",
             "choice": [
                 {
@@ -4258,7 +4258,7 @@
             "comment": "Un ange lui apparut et lui demanda de faire venir Pierre. Il reçut le St-Esprit. Ac 10:22"
         },
         {
-            "number": "186",
+            "name": "bm186",
             "text": "De quelle façon est mort Jacques, le frère de Jean ?",
             "choice": [
                 {
@@ -4281,7 +4281,7 @@
             "comment": "Hérode maltraita l'Église et vit que cela plaisait aux juifs. Ac 12:2"
         },
         {
-            "number": "187",
+            "name": "bm187",
             "text": "A Chypre, Barnabas et Saul rencontre le proconsul Sergius Paulus intéressé à les entendre mais un magicien s'oppose à eux. Que lui arriva-t-il ?",
             "choice": [
                 {
@@ -4304,7 +4304,7 @@
             "comment": "Le proconsul voyant le miracle opéré par Saul crut étant frappé par la doctrine. Ac 13:11"
         },
         {
-            "number": "188",
+            "name": "bm188",
             "text": "Lors de leur premier voyage missionnaire, Barnabas et Paul travaillent à leur ministère de la parole à Lystre, comment la foule médusée les surnomme",
             "choice": [
                 {
@@ -4327,7 +4327,7 @@
             "comment": "Après les avoir honorés comme des dieux, la foule lapida Paul et le laissa pour mort.Ac 14"
         },
         {
-            "number": "189",
+            "name": "bm189",
             "text": "A Lystre, le prêtre du temple voulut offrir un sacrifice de taureaux à Paul et Barnabbas que la foule voulait idolâtrer. Que firent ces apôtres ?",
             "choice": [
                 {
@@ -4350,7 +4350,7 @@
             "comment": "Du milieu de la foule, ils s'écrièrent de les voir seulement comme des hommes. Ac 14:14"
         },
         {
-            "number": "190",
+            "name": "bm190",
             "text": "Dans le livre des Actes des apôtres, pourquoi y eut-il un concile à Jérusalem ? (Les apôtres, Paul, Barnabas, des anciens et d'autres y étaient.)",
             "choice": [
                 {
@@ -4373,7 +4373,7 @@
             "comment": "Certains frères voulaient que les païens convertis respectent les prescriptions de la loi."
         },
         {
-            "number": "191",
+            "name": "bm191",
             "text": "Quelle décision prirent les apôtres et les anciens à la suite du concile de Jérusalem où l'on discutait du respect de la loi pour les frères païens ?",
             "choice": [
                 {
@@ -4396,7 +4396,7 @@
             "comment": "Paul et Barnabas furent désignés pour porter les recommandations du concile... Ac 15:19"
         },
         {
-            "number": "192",
+            "name": "bm192",
             "text": "Après le concile, les anciens et les apôtres envoyèrent Paul et Barnabas vers les Églises d'Antioche, Syrie et Cilicie. Qui d'autres avec eux ?",
             "choice": [
                 {
@@ -4419,7 +4419,7 @@
             "comment": "Ils transmirent une lettre du concile aux païens nouvellement convertis à Christ. Ac15:24"
         },
         {
-            "number": "193",
+            "name": "bm193",
             "text": "Les assemblées chrétiennes croissaient et se multipliaient. Paul décida de retourner visiter les Églises. Barnabas ne l'accompagna pas. Pourquoi ?",
             "choice": [
                 {
@@ -4442,7 +4442,7 @@
             "comment": "Barnabas voulait emmener Jean, surnommé Marc. Paul ne voulut pas. Ac 15:36-40"
         },
         {
-            "number": "194",
+            "name": "bm194",
             "text": "Il était fils d'une femme juive fidèle et d'un père grec. Les frères de Lystre et d'Icone rendaient de lui un bon témoignage. Il accompagna Paul. ?",
             "choice": [
                 {
@@ -4465,7 +4465,7 @@
             "comment": "Paul et les anciens lui imposèrent les mains et le consacrèrent à l'évangélisation. Ac 16"
         },
         {
-            "number": "195",
+            "name": "bm195",
             "text": "Lors du 2e voyage missionnaire de Paul, il est jeté en prison pour avoir guéri une possédée. Il s'y produisit un grand tremblement de terre qui ...",
             "choice": [
                 {
@@ -4488,7 +4488,7 @@
             "comment": "Le geôlier voulut se tuer mais Paul lui témoigna. Celui-ci se convertit. Ac 16:26"
         },
         {
-            "number": "196",
+            "name": "bm196",
             "text": "Paul et Silas quittèrent de nuit Thessalonique et reçurent un accueil plus noble des juifs de Bérée. Ces gens reçurent la parole avec empressement e",
             "choice": [
                 {
@@ -4511,7 +4511,7 @@
             "comment": "Ceci afin de vérifier si ce qu'on leur disait était exact. Ac 17:11"
         },
         {
-            "number": "197",
+            "name": "bm197",
             "text": "Lors de son 2e voyage missionnaire, Paul se rendit à Athènes. Il sentit au-dedans de lui son esprit s'irriter. Pourquoi ?",
             "choice": [
                 {
@@ -4534,7 +4534,7 @@
             "comment": "Athènes était la capitale des sciences, de la littérature et des arts. Ac 17:16"
         },
         {
-            "number": "198",
+            "name": "bm198",
             "text": "A son 3e voyage missionnaire, Paul se rend à Éphèse et y enseigne quelques années. Dieu faisait des miracles par lui. Que firent certains qui crurent",
             "choice": [
                 {
@@ -4557,7 +4557,7 @@
             "comment": "Ces gens avaient exercé les arts magiques. Ac 19:19"
         },
         {
-            "number": "199",
+            "name": "bm199",
             "text": "Le christianisme gagnait les coeurs et s'étendait graduellement dans toute l'Asie. A Éphèse, un orfèvre fabricant de temples à Diane s'inquiétait. ?",
             "choice": [
                 {
@@ -4580,7 +4580,7 @@
             "comment": "Il sentait sa profession menacée par les nouvelles croyances des chrétiens. Ac 19:24"
         },
         {
-            "number": "200",
+            "name": "bm200",
             "text": "A qui Paul déclare: \"... je suis pur du sang de vous tous, car je vous ai annoncé tout le conseil de Dieu, sans en rien cacher. \" ?",
             "choice": [
                 {
@@ -4603,7 +4603,7 @@
             "comment": "Message d'adieu de Paul, le St-Esprit l'ayant averti des tribulations à venir. Ac 20:26"
         },
         {
-            "number": "201",
+            "name": "bm201",
             "text": "A Rome, plus de 40 juifs complotèrent pour tuer Paul avec l'aide du Sanhédrin. Qui avertit Paul détenu dans la forteresse du tribun ?",
             "choice": [
                 {
@@ -4626,7 +4626,7 @@
             "comment": "De plus, le fils de la soeur de Paul informa le centenier du guet-apens. Ac 23:16-22"
         },
         {
-            "number": "202",
+            "name": "bm202",
             "text": "Combien d'années Paul demeura-t-il en prison sous les bons auspices du Gouverneur Félix, à Césarée ?",
             "choice": [
                 {
@@ -4649,7 +4649,7 @@
             "comment": "Félix laissa Paul en prison malgré son innocence pour plaire aux juifs. Ac 24:27"
         },
         {
-            "number": "203",
+            "name": "bm203",
             "text": "Les juifs complotèrent contre Paul pour le faire mourir. Paul fut traîné du Tribun Lysias au Gouverneur Félix. au Gouverneur Festus, ...",
             "choice": [
                 {
@@ -4672,7 +4672,7 @@
             "comment": "Tous se lançaient la décision de relâcher Paul afin de plaire aux Juifs. Ac 22, 23,24"
         },
         {
-            "number": "204",
+            "name": "bm204",
             "text": "Enbarqué dans un navire en direction d'Italie pour passer en jugement devant César, Paul avertit le centenier des difficultés à venir. Qu'arriva-t-il",
             "choice": [
                 {
@@ -4695,7 +4695,7 @@
             "comment": "Mais aucun des passagers ne périt tel que l'ange de Dieu l'avait annoncé à Paul. Ac 27:41"
         },
         {
-            "number": "205",
+            "name": "bm205",
             "text": "Après le naufrage du navire sur lequel Paul était mené à César, les habitants de l'île de Malte prenaient Paul pour un dieu. Pourquoi ?",
             "choice": [
                 {
@@ -4718,7 +4718,7 @@
             "comment": "Paul secoua l'animal dans le feu et ne ressentit aucun mal. Ac 28:3"
         },
         {
-            "number": "206",
+            "name": "bm206",
             "text": "Complétez: \" Tous sont égarés, tous sont pervertis; il n'en est aucun qui fasse le bien, ....................... \"",
             "choice": [
                 {
@@ -4741,7 +4741,7 @@
             "comment": "Psaume 14:3"
         },
         {
-            "number": "207",
+            "name": "bm207",
             "text": "Dans la parabole du publicain et du pharisien, deux hommes montèrent au temple pour prier. Lequel des deux jeûnait 2 fois par semaine ?",
             "choice": [
                 {
@@ -4764,7 +4764,7 @@
             "comment": "Il est dit que le publicain descendit dans sa maison justifié mais pas l'autre. Lc 18:11"
         },
         {
-            "number": "208",
+            "name": "bm208",
             "text": "Qui a dit: \" Parle, car ton serviteur écoute. \" ?",
             "choice": [
                 {
@@ -4787,7 +4787,7 @@
             "comment": "L'Éternel lui apparut plusieurs fois dans son sommeil. 1S 3:10"
         },
         {
-            "number": "209",
+            "name": "bm209",
             "text": "Qui dominait sur Israël au temps de Samson ?",
             "choice": [
                 {
@@ -4810,7 +4810,7 @@
             "comment": "A cause de leur idolâtrie, les israélites furent livrés aux Philistins par Dieu. Jg 14:4"
         },
         {
-            "number": "210",
+            "name": "bm210",
             "text": "Quel est le psaume du bon Berger ?",
             "choice": [
                 {
@@ -4833,7 +4833,7 @@
             "comment": "L'Éternel est mon berger: je ne manquerai de rien. Il me fait reposer ... !"
         },
         {
-            "number": "211",
+            "name": "bm211",
             "text": "Complétez: \" Pourquoi t'abats-tu, mon âme, et gémis-tu au dedans de moi ? Espère en Dieu, car je lelouerai encore; il est ..........................",
             "choice": [
                 {
@@ -4856,7 +4856,7 @@
             "comment": "Psaume 42:6"
         },
         {
-            "number": "212",
+            "name": "bm212",
             "text": "Complétez: \" Tous sont égarés, tous sont pervertis; il n'en est aucun ........................., pas même un seul. \"",
             "choice": [
                 {
@@ -4879,7 +4879,7 @@
             "comment": "Psaume 53:4"
         },
         {
-            "number": "213",
+            "name": "bm213",
             "text": "Complétez: \" Mieux vaut un jour dans tes parvis que ..........................\"",
             "choice": [
                 {
@@ -4902,7 +4902,7 @@
             "comment": "Psaume 84:11"
         },
         {
-            "number": "214",
+            "name": "bm214",
             "text": "Combien y a-t-il de livres dans la Bible ?",
             "choice": [
                 {
@@ -4925,7 +4925,7 @@
             "comment": "Ces livres furent écrits en l'espace de 1600 ans par 40 auteurs inspirés par Dieu."
         },
         {
-            "number": "215",
+            "name": "bm215",
             "text": "Combien faut-il de temps pour lire la Bible en entier ?",
             "choice": [
                 {
@@ -4948,7 +4948,7 @@
             "comment": "A peu près 38 heures pour l'Ancien Testament et 11 heures pour le Nouveau Testament."
         },
         {
-            "number": "216",
+            "name": "bm216",
             "text": "En lecture à haute voix, à une vitesse normale, combien de temps prendrait-on pour lire la Bible en entier ?",
             "choice": [
                 {
@@ -4971,7 +4971,7 @@
             "comment": "Plus de 31 000 versets répartis dans 1189 chapitres."
         },
         {
-            "number": "217",
+            "name": "bm217",
             "text": "Complétez: \" Heureux l'homme qui ...................., qui trouve un grand plaisir à ses commandements.\"",
             "choice": [
                 {
@@ -4994,7 +4994,7 @@
             "comment": "Psaume 112:1"
         },
         {
-            "number": "218",
+            "name": "bm218",
             "text": "Complétez: \" Je serre ta parole dans mon coeur, afin de ..................................... \"",
             "choice": [
                 {
@@ -5017,7 +5017,7 @@
             "comment": "Psaume 119:11"
         },
         {
-            "number": "219",
+            "name": "bm219",
             "text": "Jonas s'enfuit pour Tarsis, loin de la face de l'Éternel. Dans la tempête, les mariniers jetèrent Jonas par-dessus bord. Quelle ville fuyait-il ?",
             "choice": [
                 {
@@ -5040,7 +5040,7 @@
             "comment": "L'Éternel lui avait demandé d'aller à Ninive et d'y crier contre sa méchanceté. Jon 1:3"
         },
         {
-            "number": "220",
+            "name": "bm220",
             "text": "Pourquoi l'Éternel changea-t-il le nom d'Abram en Abraham ?",
             "choice": [
                 {
@@ -5063,7 +5063,7 @@
             "comment": "En établissant son alliance avec Abraham, Dieu le rendait père d'une multitude. Ge 17:5"
         },
         {
-            "number": "221",
+            "name": "bm221",
             "text": "Dieu exigea comme signe de sa nouvelle alliance avec Abraham et ses descendants que ...",
             "choice": [
                 {
@@ -5086,7 +5086,7 @@
             "comment": "A l'âge de huit jours, tout mâle devait être circoncis. Ge 17:10,11"
         },
         {
-            "number": "222",
+            "name": "bm222",
             "text": "En signe d'alliance, Dieu demanda à Abraham que tout mâle de ses descendants soit circoncis. La circoncision devait se pratiquer dès le ........",
             "choice": [
                 {
@@ -5109,7 +5109,7 @@
             "comment": "Un mâle incirconcis devait être exterminé puisqu'il aurait violé l'alliance. Ge 17:12"
         },
         {
-            "number": "223",
+            "name": "bm223",
             "text": "Qui changea le nom de Saraï en celui de Sara ?",
             "choice": [
                 {
@@ -5132,7 +5132,7 @@
             "comment": "Sara signifiait princesse. Dieu la bénit et la rendit féconde à plus de 90 ans. Ge 17"
         },
         {
-            "number": "224",
+            "name": "bm224",
             "text": "Quand Abraham a-t-il commencé à circoncire tout les mâles selon l'alliance établie avec l'Eternel ?",
             "choice": [
                 {
@@ -5155,7 +5155,7 @@
             "comment": "Abraham circoncit toute sa maison ce jour-là. Ge 17:23"
         },
         {
-            "number": "225",
+            "name": "bm225",
             "text": "Que firent les mariniers après s'être débarrassés de Jonas ?",
             "choice": [
                 {
@@ -5178,7 +5178,7 @@
             "comment": "Voyant que Dieu fit calmer la mer, ils furent saisis d'une grande crainte. Jonas 1:16"
         },
         {
-            "number": "226",
+            "name": "bm226",
             "text": "De quelle façon Jonas sortit-il du ventre du grand poisson ?",
             "choice": [
                 {
@@ -5201,7 +5201,7 @@
             "comment": "Et Dieu parla au poisson, et le poisson vomit Jonas sur la terre. Jonas 2:1-11"
         },
         {
-            "number": "227",
+            "name": "bm227",
             "text": "A qui Dieu a-t-il dit: \" Lève-toi, va à Ninive, la grande ville, et proclames-y la publication que je t'ordonne ! \" ?",
             "choice": [
                 {
@@ -5224,7 +5224,7 @@
             "comment": "Après s'être sauvé une première fois, Jonas obéit à Dieu et Ninive fut épargnée. Jo 3:2"
         },
         {
-            "number": "228",
+            "name": "bm228",
             "text": "Délivré du grand poisson par la main de l'Éternel, Jonas partit pour Ninive et y prêcha la colère de Dieu. Les gens se repentirent. Que fit l'Éternel",
             "choice": [
                 {
@@ -5247,7 +5247,7 @@
             "comment": "Voyant qu'ils revenaient de leur mauvaise voie, Dieu se repentit de son dessein. Jo 3"
         },
         {
-            "number": "229",
+            "name": "bm229",
             "text": "Que fit l'Éternel pour enseigner à Jonas la pitié et la miséricorde ?",
             "choice": [
                 {
@@ -5270,7 +5270,7 @@
             "comment": "Voir Jonas 4."
         },
         {
-            "number": "230",
+            "name": "bm230",
             "text": "Dieu fit croître un ricin en une nuit pour donner une leçon à Jonas. La nuit suivante, il le fit mourir. Comment ?",
             "choice": [
                 {
@@ -5293,7 +5293,7 @@
             "comment": "Dieu dit: \"Tu as eu pitié du ricin et je n'aurais pas pitié des gens de Ninive ?\" Jo 4:7"
         },
         {
-            "number": "231",
+            "name": "bm231",
             "text": "De quelle façon les mariniers découvrirent-ils que Jonas leur portait malheur ?",
             "choice": [
                 {
@@ -5316,7 +5316,7 @@
             "comment": "Une fois qu'ils eurent jeté Jonas à l'eau, la tempête se calma. Jonas 1:7"
         },
         {
-            "number": "232",
+            "name": "bm232",
             "text": "Après leurs trois années d'apprentissage, le roi reçut Daniel auprès de lui. Il trouva sa sagesse et son intelligence dix fois supérieures ...",
             "choice": [
                 {
@@ -5339,7 +5339,7 @@
             "comment": "Dieu lui avait accordé la science, l'intelligence dans les lettres et la sagesse. Da 1:20"
         },
         {
-            "number": "233",
+            "name": "bm233",
             "text": "Comment le roi Nebucadnetsar déjoua-t-il les magiciens, les astrologues et les Chaldéens de la cour pour se faire expliquer ses songes ?",
             "choice": [
                 {
@@ -5362,7 +5362,7 @@
             "comment": "Il craignait en racontant son songe qu'ils lui mentent sur sa signification. Da 2:9"
         },
         {
-            "number": "234",
+            "name": "bm234",
             "text": "Après que Daniel eut révélé et expliqué le songe du roi Nebucadnetsar, que fit le roi ?",
             "choice": [
                 {
@@ -5385,7 +5385,7 @@
             "comment": "Il ordonna qu'on lui offre des sacrifices et des parfums. Da 2:46"
         },
         {
-            "number": "235",
+            "name": "bm235",
             "text": "Nebucadnetsar érigea une grande statue d'or de 33 mètres et ordonna que tous l'adorent lorsque la musique jouerait. Qui refusa de l'adorer ?",
             "choice": [
                 {
@@ -5408,7 +5408,7 @@
             "comment": "Ils furent jetés dans la fournaise ardente et délivré par Dieu lui-même. Da 3:19-26"
         },
         {
-            "number": "236",
+            "name": "bm236",
             "text": "Nebucadnetsar fut furieux de ce que Abed-Nego, Méschac et Schadrac refusent d'adorer sa statue. Il les jeta dans la fournaise chauffée ....",
             "choice": [
                 {
@@ -5431,7 +5431,7 @@
             "comment": "La fournaise était si chaude qu'elle tua même les soldats qui les y précipitèrent. Da 3:19"
         },
         {
-            "number": "237",
+            "name": "bm237",
             "text": "Qu'arriva-t-il à Nebucadnetsar pour ne pas avoir écouté l'explication de Daniel à propos de son songe (mettre un terme à ses péchés) ?",
             "choice": [
                 {
@@ -5454,7 +5454,7 @@
             "comment": "Il fut chassé du milieu des hommes, mangea de l'herbe et son corps fut trempé de rosée. Da"
         },
         {
-            "number": "238",
+            "name": "bm238",
             "text": "Le roi Belschatsar donna un grand festin à mille personnes. Ils burent du vin dans les vases d'or du Temple et louèrent les idoles. Qu'arriva-t-il ?",
             "choice": [
                 {
@@ -5477,7 +5477,7 @@
             "comment": "Ces doigts écrivirent sur la muraille. Daniel lui expliqua l'écriture. Da 5:5"
         },
         {
-            "number": "239",
+            "name": "bm239",
             "text": "Les chefs et les satrapes jaloux de la supériorité de Daniel complotèrent pour lui trouver une quelconque faute. Quels moyens prirent-ils ?",
             "choice": [
                 {
@@ -5500,7 +5500,7 @@
             "comment": "Ce décret stipulait que quiconque adorerait autre que le roi serait jeté aux lions. Da 6"
         },
         {
-            "number": "240",
+            "name": "bm240",
             "text": "Daniel priait son Dieu trois fois par jour malgré le décret du roi. Les chefs et les satrapes jaloux le livrèrent au roi. Comment le roi réagit-il?",
             "choice": [
                 {
@@ -5523,7 +5523,7 @@
             "comment": "Il fut très affligé car il aimait Daniel. Il voulait le sauver. Da 6"
         },
         {
-            "number": "241",
+            "name": "bm241",
             "text": "Daniel fut jeté au milieu des lions affamés pour avoir adoré son Dieu plutôt que Darius tel que le voulait le décret. Qui le délivra des lions ?",
             "choice": [
                 {
@@ -5546,7 +5546,7 @@
             "comment": "Cet ange ferma la gueule des lions. Le roi fut très joyeux que Daniel fut sauf. Da 6"
         },
         {
-            "number": "242",
+            "name": "bm242",
             "text": "Daniel sortit sain et sauf de la fosse aux lions grâce à sa confiance en Dieu. Qu'arriva-t-il à ceux qui avaient accusé Daniel ?",
             "choice": [
                 {
@@ -5569,7 +5569,7 @@
             "comment": "Toutes leurs familles furent jetées aux lions qui les déchiquetèrent. Da 6:24"
         },
         {
-            "number": "243",
+            "name": "bm243",
             "text": "Quelle institution l'Eternel demanda-t-il comme signe de l'alliance faite avec Abraham ?",
             "choice": [
                 {
@@ -5592,7 +5592,7 @@
             "comment": "Un mâle incirconcis, dans sa chair, sera exterminé du milieu de son peuple. Ge 17:10-14"
         },
         {
-            "number": "244",
+            "name": "bm244",
             "text": "A combien de jours Dieu a-t-il dit à Abraham de circoncire tout mâle de son peuple?",
             "choice": [
                 {
@@ -5615,7 +5615,7 @@
             "comment": "Rite initial qui permettait d'entrer en possession des privilèges de la famille de Dieu."
         },
         {
-            "number": "245",
+            "name": "bm245",
             "text": "Qui changea le nom de Saraï femme d'Abraham pour le nom de Sara ?",
             "choice": [
                 {
@@ -5638,7 +5638,7 @@
             "comment": "Sara signifie: Princesse. Elle était de 10 ans plus jeune que lui. Ge 17:15-16"
         },
         {
-            "number": "246",
+            "name": "bm246",
             "text": "Quelle punition Dieu donna-t-il à Abimélek pour avoir enlevé Sara femme d'Abraham ?",
             "choice": [
                 {
@@ -5661,7 +5661,7 @@
             "comment": "Abraham avait fait passer Sara pour sa soeur. Ge 20:17-18"
         },
         {
-            "number": "247",
+            "name": "bm247",
             "text": "Quel lien de parenté avaient Abraham et Sara ?",
             "choice": [
                 {
@@ -5684,7 +5684,7 @@
             "comment": "Elle est ma soeur , fille de mon père; seulement, elle n'est pas fille de ma mère. Ge 20"
         },
         {
-            "number": "248",
+            "name": "bm248",
             "text": "Qui a dit: \" Car je n'ai point honte de l'Évangile: c'est la puissance de Dieu pour le salut de quiconque croit,... \" ?",
             "choice": [
                 {
@@ -5707,7 +5707,7 @@
             "comment": "Épître aux Romains 1:16"
         },
         {
-            "number": "249",
+            "name": "bm249",
             "text": "Où trouve-t-on: \" Car le salaire du péché, c'est la mort, mais le don gratuit de Dieu, c'est la vie éternelle en Jésus-Christ notre Seigneur. \" ?",
             "choice": [
                 {
@@ -5730,7 +5730,7 @@
             "comment": ""
         },
         {
-            "number": "250",
+            "name": "bm250",
             "text": "Abraham fit un grand banquet en l'honneur de son fils Isaac, car Sara avait cessé de l'allaiter. Sara fit une demande au sujet d'Agar. Quoi ?",
             "choice": [
                 {
@@ -5753,7 +5753,7 @@
             "comment": "Sara dit: \"Chasse cette servante et son fils, car il n'héritera pas avec mon fils...\"Ge 21"
         },
         {
-            "number": "251",
+            "name": "bm251",
             "text": "Après qu'Abraham eut chassé Agar et son fils Ismaël, où ceux-ci se rendirent-ils ?",
             "choice": [
                 {
@@ -5776,7 +5776,7 @@
             "comment": "Dieu dit: \" Ne crains point, car je ferai de lui une grande nation. \" Ge 21:14-21"
         },
         {
-            "number": "252",
+            "name": "bm252",
             "text": "\" Aucune tentation ne vous est survenue qui n'ait été humaine, et Dieu, qui est fidèle, ne permettra pas que vous soyez ...\" Trouver la référence",
             "choice": [
                 {
@@ -5799,7 +5799,7 @@
             "comment": "...tentés au-delà de vos forces; mais avec la tentation il préparera le moyen d'en sortir."
         },
         {
-            "number": "253",
+            "name": "bm253",
             "text": "Quelle épître précède l'épître aux Éphésiens ?",
             "choice": [
                 {
@@ -5822,7 +5822,7 @@
             "comment": "Dans cette épître, Paul s'applique à démontrer la liberté en Christ en relief avec la loi."
         },
         {
-            "number": "254",
+            "name": "bm254",
             "text": "Où trouve t-on : \" Car l'amour de l'argent est une racine de tous les maux;...\" ?",
             "choice": [
                 {
@@ -5845,7 +5845,7 @@
             "comment": ""
         },
         {
-            "number": "255",
+            "name": "bm255",
             "text": "A qui Paul a-t-il conjuré de prêcher la parole, d'insister en toute occasion, favorable ou non, de reprendre, de censurer, d'exhorter,... ?",
             "choice": [
                 {
@@ -5868,7 +5868,7 @@
             "comment": "2 Timothée 4:1,2"
         },
         {
-            "number": "256",
+            "name": "bm256",
             "text": "Samson déchira le jeune lion rugissant comme on déchire un chevreau. Quelque temps plus tard, il repasse devant la carcasse. Qu'y avait-il dedans ?",
             "choice": [
                 {
@@ -5891,7 +5891,7 @@
             "comment": "Juges 14:5-9"
         },
         {
-            "number": "257",
+            "name": "bm257",
             "text": "Samson mit le feu aux champs de blé et aux plantations d'oliviers des Philistins. Que firent ceux-ci pour se venger de Samson ?",
             "choice": [
                 {
@@ -5914,7 +5914,7 @@
             "comment": "Samson avait pris une femme Philistine comme occasion de dispute. Juges 15:6"
         },
         {
-            "number": "258",
+            "name": "bm258",
             "text": "Après avoir tué 1000 hommes avec une mâchoire d'âne Samson fut pris d'une intense soif. De quelle façon Dieu exauça-t-il sa prière ?",
             "choice": [
                 {
@@ -5937,7 +5937,7 @@
             "comment": "Samson y but et son esprit se ranima. Il reprit vie. Juges 15:18,19"
         },
         {
-            "number": "259",
+            "name": "bm259",
             "text": "Samson révéla le secret de sa force à Delila. Elle le vendit aux Philistins pour plusieurs fois 1100 sicles d'argent. Combien de tresses avait-il ?",
             "choice": [
                 {
@@ -5960,7 +5960,7 @@
             "comment": "Elle lui coupa les tresses et sa force le quitta. Juges 16:19"
         },
         {
-            "number": "260",
+            "name": "bm260",
             "text": "Grâce à la trahison de Delila, les Philistins se saisirent de Samson et lui crevèrent les yeux. Ils le jetèrent en prison. Qu'y fit-il ?",
             "choice": [
                 {
@@ -5983,7 +5983,7 @@
             "comment": "Sans sa chevelure, Samson perdit sa force. Il avait sept tresses. Juges 16:21"
         },
         {
-            "number": "261",
+            "name": "bm261",
             "text": "Samson se fit placer entre deux colonnes de la maison par le jeune homme qui lui tenait la main et la fit écrouler. Sur le toit, il y avait .....",
             "choice": [
                 {
@@ -6006,7 +6006,7 @@
             "comment": "Tous venus offrirent à Dagon un grand sacrifice et voir jouer Samson. Juges 16:27"
         },
         {
-            "number": "262",
+            "name": "bm262",
             "text": "A Capernaüm, Jésus guérit la belle-mère de Pierre. De quoi souffrait-elle ?",
             "choice": [
                 {
@@ -6029,7 +6029,7 @@
             "comment": "Jésus la fit lever en lui prenant la main et la fièvre la quitta à l'instant. Mc 1:30"
         },
         {
-            "number": "263",
+            "name": "bm263",
             "text": "Jésus demandait toujours à ses disciples de tenir une barque à sa disposition. Pourquoi ?",
             "choice": [
                 {
@@ -6052,7 +6052,7 @@
             "comment": "Car plusieurs malades et estropiés se jetaient sur lui pour être guéris. Marc 3:9,10"
         },
         {
-            "number": "264",
+            "name": "bm264",
             "text": "Dans la parabole du semeur, quel sol représente celui qui reçoit la parole avec joie mais qui n'a pas de racine en lui-même ?",
             "choice": [
                 {
@@ -6075,7 +6075,7 @@
             "comment": "Marc 4:16"
         },
         {
-            "number": "265",
+            "name": "bm265",
             "text": "Dans la parabole du semeur, quel sol représente ceux qui entendent la parole mais dont les soucis du siècle et de l'argent étouffent la parole ?",
             "choice": [
                 {
@@ -6098,7 +6098,7 @@
             "comment": "Marc 4:18,19"
         },
         {
-            "number": "266",
+            "name": "bm266",
             "text": "Dans la parabole du semeur, quel sol représente celui qui entend la parole mais dont Satan vient enlever cette parole en eux ?",
             "choice": [
                 {
@@ -6121,7 +6121,7 @@
             "comment": "Marc 4:15"
         },
         {
-            "number": "267",
+            "name": "bm267",
             "text": "Il y avait dans le pays de Gadara un homme possédé de plusieurs esprits impurs. Jésus les envoya dans un troupeau de porcs. Leur nom ?",
             "choice": [
                 {
@@ -6144,7 +6144,7 @@
             "comment": "Environ 2000 pourceaux possédés dévalèrent les pentes abruptes et se jetèrent à la mer."
         },
         {
-            "number": "268",
+            "name": "bm268",
             "text": "Quel âge avait la fille de Jaïrus que Jésus ressuscita ?",
             "choice": [
                 {
@@ -6167,7 +6167,7 @@
             "comment": "Marc 5:42"
         },
         {
-            "number": "269",
+            "name": "bm269",
             "text": "Où trouve-t-on: \" Car la parole de Dieu est vivante et efficace, plus tranchante qu'une épée quelconque à deux tranchants,...\" ?",
             "choice": [
                 {
@@ -6190,7 +6190,7 @@
             "comment": "... pénétrante jusqu'à partager âme et esprit, jointures et moelles...."
         },
         {
-            "number": "270",
+            "name": "bm270",
             "text": "Où trouve-t-on: \" Que le mariage soit honoré de tous, et le lit conjugal exempt de souillure, car Dieu jugera les débauchés et les adultères. \"",
             "choice": [
                 {
@@ -6213,7 +6213,7 @@
             "comment": ""
         },
         {
-            "number": "271",
+            "name": "bm271",
             "text": "Où trouve-t-on: \" Ainsi, que tout homme soit prompt à écouter, lent à parler, lent à se mettre en colère; car la colère de l'homme ..........\"",
             "choice": [
                 {
@@ -6236,7 +6236,7 @@
             "comment": ".... n'accomplit pas la justice de Dieu."
         },
         {
-            "number": "272",
+            "name": "bm272",
             "text": "Où trouve-t-on: \" Celui donc qui sait faire le bien, et qui ne le fait pas, commet un péché. \" ?",
             "choice": [
                 {
@@ -6259,7 +6259,7 @@
             "comment": ""
         },
         {
-            "number": "273",
+            "name": "bm273",
             "text": "Complétez: \" Mais si quelqu'un souffre comme chrétien, qu'il n'en ait point honte, et que plutôt il .............................\"",
             "choice": [
                 {
@@ -6282,7 +6282,7 @@
             "comment": "1 Pierre 4:16"
         },
         {
-            "number": "274",
+            "name": "bm274",
             "text": "\" Bien-aimés, aimons-nous les uns les autres; car l'amour est de Dieu, et quiconque aime est né de Dieu et connaît Dieu. \" Où trouve-t-on ce verset",
             "choice": [
                 {
@@ -6305,7 +6305,7 @@
             "comment": ""
         },
         {
-            "number": "275",
+            "name": "bm275",
             "text": "Dans la vision apocalyptique de Jean, il y avait dans la main droite de celui qui était assis sur le trône un livre scellé de ......... sceaux.",
             "choice": [
                 {
@@ -6328,7 +6328,7 @@
             "comment": "Ap 5:1"
         },
         {
-            "number": "276",
+            "name": "bm276",
             "text": "Joseph était détesté de ses frères à cause de l'amour que Jacob lui portait. Ils se saisirent de Joseph pour le tuer mais fut délivré par .......",
             "choice": [
                 {
@@ -6351,7 +6351,7 @@
             "comment": "Plutôt que de le tuer ses frères le jetèrent dans une citerne pour ensuite le vendre."
         },
         {
-            "number": "277",
+            "name": "bm277",
             "text": "Que racontèrent les fils de Jacob après qu'ils eurent vendu leur frère Joseph aux Ismaélites ?",
             "choice": [
                 {
@@ -6374,7 +6374,7 @@
             "comment": "Ils plongèren la tunique multicolore dans le sang et la montrèrent à Jacob."
         },
         {
-            "number": "278",
+            "name": "bm278",
             "text": "Joseph fut vendu à une caravane d'Ismaélites par ses frères. Ceux-ci le vendirent en Égypte à .....",
             "choice": [
                 {
@@ -6397,7 +6397,7 @@
             "comment": "Potiphar était officier et chef des gardes de Pharaon. Ge 37:36"
         },
         {
-            "number": "279",
+            "name": "bm279",
             "text": "Pharaon ôta son anneau de la main et le mit à Joseph. Puis, il le revêtit d'habits de fin lin et lui donna tout les honneurs d'un roi. Pourquoi ?",
             "choice": [
                 {
@@ -6420,7 +6420,7 @@
             "comment": "Pharaon ne trouva personne mieux que Joseph pour gérer les 14 années à venir. Ge 41:37-39"
         },
         {
-            "number": "280",
+            "name": "bm280",
             "text": "Jacob envoya 10 de ses fils auprès de Pharaon pour acheter du blé car c'était famine. Joseph les accusa d'espionnage et en garda un seul. Lequel ?",
             "choice": [
                 {
@@ -6443,7 +6443,7 @@
             "comment": "Les autres retournèrent chercher Benjamin. Ge 42:24"
         },
         {
-            "number": "281",
+            "name": "bm281",
             "text": "Les frères de Joseph retournèrent une seconde fois en Égypte chercher du blé. Pour les éprouver, Joseph mis sa coupe dans le sac de ...............",
             "choice": [
                 {
@@ -6466,7 +6466,7 @@
             "comment": "Ge 44:12"
         },
         {
-            "number": "282",
+            "name": "bm282",
             "text": "Joseph envoya des chars pour chercher son père Jacob et toute sa famille. Combien de personnes vinrent en Égypte ?",
             "choice": [
                 {
@@ -6489,7 +6489,7 @@
             "comment": "Ils habitèrent dans le pays de Gosen. C'était un district réservé à l'élevage. Ge 46:27"
         },
         {
-            "number": "283",
+            "name": "bm283",
             "text": "Le roi Assuérus offrit un grand festin. Le vin royal abondait. La reine Vasthi qui était belle se vit enlever sa dignité de reine. Pourquoi ?",
             "choice": [
                 {
@@ -6512,7 +6512,7 @@
             "comment": "Énivré par le vin, le roi émit un édit retirant la dignité de la reine. Est 1:12"
         },
         {
-            "number": "284",
+            "name": "bm284",
             "text": "On chercha parmi les jeunes filles vierges et belles de figure une nouvelle reine pour le roi Assuérus. Elle fut choisie ?",
             "choice": [
                 {
@@ -6535,7 +6535,7 @@
             "comment": "Elle fit partie d'un groupe de 7 filles sélectionnées pour le roi. Elle plut au roi. Est 2"
         },
         {
-            "number": "285",
+            "name": "bm285",
             "text": "Esther fut sélectionnée avec 7 autres jeunes filles pour être concubines du roi. Tour à tour, ces femmes allaient vers le roi. Elles y retournaient..",
             "choice": [
                 {
@@ -6558,7 +6558,7 @@
             "comment": "Le roi aima Esther plus que toutes. Il lui mit la couronne royale sur la tête. Est 2:14"
         },
         {
-            "number": "286",
+            "name": "bm286",
             "text": "Qu'arriva-t-il aux deux eunuques du roi, Bigthan et Théresch, qui voulurent porter la main sur le roi Assuérus ?",
             "choice": [
                 {
@@ -6581,7 +6581,7 @@
             "comment": "Mardochée eut vent de la chose et en informa la reine Esther. Est 2:21,22,23"
         },
         {
-            "number": "287",
+            "name": "bm287",
             "text": "Le roi Assuérus fit monter au pouvoir Haman. Il le plaça au-dessus de tous les chefs. Mardochée refusa régulièrement de ...........................",
             "choice": [
                 {
@@ -6604,7 +6604,7 @@
             "comment": "Le roi avait ordonné que tous se prosternent devant Haman. Est 3:1-6"
         },
         {
-            "number": "288",
+            "name": "bm288",
             "text": "Pourquoi Haman détestait-il autant Mardochée ?",
             "choice": [
                 {
@@ -6627,7 +6627,7 @@
             "comment": "Dans tout le royaume, seul Mardochée ignorait l'ordre royal de se prosterner devant lui."
         },
         {
-            "number": "289",
+            "name": "bm289",
             "text": "De Mardochée et de Haman, qui fut revêtu du vêtement royal et promené à travers la ville sur le cheval du roi Assuérus ?",
             "choice": [
                 {
@@ -6650,7 +6650,7 @@
             "comment": "Haman dut promener Mardochée qu'il détestait à travers la ville pour l'honorer. Est 6"
         },
         {
-            "number": "290",
+            "name": "bm290",
             "text": "Qui a sauvé le peuple juif contre l'extermination organisée par Haman ?",
             "choice": [
                 {
@@ -6673,7 +6673,7 @@
             "comment": "Elle trouva grâce auprès du roi qui retourna le plan contre son auteur Haman. Est 7"
         },
         {
-            "number": "291",
+            "name": "bm291",
             "text": "Abraham mourut à 127 ans et Sara l'enterra dans une caverne d'un champ qu'elle avait acheté 400 sicles. Vrai ou Faux ?",
             "choice": [
                 {
@@ -6694,7 +6694,7 @@
             "comment": "C'est Abraham qui mit en terre Sara âgée de 127 ans."
         },
         {
-            "number": "292",
+            "name": "bm292",
             "text": "Le droit d'aînesse était le privilège du premier-né qui héritait du rang, de la situation et des avantages de son père. Vrai ou Faux ?",
             "choice": [
                 {
@@ -6715,7 +6715,7 @@
             "comment": "Il devenait chef de la famille ou de la tribu. Ce droit pouvait se vendre à un cadet."
         },
         {
-            "number": "293",
+            "name": "bm293",
             "text": "Contre quoi Ésaü vendit-il son droit d'aînesse à son frère cadet Jacob ?",
             "choice": [
                 {
@@ -6738,7 +6738,7 @@
             "comment": "Ge 25:29-34"
         },
         {
-            "number": "294",
+            "name": "bm294",
             "text": "Le droit de rachat était le devoir d'un Israélite de racheter la propriété vendue par un parent pauvre. Vrai ou Faux ?",
             "choice": [
                 {
@@ -6759,7 +6759,7 @@
             "comment": "Les personnes aussi pouvaient être rachetées. Lé 25:47-55"
         },
         {
-            "number": "295",
+            "name": "bm295",
             "text": "Qui Abraham a-t-il envoyé dans sa patrie prendre une femme pour son fils Isaac ?",
             "choice": [
                 {
@@ -6782,7 +6782,7 @@
             "comment": "Le Serviteur d'Abraham était le plus ancien de sa maison. Ge 24:1-5"
         },
         {
-            "number": "296",
+            "name": "bm296",
             "text": "Comment se nomme le frère de Rébecca ?",
             "choice": [
                 {
@@ -6805,7 +6805,7 @@
             "comment": "Laban consentit à laisser partir sa soeur en Canaan pour y épouser Isaac. Ge 24:28,29"
         },
         {
-            "number": "297",
+            "name": "bm297",
             "text": "Quel lien y avait-il entre Ruth et Naomi ?",
             "choice": [
                 {
@@ -6828,7 +6828,7 @@
             "comment": "Ruth était moabite et fut épouse de Machlon, fils de Naomi. Ru 1:4"
         },
         {
-            "number": "298",
+            "name": "bm298",
             "text": "Noami voyant son mari et ses deux fils disparus renvoya ses deux belles-filles vers leur peuple les Moabites. Qui s'attacha à elle et la suivit ?",
             "choice": [
                 {
@@ -6851,7 +6851,7 @@
             "comment": "Ruth la suivit à Bethléem. Orca s'en retourna vers son peuple et ses dieux. Ru 1:8-22"
         },
         {
-            "number": "299",
+            "name": "bm299",
             "text": "Quel lien de parenté avait Boaz avec Naomi ?",
             "choice": [
                 {
@@ -6874,7 +6874,7 @@
             "comment": "Il épousa Ruth la veuve de Machlon selon la loi du lévirat. Ru 2:3"
         },
         {
-            "number": "300",
+            "name": "bm300",
             "text": "Boaz racheta tout ce qui appartenait à Élimélec et s'acquit également pour femme Ruth, sa veuve. Où Boaz et Ruth se sont-ils rencontrés ?",
             "choice": [
                 {
@@ -6897,7 +6897,7 @@
             "comment": "Elle y cueillait des épis oubliés. Il se servit d'un droit de rachat pour la marier. Ru"
         },
         {
-            "number": "301",
+            "name": "bm301",
             "text": "Naomi conseilla Ruth sur la façon de séduire Boaz. Comment Ruth s'y prit-elle ?",
             "choice": [
                 {
@@ -6920,7 +6920,7 @@
             "comment": "Elle lui demanda qu'il use de son droit de rachat. Ru 3"
         },
         {
-            "number": "302",
+            "name": "bm302",
             "text": "Combien de fils Ruth donna-t-elle à Boaz ?",
             "choice": [
                 {
@@ -6943,7 +6943,7 @@
             "comment": "Ce fils appelé Obed engendra Isaï. Isaï engendra David qui devint roi. Ru 4:13"
         },
         {
-            "number": "303",
+            "name": "bm303",
             "text": "Complétez: \" On t'a fait connaître, ô homme ce qui est bien; et ce que l'Éternel demande de toi, c'est que ........................................",
             "choice": [
                 {
@@ -6966,7 +6966,7 @@
             "comment": "Michée 6:8"
         },
         {
-            "number": "304",
+            "name": "bm304",
             "text": "\" Mettez-moi de la sorte à l'épreuve, dit l'Éternel des armées, et vous verrez si je n'ouvre les écluses des cieux, si je ne répands pas sur vous....",
             "choice": [
                 {
@@ -6989,7 +6989,7 @@
             "comment": "Malachie 3:10"
         },
         {
-            "number": "305",
+            "name": "bm305",
             "text": "La mère de Rébecca voulait qu'elle reste encore une dizaine de jours, mais le serviteur d'Abraham ne voulait pas. Qu'est-ce que Rébecca décida ?",
             "choice": [
                 {
@@ -7012,7 +7012,7 @@
             "comment": "Rébecca se leva, avec ses servantes; elles montèrent sur les chameaux et le suivirent."
         },
         {
-            "number": "306",
+            "name": "bm306",
             "text": "Abraham prit une autre femme nommée Kétura, après la mort de Sara. Elle lui enfanta combien de fils?",
             "choice": [
                 {
@@ -7035,7 +7035,7 @@
             "comment": "Ge 25:1-4"
         },
         {
-            "number": "307",
+            "name": "bm307",
             "text": "Combien de fils engendra Ismaël ?",
             "choice": [
                 {
@@ -7058,7 +7058,7 @@
             "comment": "Ils furent les chefs des 12 tribus de leurs peuples. Ge 25:13-16"
         },
         {
-            "number": "308",
+            "name": "bm308",
             "text": "Isaac implora l'Eternel pour sa femme Rébecca qui était stérile. Elle devint enceinte et lui donna deux fils jumeaux. Qui sont-ils ?",
             "choice": [
                 {
@@ -7081,7 +7081,7 @@
             "comment": "Le premier fut Esaü qui était tout roux et couvert de poils et le second Jacob.Ge 25:24-26"
         },
         {
-            "number": "309",
+            "name": "bm309",
             "text": "Quel âge avait Isaac lorsque lui naquirent ses deux fils jumeaux Esaü et Jacob ?",
             "choice": [
                 {
@@ -7104,7 +7104,7 @@
             "comment": "Ge 25:26"
         },
         {
-            "number": "310",
+            "name": "bm310",
             "text": "Pourquoi Esaü vendit-il son droit d'aînesse à son frère Jacob en revenant des champs ?",
             "choice": [
                 {
@@ -7127,7 +7127,7 @@
             "comment": "Jacob fit jurer Ésaü et lui donna du pain et du potage de lentilles. Ge 25:27-34"
         },
         {
-            "number": "311",
+            "name": "bm311",
             "text": "Pouquoi Isaac décida-t-il de faire venir Esaü sous sa tente afin de lui donner sa bénédiction ?",
             "choice": [
                 {
@@ -7150,7 +7150,7 @@
             "comment": "Il dit à Esaü: \" Voici donc, je suis vieux, je ne sais pas le jour de ma mort. \" Ge 27:1"
         },
         {
-            "number": "312",
+            "name": "bm312",
             "text": "Rébecca demanda à Jacob deux chevreaux pour qu'elle les prépare à manger pour Isaac, afin que Jacob puisse avoir la bénédiction. Il hésita. Pourquoi",
             "choice": [
                 {
@@ -7173,7 +7173,7 @@
             "comment": "Jacob dit: \" Ésaü mon frère est velu et moi je n'ai point de poil. \" Ge 27:11"
         },
         {
-            "number": "313",
+            "name": "bm313",
             "text": "Isaac toucha Jacob et vit que ses mains étaient velues, mais que ce n'était pas la voix d'Ésaü. Que fit-il pour s'assurer que c'était Ésaü ?",
             "choice": [
                 {
@@ -7196,7 +7196,7 @@
             "comment": "Isaac devenait vieux, et ses yeux s'étaient affaiblis au point de ne plus voir. Ge 27"
         },
         {
-            "number": "314",
+            "name": "bm314",
             "text": "Quand Isaac s'apercut que Jacob l'avait trompé, enprenant la bénédiction à la place de son frère, il fut saisi d'une violente ...",
             "choice": [
                 {
@@ -7219,7 +7219,7 @@
             "comment": "Il dit à Esaü: \" J'ai mangé de tout avant que tu viennes et je l'ai béni. \" Ge 27:33-35"
         },
         {
-            "number": "315",
+            "name": "bm315",
             "text": "Combien de fils Abraham a-t-il eu au cours de sa vie ?",
             "choice": [
                 {
@@ -7242,7 +7242,7 @@
             "comment": "Un fils avec Sara sa femme, un fils avec Agar la servante, 6 fils avec Kétura sa femme."
         },
         {
-            "number": "316",
+            "name": "bm316",
             "text": "A quoi ressemblait la manne ?",
             "choice": [
                 {
@@ -7265,7 +7265,7 @@
             "comment": "Le coriandre est une plante croissant au Moyen Orient, dont les graines sont gris-pâle."
         },
         {
-            "number": "317",
+            "name": "bm317",
             "text": "L'Éternel fit souffler de la mer un vent qui répandit autour du camp des cailles. Il s'en trouva pour tous. Celui qui en ramassa le moins .....",
             "choice": [
                 {
@@ -7288,7 +7288,7 @@
             "comment": "Un homer correspond à 350 litres. Donc, 3500 litres de petites cailles. No 11:32"
         },
         {
-            "number": "318",
+            "name": "bm318",
             "text": "L'Éternel lui parlait de bouche à oreille, se révélait à lui sans énigme et il voyait une représentation de l'Éternel. Qui est-ce ?",
             "choice": [
                 {
@@ -7311,7 +7311,7 @@
             "comment": "No 12:8"
         },
         {
-            "number": "319",
+            "name": "bm319",
             "text": "Les 12 espions revinrent du pays d'où coulent le lait et le miel avec des fruits luxuriants. Des géants habitaient le pays. Qui sont-ils ?",
             "choice": [
                 {
@@ -7334,7 +7334,7 @@
             "comment": "Les Amalécites, les Héthiens, les Jébusiens et les Amoréens habitaient le pays."
         },
         {
-            "number": "320",
+            "name": "bm320",
             "text": "L'Éternel fut saisi de colère en voyant que le peuple murmurait sans cesse. Il fit périr les espions qui avaient décrié contre le pays, sauf ...",
             "choice": [
                 {
@@ -7357,7 +7357,7 @@
             "comment": "Eux seuls furent épargnés car ils n'avaient pas fait murmurer le peuple contre Moïse."
         },
         {
-            "number": "321",
+            "name": "bm321",
             "text": "Avant que Jacob ne parte en Mésopotamie, Isaac le bénit et lui donna cet ordre de ....",
             "choice": [
                 {
@@ -7380,7 +7380,7 @@
             "comment": "Prends-y une femme d'entre les filles de Laban frère de ta mère. Ge 28:1-2"
         },
         {
-            "number": "322",
+            "name": "bm322",
             "text": "Esaü comprit que les filles de Canaan déplaisaient à son père et à sa mère. Que fit-il ?",
             "choice": [
                 {
@@ -7403,7 +7403,7 @@
             "comment": "Il prit pour femme Mahalath. Ge 28:9"
         },
         {
-            "number": "323",
+            "name": "bm323",
             "text": "Depuis combien de temps Jacob était-il chez Laban, quand il demanda Rachel pour femme ?",
             "choice": [
                 {
@@ -7426,7 +7426,7 @@
             "comment": "Ge 29:14-19"
         },
         {
-            "number": "324",
+            "name": "bm324",
             "text": "Laban avait deux filles. Comment se nommaient-elles ?",
             "choice": [
                 {
@@ -7449,7 +7449,7 @@
             "comment": "Léa était l'aînée et Rachel la cadette. Ge 29:16"
         },
         {
-            "number": "325",
+            "name": "bm325",
             "text": "Combien de temps Jacob était-il prêt à servir Laban pour avoir Rachel la cadette ?",
             "choice": [
                 {
@@ -7472,7 +7472,7 @@
             "comment": "Je te servirai 7 ans pour Rachel. Ge 29:15-19"
         },
         {
-            "number": "326",
+            "name": "bm326",
             "text": "Le jour où Jacob devait se marier avec Rachel arriva. Mais Laban le trompa à son insu. Que fit-il ?",
             "choice": [
                 {
@@ -7495,7 +7495,7 @@
             "comment": "Il prit Léa sa fille et l'amena vers Jacob. Ge 29:21-24"
         },
         {
-            "number": "327",
+            "name": "bm327",
             "text": "Pourquoi Laban avait-il donné Léa l'aînée pour femme à Jacob au lieu de Rachel la cadette comme convenu ?",
             "choice": [
                 {
@@ -7518,7 +7518,7 @@
             "comment": "Ce n'est point la coutume dans ce lieu de donner la cadette avant l'aînée. Ge 29:25-26"
         },
         {
-            "number": "328",
+            "name": "bm328",
             "text": "Quel lien de parenté y avait-il entre Béthuel et Rachel ?",
             "choice": [
                 {
@@ -7541,7 +7541,7 @@
             "comment": "Ge 28:5 Ge 29:10"
         },
         {
-            "number": "329",
+            "name": "bm329",
             "text": "Léa donna 6 fils à Jacob et une fille. Comment se nomme-t-elle ?",
             "choice": [
                 {
@@ -7564,7 +7564,7 @@
             "comment": "Le prince du pays, Sichem, l'enleva. Il coucha avec elle et la déshonora. Ge 30:20-21"
         },
         {
-            "number": "330",
+            "name": "bm330",
             "text": "Léa donna Zilpa sa servante pour femme à Jacob. Combien lui enfanta-t-elle de fils ?",
             "choice": [
                 {
@@ -7587,7 +7587,7 @@
             "comment": "Zilpa donna deux fils à Jacob: Gad et Aser. Ge 30:10-13"
         },
         {
-            "number": "331",
+            "name": "bm331",
             "text": "Qui parmi ces hommes n'est pas le fils de Zilpa femme de Jacob ?",
             "choice": [
                 {
@@ -7610,7 +7610,7 @@
             "comment": "Zabulon est le 6 ème fils de Léa. Ge 30:19-20"
         },
         {
-            "number": "332",
+            "name": "bm332",
             "text": "Que signifiait la verge fleurie d'Aaron ?",
             "choice": [
                 {
@@ -7633,7 +7633,7 @@
             "comment": "La tribu de Lévi étaient désignés par Dieu pour le service de la tente d'assignation."
         },
         {
-            "number": "333",
+            "name": "bm333",
             "text": "L'Éternel envoya contre le peuple des serpents brûlants qui firent mourir beaucoup de gens. Que fabriqua Moïse pour protéger le peuple ?",
             "choice": [
                 {
@@ -7656,7 +7656,7 @@
             "comment": "Il le plaça sur une perche et chaque fois que quelqu'un était piqué, il le regardait."
         },
         {
-            "number": "334",
+            "name": "bm334",
             "text": "Complétez: \" Quiconque vous donnera à boire un verre d'eau parce que vous appartenez au Christ, en vérité je vous le déclare, il .....",
             "choice": [
                 {
@@ -7679,7 +7679,7 @@
             "comment": "Paroles de Jésus: Marc 9:41"
         },
         {
-            "number": "335",
+            "name": "bm335",
             "text": "\" Quand tu organises un festin, dit Jésus, qui vas-tu inviter ? \"",
             "choice": [
                 {
@@ -7702,7 +7702,7 @@
             "comment": "\"Tu seras heureux, car ils n'ont rien à te rendre.\" Mais le Seigneur voit... Luc 14:12-14"
         },
         {
-            "number": "336",
+            "name": "bm336",
             "text": "Dans la parabole du fils perdu et retrouvé, quel animal fut servi pour le repas en l'honneur du retour de son fils ?",
             "choice": [
                 {
@@ -7725,7 +7725,7 @@
             "comment": "\" Mangez et réjouissez-vous, car mon fils qui était perdu est retrouvé. \" Luc 15:23"
         },
         {
-            "number": "337",
+            "name": "bm337",
             "text": "D'après ce que dit Jésus, où convient-il de placer la lampe allumée ?",
             "choice": [
                 {
@@ -7748,7 +7748,7 @@
             "comment": "\" Il n'y a rien de caché qui ne doive être découvert. \" Marc 4:21"
         },
         {
-            "number": "338",
+            "name": "bm338",
             "text": "Devant un infirme, Jésus dit un mot qui signifie: Ouvre-toi. A qui s'adressait-il ? (Marc 7:34)",
             "choice": [
                 {
@@ -7771,7 +7771,7 @@
             "comment": "Il lui toucha les oreilles et la langue et dit: Ephphatha ! Et l'homme se mit à parler."
         },
         {
-            "number": "339",
+            "name": "bm339",
             "text": "Devant un infirme, Jésus dit un mot qui signifie: Ouvre-toi. A qui s'adressait-il ? (Marc 7:34)",
             "choice": [
                 {
@@ -7794,7 +7794,7 @@
             "comment": "Il lui toucha les oreilles et la langue et dit: Ephphatha ! Et l'homme se mit à parler."
         },
         {
-            "number": "340",
+            "name": "bm340",
             "text": "Que dit le centurion au pied de la croix, après la mort de Jésus ?",
             "choice": [
                 {
@@ -7817,7 +7817,7 @@
             "comment": "Voyant comment Jésus était mort, il dit: Assurément cet homme était Fils de Dieu. Mc 15:39"
         },
         {
-            "number": "341",
+            "name": "bm341",
             "text": "Quel âge avait Jésus lorsqu'il discutait avec les docteurs de la Loi dans le Temple ?",
             "choice": [
                 {
@@ -7840,7 +7840,7 @@
             "comment": "Tous étaient frappés de son intelligence et de ses réponses. Luc 2:42"
         },
         {
-            "number": "342",
+            "name": "bm342",
             "text": "Dans la parabole du bon samaritain, d'où venait l'homme qui avait été attaqué ?",
             "choice": [
                 {
@@ -7863,7 +7863,7 @@
             "comment": "Il descendait de Jérusalem à Jéricho. Il tomba au milieu des brigands. Luc 10:30"
         },
         {
-            "number": "343",
+            "name": "bm343",
             "text": "Dans la parabole du bon samaritain, d'où venait l'homme qui avait été attaqué ?",
             "choice": [
                 {
@@ -7886,7 +7886,7 @@
             "comment": "Il descendait de Jérusalem à Jéricho. Il tomba au milieu des brigands. Luc 10:30"
         },
         {
-            "number": "344",
+            "name": "bm344",
             "text": "Qu'acheta Joseph d'Arimathée avant d'aller ensevelir Jésus ? (Marc 15:45)",
             "choice": [
                 {
@@ -7909,7 +7909,7 @@
             "comment": "Il descendit Jésus de la croix, l'enveloppa du linceul et le déposa dans le sépulcre."
         },
         {
-            "number": "345",
+            "name": "bm345",
             "text": "Pourquoi Jésus dit-il qu'il ne faut pas mettre de vin nouveau dans de vieilles outres ?",
             "choice": [
                 {
@@ -7932,7 +7932,7 @@
             "comment": "\" Il faut mettre le vin nouveau dans des outres neuves. \" Marc 2:22"
         },
         {
-            "number": "346",
+            "name": "bm346",
             "text": "Qui poussa Siméon à venir dans le Temple, au moment même où Jésus allait y être présenté ?",
             "choice": [
                 {
@@ -7955,7 +7955,7 @@
             "comment": "\" Cet homme était juste et pieux. Il vint au Temple poussé par l'Esprit. \" Luc 2:25"
         },
         {
-            "number": "347",
+            "name": "bm347",
             "text": "Qui réclama le corps de Jésus à Pilate ?",
             "choice": [
                 {
@@ -7978,7 +7978,7 @@
             "comment": "Membre du conseil, homme bon et juste, il attendait le Royaume de Dieu. Luc 23:50"
         },
         {
-            "number": "348",
+            "name": "bm348",
             "text": "Comment réagissent les disciples vis-à-vis des enfants que l'on présente à Jésus ?",
             "choice": [
                 {
@@ -8001,7 +8001,7 @@
             "comment": "Indigné, Jésus leur dit: Laissez venir à moi les petits enfants... Marc 10:13"
         },
         {
-            "number": "349",
+            "name": "bm349",
             "text": "Quand Nicodème vint-il trouver Jésus ?",
             "choice": [
                 {
@@ -8024,7 +8024,7 @@
             "comment": "Il dit à Jésus: Nous savons que tu es un docteur venu de Dieu. Jn 3:2"
         },
         {
-            "number": "350",
+            "name": "bm350",
             "text": "Que fait Jésus quand les pharisiens viennent lui présenter la femme adultère ? Avec son doigt ....",
             "choice": [
                 {
@@ -8047,7 +8047,7 @@
             "comment": "Pendant qu'ils accusent, en silence Jésus trace du doigt des traits sur le sol. Jn 8:6"
         },
         {
-            "number": "351",
+            "name": "bm351",
             "text": "Que firent beaucoup de disciples de Jésus après son discours sur le pain de vie ?",
             "choice": [
                 {
@@ -8070,7 +8070,7 @@
             "comment": "Dès ce moment, plusieurs de ses disciples n'allèrent plus avec lui. Jn 6:66"
         },
         {
-            "number": "352",
+            "name": "bm352",
             "text": "Au puits de Jacob, après le départ de la Samaritaine, que demandent les disciples à Jésus ?",
             "choice": [
                 {
@@ -8093,7 +8093,7 @@
             "comment": "Mais Jésus répond: J'ai une autre nourriture, que vous ne connaissez pas. Jn 4:31"
         },
         {
-            "number": "353",
+            "name": "bm353",
             "text": "Selon Luc, à quoi étaient occupés Simon et ses compagnons, lorsque Jésus les rencontra au bord du lac ?",
             "choice": [
                 {
@@ -8116,7 +8116,7 @@
             "comment": "Jésus monta dans la barque de Simon et lui demanda d'avancer un peu sur l'eau... Luc 5"
         },
         {
-            "number": "354",
+            "name": "bm354",
             "text": "Pourquoi les soldats ne brisèrent-ils pas les jambes de Jésus, sur la croix ?",
             "choice": [
                 {
@@ -8139,7 +8139,7 @@
             "comment": "Mais un des soldats, d'un coup de lance, le frappa au côté. Jn 19:31"
         },
         {
-            "number": "355",
+            "name": "bm355",
             "text": "De quoi s'occupait Judas, dans le groupe des apôtres ?",
             "choice": [
                 {
@@ -8162,7 +8162,7 @@
             "comment": "Il était même aussi un peu voleur. Jean 12:6 et Jean 13:29"
         },
         {
-            "number": "356",
+            "name": "bm356",
             "text": "Que faisait Jésus chez Simon le lépreux quand une femme vint verser sur lui du parfum ?",
             "choice": [
                 {
@@ -8185,7 +8185,7 @@
             "comment": "C'était un parfum de grand prix. Jésus dit: On se souviendra de ce qu'elle a fait. Mc 14"
         },
         {
-            "number": "357",
+            "name": "bm357",
             "text": "Pourquoi Jésus ne pouvait-il pas puiser de l'eau dans le puits de Jacob, au dire de la Samaritaine ?",
             "choice": [
                 {

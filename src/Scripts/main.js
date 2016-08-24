@@ -7,44 +7,33 @@
 var getData = function (result) {
     var items = [];
 
-    var options = JSON.parse(localStorage.getItem('options'));
+    
+    var slidesToNavigate = organize(result.slide);
 
-    var slidesToBrowse = result.slide;
-
-    if (options.order === "false") {
-        if (options.select === "all") {
-            slidesToBrowse = shuffle(result.slide, result.slide.length);
-        } else {
-            slidesToBrowse = shuffle(result.slide, parseInt(options.select, 10));
-        }
-    }
-
-
-    $.each(slidesToBrowse, function (i, slide) {
+    $.each(slidesToNavigate, function (i, slide) {
 
         items.push("<li>");
 
         // image
         doImg(slide, items);
-
         // text
         doText(slide, items);
-
-        // choice
-        doChoice(slide, items, true);
-
+        // choice (showAnswer to be included in organize with action attribute)
+        slide.showAnswer = true;
+        doChoice(slide, items);
         // free text area
         doFree(slide, items);
-
         // text
         doComment(slide, items);
 
         items.push("<li>");
     });
+    doFinale(items);
     $("<ul/>", {
         "class": "slides",
         html: items.join("")
     }).appendTo("#slider");
+    $('#sendButton').on("click",onSendButtonClick);
     $("title").text(result.title);
 };
 
@@ -64,7 +53,18 @@ var shuffle = function (sourceArray, targetSize) {
 }
 
 
-
+var organize = function(slides) {
+    var options = JSON.parse(localStorage.getItem('options'));
+    var slidesToReturn = slides;
+    if (options.order === "false") {
+        if (options.select === "all") {
+            slidesToReturn = shuffle(slides, slides.length);
+        } else {
+            slidesToReturn = shuffle(slides, parseInt(options.select, 10));
+        }
+    }
+    return slidesToReturn;
+}
 
 var doImg = function (slide, items) {
     if (typeof slide.img !== "undefined") {
@@ -84,13 +84,13 @@ var doText = function (slide, items) {
     }
 }
 
-var doChoice = function (slide, items, showAnswer) {
+var doChoice = function (slide, items) {
     var options = JSON.parse(localStorage.getItem('options'));
 
     if (typeof slide.choice !== "undefined") {
         items.push("<form>");
         $.each(slide.choice, function (j, ch) {
-            if (options.mode === "learning" || showAnswer) {
+            if (options.mode === "learning" || slide.showAnswer) {
                 if (ch.answer === "true") {
                     items.push("<p><input type='checkbox' checked='true'/>&nbsp;");
                 } else {
@@ -125,6 +125,15 @@ var doComment = function (slide, items) {
     }
 }
 
+var doFinale = function (items) {
+    var options = JSON.parse(localStorage.getItem('options'));
+    if (options.mode !== "reading") {
+        items.push("<li>");
+        items.push("<form><p><button id='sendButton' value='Envoyer' /></p></form>");
+        items.push("</li>");
+    }
+}
+
 var storeOptions = function () {
     var options = {};
     options.mode = getQueryVariable("mode");
@@ -156,6 +165,10 @@ var getQueryVariable = function (variable) {
     }
     return "undefined";
 
+}
+
+var onSendButtonClick = function(event) {
+    alert("click event");
 }
 
 var navigate = function () {
