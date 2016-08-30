@@ -88,33 +88,33 @@ var doChoice = function (slide, items) {
     var options = JSON.parse(localStorage.getItem('options'));
 
     if (typeof slide.choice !== "undefined") {
-        items.push("<form>");
+        items.push("<div class='form-group'>");
         $.each(slide.choice, function (j, ch) {
             if (options.mode === "learning" || slide.showAnswer) {
                 if (ch.answer === "true") {
-                    items.push("<p><input type='checkbox' checked='true'/>&nbsp;");
+                    items.push("<p><input type='checkbox' checked='true' class='form-control' />&nbsp;");
                 } else {
-                    items.push("<p><input type='checkbox'/>&nbsp;");
+                    items.push("<p><input type='checkbox' class='form-control' />&nbsp;");
                 }
             } else {
-                items.push("<p><input type='checkbox'/>&nbsp;");
+                items.push("<p><input type='checkbox' class='form-control'/>&nbsp;");
             }
             items.push(ch.text);
             items.push("</p>")
         });
-        items.push("</form>");
+        items.push("</div>");
     }
 }
 
 var doFree = function (slide, items) {
     if (typeof slide.free !== "undefined") {
-        items.push("<form>");
+        items.push("<div class='form-group'>");
         $.each(slide.free, function (j, f) {
             items.push("<p>");
             items.push(f.text);
-            items.push("</p><p><textarea rows='3' cols='80' /></p>");
+            items.push("</p><p><textarea class='form-control input-md-12' rows='4' cols='80' /></p>");
         });
-        items.push("</form>");
+        items.push("</div>");
     }
 }
 
@@ -129,7 +129,7 @@ var doFinale = function (items) {
     var options = JSON.parse(localStorage.getItem('options'));
     if (options.mode !== "reading") {
         items.push("<li>");
-        items.push("<form><p><button id='sendButton' value='Envoyer' /></p></form>");
+        items.push("<div class='form-group'><p><button type='button' class='btn btn-primary'><span class='glyphicon' aria-hidden='true'></span>Send</button></p></div>");
         items.push("</li>");
     }
 }
